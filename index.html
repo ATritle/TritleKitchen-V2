@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#101214">
+  <meta name="description" content="The Tritle Kitchen — recipes, weekly meal planning, and grocery lists.">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="assets/favicon.png">
+  <title>The Tritle Kitchen</title>
+  <link rel="stylesheet" href="src/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#home" aria-label="The Tritle Kitchen home">
+      <img src="assets/tritlekitchenlogo.png" alt="The Tritle Kitchen">
+    </a>
+    <nav class="nav" aria-label="Primary">
+      <a href="#home">Recipes</a>
+      <a href="#planner">Meal Planner</a>
+    </nav>
+  </header>
+
+  <main id="app" tabindex="-1"></main>
+
+  <footer class="site-footer">Built with ❤️ by A &amp; A</footer>
+  <div id="modal-root"></div>
+  <script type="module" src="src/main.js"></script>
+</body>
+</html>
