@@ -1,1957 +1,2253 @@
 {
-    "Breads": [
+  "Breads": [
+    {
+      "name": "⭐ Banana Bread - Grandma Peggy",
+      "url": "recipes/banana-bread-grandma-peggy.html",
+      "ingredients": [
         {
-            "name": "⭐ Banana Bread - Grandma Peggy",
-            "url": "recipes/banana-bread-grandma-peggy.html",
-            "ingredients": [
-                {
-                    "amount": 0.75,
-                    "unit": "cup",
-                    "item": "butter",
-                    "note": "softened"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "sugar"
-                },
-                {
-                    "amount": 3,
-                    "item": "-4 blackened bananas",
-                    "note": "mashed"
-                },
-                {
-                    "amount": 2,
-                    "item": "eggs",
-                    "note": "room temp"
-                },
-                {
-                    "amount": 1,
-                    "unit": "tsp",
-                    "item": "vanilla extract"
-                },
-                {
-                    "amount": 2,
-                    "unit": "cup",
-                    "item": "flour",
-                    "note": "sifted"
-                },
-                {
-                    "amount": 1,
-                    "unit": "tsp",
-                    "item": "baking soda"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "tsp",
-                    "item": "salt"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "buttermilk or sour milk",
-                    "note": "(1/2 cup milk and 1 TBSP vinegar)"
-                },
-                {
-                    "item": "Optional:"
-                },
-                {
-                    "item": "chocolate chips"
-                },
-                {
-                    "item": "walnuts"
-                }
-            ]
+          "amount": 0.75,
+          "unit": "cup",
+          "item": "butter",
+          "note": "softened"
         },
         {
-            "name": "Banana Bread Bites",
-            "url": "recipes/banana-bread-bites.html",
-            "ingredients": [
-                {
-                    "amount": 2,
-                    "item": "ripe bananas",
-                    "note": "mashed"
-                },
-                {
-                    "amount": 1,
-                    "unit": "tsp",
-                    "item": "baking soda"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "tsp",
-                    "item": "baking powder"
-                },
-                {
-                    "item": "pinch of salt"
-                },
-                {
-                    "amount": 2,
-                    "unit": "TBSP",
-                    "item": "milled flaxseed"
-                },
-                {
-                    "amount": 1,
-                    "unit": "tsp",
-                    "item": "vanilla extract"
-                },
-                {
-                    "amount": 2,
-                    "unit": "TBSP",
-                    "item": "almond butter"
-                },
-                {
-                    "amount": 2,
-                    "unit": "TBSP",
-                    "item": "agave syrup, maple syrup or honey"
-                },
-                {
-                    "amount": 2,
-                    "unit": "TBSP",
-                    "item": "avocado oil or extra-virgin olive oil"
-                },
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "flour",
-                    "note": "sifted"
-                },
-                {
-                    "amount": 0.75,
-                    "unit": "cup",
-                    "item": "rolled quick oats"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "mini chocolate chips"
-                }
-            ]
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "sugar"
         },
         {
-            "name": "Zucchini Bread",
-            "url": "recipes/zucchini-bread.html",
-            "ingredients": [
-                {
-                    "amount": 3,
-                    "unit": "cup",
-                    "item": "flour",
-                    "note": "sifted"
-                },
-                {
-                    "amount": 1,
-                    "unit": "tsp",
-                    "item": "salt"
-                },
-                {
-                    "amount": 1,
-                    "unit": "tsp",
-                    "item": "baking soda"
-                },
-                {
-                    "amount": 0.25,
-                    "unit": "tsp",
-                    "item": "baking powder"
-                },
-                {
-                    "amount": 3,
-                    "item": "LG eggs",
-                    "note": "room temperature and beaten"
-                },
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "sugar"
-                },
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "brown sugar",
-                    "note": "packed"
-                },
-                {
-                    "amount": 1,
-                    "unit": "TBSP",
-                    "item": "vanilla extract"
-                },
-                {
-                    "amount": 1,
-                    "unit": "TBSP",
-                    "item": "ground cinnamon"
-                },
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "unsweetened applesauce"
-                },
-                {
-                    "amount": 2.5,
-                    "unit": "cup",
-                    "item": "zucchini",
-                    "note": "shredded and squeezed"
-                },
-                {
-                    "item": "Optional: chocolate chips or chopped nuts"
-                }
-            ]
+          "amount": 3,
+          "item": "-4 blackened bananas",
+          "note": "mashed"
+        },
+        {
+          "amount": 2,
+          "item": "eggs",
+          "note": "room temp"
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "vanilla extract"
+        },
+        {
+          "amount": 2,
+          "unit": "cup",
+          "item": "flour",
+          "note": "sifted"
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "baking soda"
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "salt"
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "buttermilk or sour milk",
+          "note": "(1/2 cup milk and 1 TBSP vinegar)"
+        },
+        {
+          "item": "Optional:"
+        },
+        {
+          "item": "chocolate chips"
+        },
+        {
+          "item": "walnuts"
         }
-    ],
-    "Dips": [
+      ],
+      "subtitle": "Grandma Peggy",
+      "directions": [
+        "Preheat the oven to 350°F.",
+        "In a large bowl, cream together the butter and sugar until light and fluffy.",
+        "Add the bananas, eggs, and vanilla. Mix just until combined—do not overmix.",
+        "In a separate bowl, whisk together the flour, baking soda, and salt.",
+        "Gradually add the dry ingredients to the banana mixture, alternating with the buttermilk, and mix until just combined.",
+        "Fold in chocolate chips or walnuts, if desired.",
+        "Pour the batter into a greased loaf pan and bake for 1 to 1½ hours, or until a toothpick inserted in the center comes out clean.",
+        "If dividing the batter between two pans, bake for about 1 hour."
+      ]
+    },
+    {
+      "name": "Banana Bread Bites",
+      "url": "recipes/banana-bread-bites.html",
+      "ingredients": [
         {
-            "name": "Bacon Dip",
-            "url": "recipes/bacon-dip.html",
-            "ingredients": [
-                {
-                    "amount": 8,
-                    "unit": "slice",
-                    "item": "bacon",
-                    "note": "cooked crispy & crumbled"
-                },
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "mayo"
-                },
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "sour cream"
-                },
-                {
-                    "amount": 4,
-                    "item": "dashes hot sauce"
-                },
-                {
-                    "amount": 4,
-                    "item": "green onions",
-                    "note": "chopped"
-                },
-                {
-                    "amount": 4,
-                    "item": "TSBP fresh parsley",
-                    "note": "finely chopped"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "tsp",
-                    "item": "mustard powder"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "tsp",
-                    "item": "garlic powder"
-                },
-                {
-                    "amount": 2,
-                    "unit": "cup",
-                    "item": "shredded cheddar cheese"
-                }
-            ]
+          "amount": 2,
+          "item": "ripe bananas",
+          "note": "mashed"
         },
         {
-            "name": "Bagel Dip",
-            "url": "recipes/bagel-dip.html",
-            "ingredients": [
-                {
-                    "amount": 3,
-                    "unit": "slice",
-                    "item": "dried beef",
-                    "note": "chopped"
-                },
-                {
-                    "amount": 2,
-                    "unit": "cup",
-                    "item": "mayo"
-                },
-                {
-                    "amount": 16,
-                    "unit": "oz",
-                    "item": "sour cream"
-                },
-                {
-                    "amount": 2,
-                    "unit": "tsp",
-                    "item": "dried dill"
-                },
-                {
-                    "amount": 2,
-                    "unit": "tsp",
-                    "item": "dried parsley"
-                },
-                {
-                    "amount": 4,
-                    "item": "green onions",
-                    "note": "chopped"
-                }
-            ]
+          "amount": 1,
+          "unit": "tsp",
+          "item": "baking soda"
         },
         {
-            "name": "Buffalo Chicken Dip",
-            "url": "recipes/buffalo-chicken-dip.html",
-            "ingredients": [
-                {
-                    "amount": 2,
-                    "item": "",
-                    "note": "12.5 oz canned chicken"
-                },
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "ranch dressing"
-                },
-                {
-                    "amount": 0.75,
-                    "unit": "cup",
-                    "item": "buffalo sauce"
-                },
-                {
-                    "amount": 16,
-                    "unit": "oz",
-                    "item": "cream cheese"
-                },
-                {
-                    "amount": 8,
-                    "unit": "oz",
-                    "item": "shredded cheddar cheese"
-                }
-            ]
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "baking powder"
         },
         {
-            "name": "Corn Dip",
-            "url": "recipes/corn-dip.html",
-            "ingredients": [
-                {
-                    "amount": 4,
-                    "item": "",
-                    "note": "11 oz white shoepeg corn - drained"
-                },
-                {
-                    "amount": 11,
-                    "unit": "oz",
-                    "item": "jar jalapenos",
-                    "note": "chopped reserve some juice"
-                },
-                {
-                    "amount": 1,
-                    "item": "small red onion",
-                    "note": "diced"
-                },
-                {
-                    "amount": 2,
-                    "unit": "cup",
-                    "item": "mayo"
-                },
-                {
-                    "amount": 2,
-                    "unit": "cup",
-                    "item": "shredded cheddar cheese"
-                },
-                {
-                    "item": "salt & pepper to taste"
-                },
-                {
-                    "item": "dash of garlic powder"
-                }
-            ]
+          "item": "pinch of salt"
         },
         {
-            "name": "Dunkaroo Dip",
-            "url": "recipes/dunkaroo-dip.html",
-            "ingredients": [
-                {
-                    "amount": 1,
-                    "item": "box Funfetti cake mix"
-                },
-                {
-                    "amount": 12,
-                    "unit": "oz",
-                    "item": "vanilla yogurt"
-                },
-                {
-                    "amount": 8,
-                    "unit": "oz",
-                    "item": "Cool Whip"
-                },
-                {
-                    "item": "sprinkles"
-                }
-            ]
+          "amount": 2,
+          "unit": "TBSP",
+          "item": "milled flaxseed"
         },
         {
-            "name": "Jalapeno Corn Dip",
-            "url": "recipes/jalapeno-corn-dip.html",
-            "ingredients": [
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "sour cream"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "mayo"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "salsa"
-                },
-                {
-                    "amount": 0.25,
-                    "unit": "tsp",
-                    "item": "ground black pepper"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "tsp",
-                    "item": "garlic powder"
-                },
-                {
-                    "amount": 14.5,
-                    "unit": "oz",
-                    "item": "can sweet corn",
-                    "note": "drained"
-                },
-                {
-                    "amount": 2,
-                    "item": "jalapenos",
-                    "note": "deseeded and diced"
-                },
-                {
-                    "amount": 2,
-                    "unit": "cup",
-                    "item": "shredded sharp cheddar cheese"
-                }
-            ]
+          "amount": 1,
+          "unit": "tsp",
+          "item": "vanilla extract"
         },
         {
-            "name": "Jalapeño Popper Dip",
-            "url": "recipes/jalapeno-popper-dip.html",
-            "ingredients": [
-                {
-                    "amount": 16,
-                    "unit": "oz",
-                    "item": "cream cheese",
-                    "note": "softened"
-                },
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "mayo"
-                },
-                {
-                    "amount": 4,
-                    "unit": "oz",
-                    "item": "can green chilies",
-                    "note": "chopped"
-                },
-                {
-                    "amount": 2,
-                    "unit": "oz",
-                    "item": "can jalapeños",
-                    "note": "drained and diced"
-                },
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "Parmesan cheese",
-                    "note": "grated"
-                }
-            ]
+          "amount": 2,
+          "unit": "TBSP",
+          "item": "almond butter"
         },
         {
-            "name": "Mexican Corn Dip",
-            "url": "recipes/mexican-corn-dip.html",
-            "ingredients": [
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "mayo"
-                },
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "sour cream"
-                },
-                {
-                    "amount": 2,
-                    "item": "",
-                    "note": "11oz or 15.25oz cans Mexican or Southwest sweet corn - drained"
-                },
-                {
-                    "amount": 10,
-                    "unit": "oz",
-                    "item": "can Rotel"
-                },
-                {
-                    "amount": 2,
-                    "unit": "cup",
-                    "item": "shredded cheddar cheese"
-                },
-                {
-                    "amount": 8,
-                    "item": "green onions",
-                    "note": "sliced"
-                },
-                {
-                    "amount": 1,
-                    "unit": "bunch",
-                    "item": "of cilantro",
-                    "note": "chopped"
-                }
-            ]
+          "amount": 2,
+          "unit": "TBSP",
+          "item": "agave syrup, maple syrup or honey"
         },
         {
-            "name": "Pickle Wrap Dip",
-            "url": "recipes/pickle-wrap-dip.html",
-            "ingredients": [
-                {
-                    "amount": 1,
-                    "unit": "LB",
-                    "item": "dried beef",
-                    "note": "diced"
-                },
-                {
-                    "amount": 2,
-                    "unit": "cup",
-                    "item": "sour cream"
-                },
-                {
-                    "amount": 16,
-                    "unit": "oz",
-                    "item": "cream cheese",
-                    "note": "softened"
-                },
-                {
-                    "amount": 48,
-                    "unit": "oz",
-                    "item": "jar pickles",
-                    "note": "diced, reserve some juice"
-                },
-                {
-                    "item": "crackers or chips",
-                    "note": "for dipping"
-                }
-            ]
+          "amount": 2,
+          "unit": "TBSP",
+          "item": "avocado oil or extra-virgin olive oil"
         },
         {
-            "name": "Pumpkin Harvest Dip",
-            "url": "recipes/pumpkin-harvest-dip.html",
-            "ingredients": [
-                {
-                    "amount": 8,
-                    "unit": "oz",
-                    "item": "cream cheese",
-                    "note": "softened"
-                },
-                {
-                    "amount": 2,
-                    "unit": "cup",
-                    "item": "powdered sugar"
-                },
-                {
-                    "amount": 15,
-                    "unit": "oz",
-                    "item": "can pumpkin puree"
-                },
-                {
-                    "amount": 3,
-                    "unit": "TBSP",
-                    "item": "pumpkin pie spice"
-                },
-                {
-                    "amount": 1,
-                    "unit": "tsp",
-                    "item": "vanilla extract"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "tsp",
-                    "item": "ground ginger"
-                },
-                {
-                    "item": "apples, graham crackers, or ginger snaps"
-                }
-            ]
+          "amount": 1,
+          "unit": "cup",
+          "item": "flour",
+          "note": "sifted"
         },
         {
-            "name": "Pumpkin Pie Dip",
-            "url": "recipes/pumpkin-pie-dip.html",
-            "ingredients": [
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "cottage cheese"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "pumpkin puree"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "tsp",
-                    "item": "vanilla extract"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "tsp",
-                    "item": "pumpkin pie spice"
-                },
-                {
-                    "amount": 1,
-                    "unit": "TBSP",
-                    "item": "maple syrup"
-                },
-                {
-                    "item": "pinch of salt",
-                    "note": "optional"
-                }
-            ]
+          "amount": 0.75,
+          "unit": "cup",
+          "item": "rolled quick oats"
         },
         {
-            "name": "⭐ White Queso",
-            "url": "recipes/white-queso.html",
-            "ingredients": [
-                {
-                    "amount": 1,
-                    "unit": "LB",
-                    "item": "white American cheese"
-                },
-                {
-                    "amount": 5,
-                    "unit": "oz",
-                    "item": "evaporated milk"
-                },
-                {
-                    "amount": 1,
-                    "unit": "TBSP",
-                    "item": "unsalted butter"
-                },
-                {
-                    "amount": 4,
-                    "unit": "oz",
-                    "item": "green chiles"
-                },
-                {
-                    "amount": 0.25,
-                    "unit": "tsp",
-                    "item": "cumin"
-                },
-                {
-                    "amount": 0.25,
-                    "unit": "tsp",
-                    "item": "garlic powder"
-                },
-                {
-                    "amount": 0.125,
-                    "unit": "tsp",
-                    "item": "paprika"
-                },
-                {
-                    "amount": 0.125,
-                    "unit": "tsp",
-                    "item": "cayenne pepper"
-                }
-            ]
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "mini chocolate chips"
         }
-    ],
-    "Dressings": [
+      ],
+      "subtitle": "minimalistbaker.com",
+      "directions": [
+        "Preheat the oven to 375°F.",
+        "In a large bowl, mash the bananas. Add the baking soda, baking powder, salt, flaxseed, vanilla, almond butter, agave syrup, and avocado oil. Mix until well combined.",
+        "In a separate bowl, whisk together the flour and oats.",
+        "Add the dry ingredients to the banana mixture and stir until just combined. Fold in the chocolate chips.",
+        "Chill the dough in the refrigerator (or freezer) for 20 minutes.",
+        "Using a mini cookie scoop, portion the dough onto a lined baking sheet.",
+        "Bake for 8 minutes. Remove from the oven, gently flatten the cookies, then return to the oven and bake for an additional 2 minutes."
+      ]
+    },
+    {
+      "name": "Zucchini Bread",
+      "url": "recipes/zucchini-bread.html",
+      "ingredients": [
         {
-            "name": "Caesar Dressing",
-            "url": "recipes/caesar-dressing.html",
-            "ingredients": [
-                {
-                    "amount": 2,
-                    "unit": "clove",
-                    "item": "garlic",
-                    "note": "minced"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "tsp",
-                    "item": "salt"
-                },
-                {
-                    "amount": 1,
-                    "unit": "TBSP",
-                    "item": "mayo"
-                },
-                {
-                    "amount": 2,
-                    "unit": "TBSP",
-                    "item": "fresh lemon juice"
-                },
-                {
-                    "amount": 1,
-                    "unit": "tsp",
-                    "item": "Worcestershire sauce"
-                },
-                {
-                    "amount": 3,
-                    "item": "-4 anchovy fillets"
-                },
-                {
-                    "item": "salt & pepper",
-                    "note": "to taste"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "extra-virgin olive oil"
-                },
-                {
-                    "amount": 0.25,
-                    "unit": "cup",
-                    "item": "shredded Parmesan cheese"
-                }
-            ]
+          "amount": 3,
+          "unit": "cup",
+          "item": "flour",
+          "note": "sifted"
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "salt"
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "baking soda"
+        },
+        {
+          "amount": 0.25,
+          "unit": "tsp",
+          "item": "baking powder"
+        },
+        {
+          "amount": 3,
+          "item": "LG eggs",
+          "note": "room temperature and beaten"
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "sugar"
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "brown sugar",
+          "note": "packed"
+        },
+        {
+          "amount": 1,
+          "unit": "TBSP",
+          "item": "vanilla extract"
+        },
+        {
+          "amount": 1,
+          "unit": "TBSP",
+          "item": "ground cinnamon"
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "unsweetened applesauce"
+        },
+        {
+          "amount": 2.5,
+          "unit": "cup",
+          "item": "zucchini",
+          "note": "shredded and squeezed"
+        },
+        {
+          "item": "Optional: chocolate chips or chopped nuts"
         }
-    ],
-    "Misc.": [
+      ],
+      "subtitle": "Rose Smith",
+      "directions": [
+        "Preheat the oven to 350°F and grease two bread pans.",
+        "In a large bowl, sift together the flour, salt, baking soda, and baking powder. Mix well.",
+        "In a separate large bowl, combine the eggs, sugar, brown sugar, vanilla, cinnamon, and applesauce. Mix until well combined.",
+        "Add the wet ingredients to the flour mixture and mix until just combined.",
+        "Lightly squeeze excess moisture from the shredded zucchini and fold it into the batter.",
+        "Optional: Sprinkle chocolate chips or chopped nuts over the batter before baking.",
+        "Pour the batter evenly into the prepared bread pans.",
+        "Bake for about 1 hour, or until a toothpick inserted into the center comes out clean."
+      ]
+    }
+  ],
+  "Dips": [
+    {
+      "name": "Bacon Dip",
+      "url": "recipes/bacon-dip.html",
+      "ingredients": [
         {
-            "name": "Almond Flour",
-            "url": "recipes/almond-flour.html",
-            "ingredients": [
-                {
-                    "item": "pulp from almond milk"
-                }
-            ]
+          "amount": 8,
+          "unit": "slice",
+          "item": "bacon",
+          "note": "cooked crispy & crumbled"
         },
         {
-            "name": "Almond Milk",
-            "url": "recipes/almond-milk.html",
-            "ingredients": [
-                {
-                    "amount": 3,
-                    "unit": "cup",
-                    "item": "raw organic almonds"
-                },
-                {
-                    "item": "filtered water"
-                },
-                {
-                    "amount": 3,
-                    "unit": "TBSP",
-                    "item": "stevia"
-                },
-                {
-                    "amount": 1,
-                    "unit": "TBSP",
-                    "item": "white Dominican vanilla"
-                },
-                {
-                    "item": "Optional:"
-                },
-                {
-                    "item": "vanilla bean paste"
-                },
-                {
-                    "item": "honey"
-                },
-                {
-                    "item": "cinnamon"
-                },
-                {
-                    "item": "cardamom"
-                },
-                {
-                    "item": "cocoa"
-                }
-            ]
+          "amount": 1,
+          "unit": "cup",
+          "item": "mayo"
         },
         {
-            "name": "Bourbon Butter",
-            "url": "recipes/bourbon-butter.html",
-            "ingredients": [
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "unsalted butter",
-                    "note": "room temp"
-                },
-                {
-                    "amount": 2,
-                    "unit": "clove",
-                    "item": "garlic",
-                    "note": "finely minced"
-                },
-                {
-                    "amount": 2,
-                    "unit": "TBSP",
-                    "item": "Maker's Mark or bourbon of choice"
-                },
-                {
-                    "amount": 1,
-                    "unit": "TBSP",
-                    "item": "green onion",
-                    "note": "finely chopped"
-                },
-                {
-                    "amount": 1,
-                    "unit": "TBSP",
-                    "item": "parsley",
-                    "note": "chopped"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "tsp",
-                    "item": "salt"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "tsp",
-                    "item": "pepper"
-                }
-            ]
+          "amount": 1,
+          "unit": "cup",
+          "item": "sour cream"
         },
         {
-            "name": "Caramel Popcorn Balls",
-            "url": "recipes/caramel-popcorn-balls.html",
-            "ingredients": [
-                {
-                    "amount": 14,
-                    "unit": "oz",
-                    "item": "can sweetened condensed milk"
-                },
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "brown sugar",
-                    "note": "packed"
-                },
-                {
-                    "amount": 0.75,
-                    "unit": "cup",
-                    "item": "light corn syrup"
-                },
-                {
-                    "amount": 0.125,
-                    "unit": "tsp",
-                    "item": "salt"
-                },
-                {
-                    "amount": 0.25,
-                    "unit": "cup",
-                    "item": "butter"
-                },
-                {
-                    "amount": 1,
-                    "unit": "tsp",
-                    "item": "vanilla extract"
-                },
-                {
-                    "amount": 16,
-                    "unit": "cup",
-                    "item": "popped popcorn"
-                },
-                {
-                    "item": "Optional: M&M's, nuts, sea salt, or melted chocolate",
-                    "note": "drizzle"
-                }
-            ]
+          "amount": 4,
+          "item": "dashes hot sauce"
         },
         {
-            "name": "Cinnamon Butter",
-            "url": "recipes/cinnamon-butter.html",
-            "ingredients": [
-                {
-                    "amount": 1,
-                    "unit": "stick",
-                    "item": "unsalted butter",
-                    "note": "room temperature"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "powdered sugar"
-                },
-                {
-                    "amount": 1.5,
-                    "unit": "TBSP",
-                    "item": "honey"
-                },
-                {
-                    "amount": 0.75,
-                    "unit": "tsp",
-                    "item": "ground cinnamon"
-                }
-            ]
+          "amount": 4,
+          "item": "green onions",
+          "note": "chopped"
         },
         {
-            "name": "Dry Brine",
-            "url": "recipes/dry-brine.html",
-            "ingredients": [
-                {
-                    "amount": 0.3333333333333333,
-                    "unit": "cup",
-                    "item": "kosher salt"
-                },
-                {
-                    "amount": 1,
-                    "unit": "TBSP",
-                    "item": "light brown sugar"
-                },
-                {
-                    "amount": 1,
-                    "unit": "tsp",
-                    "item": "ground black pepper"
-                },
-                {
-                    "amount": 0.25,
-                    "unit": "cup",
-                    "item": "unsalted butter",
-                    "note": "room temp"
-                },
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "water"
-                },
-                {
-                    "amount": 1,
-                    "item": "whole turkey or chicken"
-                }
-            ]
+          "amount": 4,
+          "item": "TSBP fresh parsley",
+          "note": "finely chopped"
         },
         {
-            "name": "⭐ Protein Balls",
-            "url": "recipes/protein-balls.html",
-            "ingredients": [
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "quick oats"
-                },
-                {
-                    "amount": 1,
-                    "item": "scoop protein powder"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "peanut butter"
-                },
-                {
-                    "amount": 0.25,
-                    "unit": "cup",
-                    "item": "honey"
-                },
-                {
-                    "amount": 0.25,
-                    "unit": "cup",
-                    "item": "mini chocolate chips or mini M&M's"
-                }
-            ]
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "mustard powder"
         },
         {
-            "name": "Puppy Chow",
-            "url": "recipes/puppy-chow.html",
-            "ingredients": [
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "creamy peanut butter"
-                },
-                {
-                    "amount": 12,
-                    "unit": "oz",
-                    "item": "chocolate chips"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "unsalted butter"
-                },
-                {
-                    "amount": 10,
-                    "unit": "oz",
-                    "item": "box Crispix or Rice Chex"
-                },
-                {
-                    "amount": 1,
-                    "unit": "LB",
-                    "item": "powdered sugar"
-                }
-            ]
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "garlic powder"
         },
         {
-            "name": "Taco Seasoning",
-            "url": "recipes/taco-seasoning.html",
-            "ingredients": [
-                {
-                    "amount": 4,
-                    "unit": "TBSP",
-                    "item": "chili powder"
-                },
-                {
-                    "amount": 1,
-                    "unit": "tsp",
-                    "item": "garlic powder"
-                },
-                {
-                    "amount": 1,
-                    "unit": "tsp",
-                    "item": "onion powder"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "tsp",
-                    "item": "red pepper flakes",
-                    "note": "optional"
-                },
-                {
-                    "amount": 1,
-                    "unit": "tsp",
-                    "item": "dried oregano"
-                },
-                {
-                    "amount": 1,
-                    "unit": "tsp",
-                    "item": "paprika"
-                },
-                {
-                    "amount": 4,
-                    "unit": "tsp",
-                    "item": "cumin"
-                },
-                {
-                    "amount": 4,
-                    "unit": "tsp",
-                    "item": "salt"
-                },
-                {
-                    "amount": 4,
-                    "unit": "tsp",
-                    "item": "black pepper"
-                }
-            ]
-        },
-        {
-            "name": "Turkey Tender Marinade",
-            "url": "recipes/turkey-tender-marinade.html",
-            "ingredients": [
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "liquid aminos"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "cooking sherry"
-                },
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "olive or avocado oil"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "lemon juice"
-                },
-                {
-                    "amount": 0.25,
-                    "unit": "tsp",
-                    "item": "black pepper"
-                },
-                {
-                    "amount": 0.125,
-                    "unit": "tsp",
-                    "item": "garlic powder"
-                },
-                {
-                    "amount": 1,
-                    "item": "small onion",
-                    "note": "diced"
-                },
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "Sierra Mist, 7UP or Sprite"
-                },
-                {
-                    "amount": 2,
-                    "item": "-3 LBS turkey tendererloins"
-                }
-            ]
+          "amount": 2,
+          "unit": "cup",
+          "item": "shredded cheddar cheese"
         }
-    ],
-    "Sauces": [
+      ],
+      "directions": [
+        "In a large bowl, combine the bacon, mayonnaise, sour cream, hot sauce, green onion, parsley, mustard powder, and cheddar cheese. Mix until well blended.",
+        "Cover and refrigerate for 1–2 hours before serving to allow the flavors to develop."
+      ]
+    },
+    {
+      "name": "Bagel Dip",
+      "url": "recipes/bagel-dip.html",
+      "ingredients": [
         {
-            "name": "Cajun Dipping Sauce",
-            "url": "recipes/cajun-dipping-sauce.html",
-            "ingredients": [
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "mayo"
-                },
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "sour cream"
-                },
-                {
-                    "amount": 1.5,
-                    "unit": "TBSP",
-                    "item": "Cajun seasoning"
-                }
-            ]
+          "amount": 3,
+          "unit": "slice",
+          "item": "dried beef",
+          "note": "chopped"
         },
         {
-            "name": "Fish Taco Sauce",
-            "url": "recipes/fish-taco-sauce.html",
-            "ingredients": [
-                {
-                    "amount": 3,
-                    "unit": "TBSP",
-                    "item": "sour cream"
-                },
-                {
-                    "amount": 0.25,
-                    "unit": "cup",
-                    "item": "mayo"
-                },
-                {
-                    "amount": 0.5,
-                    "item": "fresh lime",
-                    "note": "juiced"
-                },
-                {
-                    "amount": 1,
-                    "unit": "tsp",
-                    "item": "garlic powder"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "tsp",
-                    "item": "chili powder"
-                }
-            ]
+          "amount": 2,
+          "unit": "cup",
+          "item": "mayo"
         },
         {
-            "name": "⭐ Honey Mustard",
-            "url": "recipes/honey-mustard.html",
-            "ingredients": [
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "mayo"
-                },
-                {
-                    "amount": 1,
-                    "unit": "TBSP",
-                    "item": "Dijon mustard"
-                },
-                {
-                    "amount": 1,
-                    "unit": "TBSP",
-                    "item": "yellow mustard"
-                },
-                {
-                    "amount": 3,
-                    "unit": "TBSP",
-                    "item": "honey"
-                },
-                {
-                    "amount": 1,
-                    "unit": "tsp",
-                    "item": "apple cider vinegar"
-                },
-                {
-                    "amount": 0.125,
-                    "unit": "tsp",
-                    "item": "garlic powder"
-                },
-                {
-                    "amount": 0.125,
-                    "unit": "tsp",
-                    "item": "paprika"
-                },
-                {
-                    "amount": 0.125,
-                    "unit": "tsp",
-                    "item": "salt"
-                },
-                {
-                    "item": "dash black pepper"
-                }
-            ]
+          "amount": 16,
+          "unit": "oz",
+          "item": "sour cream"
         },
         {
-            "name": "Margherita Pizza Sauce",
-            "url": "recipes/margherita-pizza-sauce.html",
-            "ingredients": [
-                {
-                    "amount": 1,
-                    "unit": "TBSP",
-                    "item": "extra-virgin olive oil"
-                },
-                {
-                    "amount": 1,
-                    "item": "small onion",
-                    "note": "minced"
-                },
-                {
-                    "amount": 1,
-                    "unit": "tsp",
-                    "item": "fresh parsley",
-                    "note": "chopped"
-                },
-                {
-                    "item": "salt & pepper",
-                    "note": "to taste"
-                },
-                {
-                    "amount": 3,
-                    "item": "-4 cloves garlic",
-                    "note": "minced"
-                },
-                {
-                    "amount": 0.25,
-                    "unit": "tsp",
-                    "item": "dried oregano"
-                },
-                {
-                    "amount": 2,
-                    "item": "",
-                    "note": "15 oz cans whole peeled tomatoes"
-                }
-            ]
+          "amount": 2,
+          "unit": "tsp",
+          "item": "dried dill"
         },
         {
-            "name": "Sweet and Sour Sauce",
-            "url": "recipes/sweet-and-sour-sauce.html",
-            "ingredients": [
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "pineapple juice"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "brown sugar",
-                    "note": "packed"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "rice vinegar"
-                },
-                {
-                    "amount": 0.25,
-                    "unit": "cup",
-                    "item": "ketchup"
-                },
-                {
-                    "amount": 1,
-                    "unit": "TBSP",
-                    "item": "liquid aminos or soy sauce"
-                },
-                {
-                    "amount": 1,
-                    "unit": "TBSP",
-                    "item": "cornstarch"
-                },
-                {
-                    "amount": 2,
-                    "unit": "TBSP",
-                    "item": "water"
-                },
-                {
-                    "item": "Optional: 3 drops red food coloring"
-                }
-            ]
+          "amount": 2,
+          "unit": "tsp",
+          "item": "dried parsley"
         },
         {
-            "name": "Tzatziki Sauce",
-            "url": "recipes/tzatziki-sauce.html",
-            "ingredients": [
-                {
-                    "amount": 1.5,
-                    "unit": "cup",
-                    "item": "sour cream"
-                },
-                {
-                    "amount": 1,
-                    "item": "medium English cucumber",
-                    "note": "finely shredded and squeezed"
-                },
-                {
-                    "amount": 3,
-                    "unit": "clove",
-                    "item": "garlic",
-                    "note": "finely minced"
-                },
-                {
-                    "amount": 2,
-                    "unit": "TBSP",
-                    "item": "lemon juice"
-                },
-                {
-                    "amount": 1,
-                    "unit": "TBSP",
-                    "item": "red wine vinegar"
-                },
-                {
-                    "amount": 1,
-                    "unit": "TBSP",
-                    "item": "fresh dill",
-                    "note": "finely chopped"
-                },
-                {
-                    "amount": 2,
-                    "unit": "tsp",
-                    "item": "salt"
-                }
-            ]
+          "amount": 4,
+          "item": "green onions",
+          "note": "chopped"
         }
-    ],
-    "Sides": [
+      ],
+      "subtitle": "Renae Loy",
+      "directions": [
+        "In a large bowl, combine the mayonnaise, sour cream, dill, parsley, and green onion. Mix until well blended, then fold in the dried beef until evenly incorporated."
+      ]
+    },
+    {
+      "name": "Buffalo Chicken Dip",
+      "url": "recipes/buffalo-chicken-dip.html",
+      "ingredients": [
         {
-            "name": "Applesauce",
-            "url": "recipes/applesauce-grandma-peggy.html",
-            "ingredients": [
-                {
-                    "amount": 6,
-                    "item": "-8 cups Granny Smith apples",
-                    "note": "peeled & diced"
-                },
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "water"
-                },
-                {
-                    "amount": 2,
-                    "unit": "TBSP",
-                    "item": "lemon juice"
-                },
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "sugar"
-                },
-                {
-                    "amount": 1,
-                    "item": "-2 dashes vanilla extract"
-                },
-                {
-                    "amount": 1,
-                    "item": "-2 dashes cinnamon"
-                },
-                {
-                    "amount": 1,
-                    "item": "-2 dashes nutmeg"
-                }
-            ]
+          "amount": 2,
+          "item": "",
+          "note": "12.5 oz canned chicken"
         },
         {
-            "name": "Avocado Chips - Keto",
-            "url": "recipes/avocado-chips-keto.html",
-            "ingredients": [
-                {
-                    "amount": 1,
-                    "item": "avocado",
-                    "note": "mashed"
-                },
-                {
-                    "amount": 0.25,
-                    "unit": "cup",
-                    "item": "Parmesan cheese",
-                    "note": "finely grated"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "mozzarella cheese",
-                    "note": "finely grated"
-                },
-                {
-                    "amount": 2,
-                    "unit": "tsp",
-                    "item": "garlic powder"
-                },
-                {
-                    "amount": 2,
-                    "item": "dashes everything bagel seasoning"
-                }
-            ]
+          "amount": 1,
+          "unit": "cup",
+          "item": "ranch dressing"
         },
         {
-            "name": "Baked Boursin Spaghetti Squash",
-            "url": "recipes/baked-boursin-spaghetti-squash.html",
-            "ingredients": [
-                {
-                    "amount": 1,
-                    "item": "large spaghetti squash",
-                    "note": "halved lengthwise and deseeded"
-                },
-                {
-                    "item": "avocado or olive oil"
-                },
-                {
-                    "item": "salt & pepper"
-                },
-                {
-                    "amount": 10,
-                    "item": "-12 sun-dried tomatoes"
-                },
-                {
-                    "amount": 3,
-                    "unit": "cup",
-                    "item": "spinach",
-                    "note": "chopped"
-                },
-                {
-                    "amount": 3,
-                    "unit": "TBSP",
-                    "item": "fresh basil",
-                    "note": "chopped and divided"
-                },
-                {
-                    "amount": 1,
-                    "item": "-2 cloves garlic",
-                    "note": "finely minced"
-                },
-                {
-                    "amount": 10.6,
-                    "unit": "oz",
-                    "item": "package Boursin garlic & fine herbs"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "heavy whipping cream"
-                },
-                {
-                    "item": "Optional: red pepper flakes or balsamic glaze"
-                },
-                {
-                    "amount": 2,
-                    "unit": "LB",
-                    "item": "chicken",
-                    "note": "ground, grilled, air fried, or rotisserie and diced"
-                },
-                {
-                    "amount": 1,
-                    "item": "-2 TBSP Italian seasoning"
-                }
-            ]
+          "amount": 0.75,
+          "unit": "cup",
+          "item": "buffalo sauce"
         },
         {
-            "name": "Ole Feller Beans",
-            "url": "recipes/ole-feller-beans.html",
-            "ingredients": [
-                {
-                    "amount": 1,
-                    "unit": "LB",
-                    "item": "ground beef"
-                },
-                {
-                    "amount": 1,
-                    "unit": "tsp",
-                    "item": "salt"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "onion",
-                    "note": "diced"
-                },
-                {
-                    "amount": 0.3333333333333333,
-                    "unit": "cup",
-                    "item": "light brown sugar",
-                    "note": "packed"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "tsp",
-                    "item": "chili powder"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "LB",
-                    "item": "bacon",
-                    "note": "diced"
-                },
-                {
-                    "amount": 2,
-                    "unit": "TBSP",
-                    "item": "white corn syrup"
-                },
-                {
-                    "amount": 15,
-                    "unit": "oz",
-                    "item": "can kidney beans",
-                    "note": "rinsed and drained"
-                },
-                {
-                    "amount": 15,
-                    "unit": "oz",
-                    "item": "can butter beans",
-                    "note": "rinsed and drained"
-                },
-                {
-                    "amount": 15,
-                    "unit": "oz",
-                    "item": "can pork and beans"
-                },
-                {
-                    "amount": 0.3333333333333333,
-                    "unit": "cup",
-                    "item": "sugar"
-                },
-                {
-                    "amount": 0.25,
-                    "unit": "cup",
-                    "item": "ketchup"
-                },
-                {
-                    "amount": 0.25,
-                    "unit": "cup",
-                    "item": "BBQ sauce"
-                },
-                {
-                    "amount": 2,
-                    "unit": "TBSP",
-                    "item": "mustard"
-                },
-                {
-                    "amount": 0.25,
-                    "unit": "tsp",
-                    "item": "ground black pepper"
-                }
-            ]
+          "amount": 16,
+          "unit": "oz",
+          "item": "cream cheese"
         },
         {
-            "name": "Pinto Beans",
-            "url": "recipes/pinto-beans.html",
-            "ingredients": [
-                {
-                    "amount": 50,
-                    "unit": "oz",
-                    "item": "can pinto beans",
-                    "note": "drained and rinsed"
-                },
-                {
-                    "amount": 1,
-                    "unit": "LB",
-                    "item": "bacon",
-                    "note": "chopped"
-                },
-                {
-                    "amount": 1,
-                    "item": "large onion",
-                    "note": "diced"
-                },
-                {
-                    "amount": 3,
-                    "item": "Roma tomatoes",
-                    "note": "diced"
-                },
-                {
-                    "amount": 1,
-                    "item": "jalapeño",
-                    "note": "deseeded and diced"
-                },
-                {
-                    "amount": 1,
-                    "unit": "bunch",
-                    "item": "cilantro",
-                    "note": "chopped"
-                },
-                {
-                    "amount": 25,
-                    "unit": "oz",
-                    "item": "water"
-                },
-                {
-                    "item": "queso fresco",
-                    "note": "for topping"
-                }
-            ]
-        },
-        {
-            "name": "Potato Salad",
-            "url": "recipes/potato-salad.html",
-            "ingredients": [
-                {
-                    "amount": 8,
-                    "item": "-10 eggs",
-                    "note": "cooked, peeled, chopped"
-                },
-                {
-                    "amount": 4,
-                    "unit": "LB",
-                    "item": "potatoes",
-                    "note": "peeled and diced"
-                },
-                {
-                    "amount": 1,
-                    "item": "medium onion",
-                    "note": "finely chopped"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "TBSP",
-                    "item": "salt"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "TBSP",
-                    "item": "black pepper"
-                },
-                {
-                    "amount": 2,
-                    "unit": "cup",
-                    "item": "mayo (not Miracle Whip)"
-                },
-                {
-                    "amount": 3,
-                    "unit": "TBSP",
-                    "item": "mustard"
-                },
-                {
-                    "amount": 0.25,
-                    "unit": "cup",
-                    "item": "vinegar"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "sugar"
-                }
-            ]
-        },
-        {
-            "name": "Quinoa Black Bean Salad",
-            "url": "recipes/quinoa-black-bean-salad.html",
-            "ingredients": [
-                {
-                    "amount": 2,
-                    "unit": "cup",
-                    "item": "quinoa",
-                    "note": "rinsed"
-                },
-                {
-                    "amount": 4,
-                    "unit": "cup",
-                    "item": "water"
-                },
-                {
-                    "amount": 3,
-                    "item": "medium limes",
-                    "note": "juiced"
-                },
-                {
-                    "amount": 1,
-                    "unit": "TBSP",
-                    "item": "cumin"
-                },
-                {
-                    "amount": 1,
-                    "unit": "TBSP",
-                    "item": "sea salt"
-                },
-                {
-                    "amount": 0.3333333333333333,
-                    "unit": "cup",
-                    "item": "olive oil"
-                },
-                {
-                    "amount": 30,
-                    "unit": "oz",
-                    "item": "can black beans",
-                    "note": "drained and rinsed"
-                },
-                {
-                    "amount": 4.5,
-                    "unit": "tsp",
-                    "item": "red wine vinegar"
-                },
-                {
-                    "item": "black pepper",
-                    "note": "to taste"
-                },
-                {
-                    "amount": 1,
-                    "item": "red bell pepper",
-                    "note": "deseeded and chopped"
-                },
-                {
-                    "amount": 1,
-                    "item": "yellow bell pepper",
-                    "note": "deseeded and chopped"
-                },
-                {
-                    "amount": 1,
-                    "item": "orange bell pepper",
-                    "note": "deseeded and chopped"
-                },
-                {
-                    "amount": 10,
-                    "unit": "oz",
-                    "item": "bag frozen sweet corn"
-                },
-                {
-                    "amount": 1,
-                    "unit": "bunch",
-                    "item": "cilantro",
-                    "note": "chopped"
-                }
-            ]
-        },
-        {
-            "name": "Sweet Potato Casserole",
-            "url": "recipes/sweet-potato-casserole.html",
-            "ingredients": [
-                {
-                    "amount": 3,
-                    "item": "large sweet potatoes"
-                },
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "sugar"
-                },
-                {
-                    "amount": 2,
-                    "item": "eggs",
-                    "note": "room temperature and well beaten"
-                },
-                {
-                    "amount": 1,
-                    "unit": "tsp",
-                    "item": "vanilla extract"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "unsalted butter",
-                    "note": "melted"
-                },
-                {
-                    "amount": 0.25,
-                    "unit": "cup",
-                    "item": "milk"
-                },
-                {
-                    "item": "Topping:"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "brown sugar",
-                    "note": "packed"
-                },
-                {
-                    "amount": 0.25,
-                    "unit": "cup",
-                    "item": "flour",
-                    "note": "sifted"
-                },
-                {
-                    "amount": 0.75,
-                    "unit": "cup",
-                    "item": "pecans",
-                    "note": "chopped"
-                },
-                {
-                    "amount": 3,
-                    "unit": "TBSP",
-                    "item": "unsalted butter",
-                    "note": "melted"
-                },
-                {
-                    "item": "Optional: mini marshmallows"
-                }
-            ]
-        },
-        {
-            "name": "Sweet Potatoes",
-            "url": "recipes/sweet-potatoes.html",
-            "ingredients": [
-                {
-                    "amount": 3,
-                    "item": "sweet potatoes",
-                    "note": "peeled and diced"
-                },
-                {
-                    "amount": 3,
-                    "unit": "TBSP",
-                    "item": "olive oil or avocado oil"
-                },
-                {
-                    "item": "salt & pepper",
-                    "note": "to taste"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "bell peppers",
-                    "note": "diced"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "onion",
-                    "note": "diced"
-                },
-                {
-                    "amount": 0.25,
-                    "unit": "cup",
-                    "item": "cinnamon sugar"
-                },
-                {
-                    "amount": 0.25,
-                    "unit": "cup",
-                    "item": "brown sugar"
-                }
-            ]
-        },
-        {
-            "name": "Sweet Potatoes Gratin",
-            "url": "recipes/sweet-potato-gratin.html",
-            "ingredients": [
-                {
-                    "amount": 0.75,
-                    "unit": "cup",
-                    "item": "heavy whipping cream"
-                },
-                {
-                    "amount": 0.75,
-                    "unit": "cup",
-                    "item": "milk"
-                },
-                {
-                    "amount": 0.25,
-                    "unit": "cup",
-                    "item": "unsalted butter"
-                },
-                {
-                    "amount": 2,
-                    "unit": "clove",
-                    "item": "garlic",
-                    "note": "finely minced"
-                },
-                {
-                    "amount": 1,
-                    "unit": "TBSP",
-                    "item": "fresh parsley",
-                    "note": "finely chopped"
-                },
-                {
-                    "amount": 1,
-                    "unit": "TBSP",
-                    "item": "fresh thyme",
-                    "note": "finely chopped"
-                },
-                {
-                    "amount": 1,
-                    "unit": "TBSP",
-                    "item": "fresh sage",
-                    "note": "finely chopped"
-                },
-                {
-                    "amount": 1,
-                    "unit": "TBSP",
-                    "item": "fresh rosemary",
-                    "note": "finely chopped"
-                },
-                {
-                    "amount": 1.5,
-                    "unit": "tsp",
-                    "item": "salt"
-                },
-                {
-                    "amount": 0.75,
-                    "unit": "tsp",
-                    "item": "black pepper"
-                },
-                {
-                    "amount": 3,
-                    "unit": "LB",
-                    "item": "sweet potatoes",
-                    "note": "peeled and thinly sliced"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "Gruyere cheese",
-                    "note": "shredded"
-                }
-            ]
-        },
-        {
-            "name": "Vermicelli Pasta Salad",
-            "url": "recipes/vermicelli-pasta-salad.html",
-            "ingredients": [
-                {
-                    "amount": 16,
-                    "unit": "oz",
-                    "item": "angel hair spaghetti"
-                },
-                {
-                    "amount": 1,
-                    "unit": "TBSP",
-                    "item": "Ac'cent flavor enhancer"
-                },
-                {
-                    "amount": 1,
-                    "unit": "TBSP",
-                    "item": "Lawry's"
-                },
-                {
-                    "amount": 3,
-                    "unit": "TBSP",
-                    "item": "lemon juice"
-                },
-                {
-                    "amount": 4,
-                    "unit": "TBSP",
-                    "item": "olive or avocado oil"
-                },
-                {
-                    "amount": 4,
-                    "unit": "oz",
-                    "item": "pimentos",
-                    "note": "diced"
-                },
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "green bell peppers",
-                    "note": "diced"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "red onion",
-                    "note": "diced"
-                },
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "celery",
-                    "note": "finely diced"
-                },
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "black olives",
-                    "note": "chopped"
-                },
-                {
-                    "amount": 1.5,
-                    "unit": "cup",
-                    "item": "mayo (not Miracle Whip)"
-                }
-            ]
+          "amount": 8,
+          "unit": "oz",
+          "item": "shredded cheddar cheese"
         }
-    ]
+      ],
+      "subtitle": "Alicia Smith",
+      "directions": [
+        "Drain the liquid from the canned chicken.",
+        "Add all ingredients to a crockpot set to High. Stir occasionally until the cream cheese is fully melted and the mixture is heated through.",
+        "Reduce heat to Warm and serve with tortilla chips."
+      ]
+    },
+    {
+      "name": "Corn Dip",
+      "url": "recipes/corn-dip.html",
+      "ingredients": [
+        {
+          "amount": 4,
+          "item": "",
+          "note": "11 oz white shoepeg corn - drained"
+        },
+        {
+          "amount": 11,
+          "unit": "oz",
+          "item": "jar jalapenos",
+          "note": "chopped reserve some juice"
+        },
+        {
+          "amount": 1,
+          "item": "small red onion",
+          "note": "diced"
+        },
+        {
+          "amount": 2,
+          "unit": "cup",
+          "item": "mayo"
+        },
+        {
+          "amount": 2,
+          "unit": "cup",
+          "item": "shredded cheddar cheese"
+        },
+        {
+          "item": "salt & pepper to taste"
+        },
+        {
+          "item": "dash of garlic powder"
+        }
+      ],
+      "subtitle": "Jesi Fuller",
+      "directions": [
+        "In a large bowl, combine the corn, jalapeños, onion, mayo, cheddar cheese, salt, pepper, and garlic. Mix until well blended."
+      ]
+    },
+    {
+      "name": "Dunkaroo Dip",
+      "url": "recipes/dunkaroo-dip.html",
+      "ingredients": [
+        {
+          "amount": 1,
+          "item": "box Funfetti cake mix"
+        },
+        {
+          "amount": 12,
+          "unit": "oz",
+          "item": "vanilla yogurt"
+        },
+        {
+          "amount": 8,
+          "unit": "oz",
+          "item": "Cool Whip"
+        },
+        {
+          "item": "sprinkles"
+        }
+      ],
+      "directions": [
+        "In a large bowl, combine the vanilla yogurt and whipped topping. Mix until smooth and well blended.",
+        "Stir in the funfetti cake mix and sprinkles until evenly incorporated.",
+        "Refrigerate until ready to serve.",
+        "Serve with graham crackers."
+      ]
+    },
+    {
+      "name": "Jalapeno Corn Dip",
+      "url": "recipes/jalapeno-corn-dip.html",
+      "ingredients": [
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "sour cream"
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "mayo"
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "salsa"
+        },
+        {
+          "amount": 0.25,
+          "unit": "tsp",
+          "item": "ground black pepper"
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "garlic powder"
+        },
+        {
+          "amount": 14.5,
+          "unit": "oz",
+          "item": "can sweet corn",
+          "note": "drained"
+        },
+        {
+          "amount": 2,
+          "item": "jalapenos",
+          "note": "deseeded and diced"
+        },
+        {
+          "amount": 2,
+          "unit": "cup",
+          "item": "shredded sharp cheddar cheese"
+        }
+      ],
+      "directions": [
+        "In a large bowl, combine the sour cream, mayonnaise, salsa, black pepper, garlic powder, corn, and jalapeños. Mix until well blended, then fold in the cheddar cheese."
+      ]
+    },
+    {
+      "name": "Jalapeño Popper Dip",
+      "url": "recipes/jalapeno-popper-dip.html",
+      "ingredients": [
+        {
+          "amount": 16,
+          "unit": "oz",
+          "item": "cream cheese",
+          "note": "softened"
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "mayo"
+        },
+        {
+          "amount": 4,
+          "unit": "oz",
+          "item": "can green chilies",
+          "note": "chopped"
+        },
+        {
+          "amount": 2,
+          "unit": "oz",
+          "item": "can jalapeños",
+          "note": "drained and diced"
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "Parmesan cheese",
+          "note": "grated"
+        }
+      ],
+      "directions": [
+        "In a large bowl, combine the cream cheese and mayonnaise. Mix until smooth.",
+        "Stir in the green chiles, jalapeños, and Parmesan cheese until well blended.",
+        "Serve chilled, if desired.",
+        "Optional – Warm Version: Transfer to a microwave-safe dish, top with additional cheese, and microwave on High for 3 minutes. Alternatively, place in an oven-safe dish and bake at 375°F for 30 minutes."
+      ]
+    },
+    {
+      "name": "Mexican Corn Dip",
+      "url": "recipes/mexican-corn-dip.html",
+      "ingredients": [
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "mayo"
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "sour cream"
+        },
+        {
+          "amount": 2,
+          "item": "",
+          "note": "11oz or 15.25oz cans Mexican or Southwest sweet corn - drained"
+        },
+        {
+          "amount": 10,
+          "unit": "oz",
+          "item": "can Rotel"
+        },
+        {
+          "amount": 2,
+          "unit": "cup",
+          "item": "shredded cheddar cheese"
+        },
+        {
+          "amount": 8,
+          "item": "green onions",
+          "note": "sliced"
+        },
+        {
+          "amount": 1,
+          "unit": "bunch",
+          "item": "of cilantro",
+          "note": "chopped"
+        }
+      ],
+      "subtitle": "Tammy Kuhlmann",
+      "directions": [
+        "In a large bowl, combine the mayonnaise, sour cream, corn, and Rotel. Mix until well blended.",
+        "Fold in the cheddar cheese, green onions, and cilantro until evenly incorporated."
+      ]
+    },
+    {
+      "name": "Pickle Wrap Dip",
+      "url": "recipes/pickle-wrap-dip.html",
+      "ingredients": [
+        {
+          "amount": 1,
+          "unit": "LB",
+          "item": "dried beef",
+          "note": "diced"
+        },
+        {
+          "amount": 2,
+          "unit": "cup",
+          "item": "sour cream"
+        },
+        {
+          "amount": 16,
+          "unit": "oz",
+          "item": "cream cheese",
+          "note": "softened"
+        },
+        {
+          "amount": 48,
+          "unit": "oz",
+          "item": "jar pickles",
+          "note": "diced, reserve some juice"
+        },
+        {
+          "item": "crackers or chips",
+          "note": "for dipping"
+        }
+      ],
+      "subtitle": "Alicia Smith",
+      "directions": [
+        "In a large bowl, combine the sour cream and cream cheese. Mix until smooth and well blended.",
+        "Stir in the dried beef and pickles until evenly incorporated. Add a small amount of pickle juice, if desired, to enhance the flavor."
+      ]
+    },
+    {
+      "name": "Pumpkin Harvest Dip",
+      "url": "recipes/pumpkin-harvest-dip.html",
+      "ingredients": [
+        {
+          "amount": 8,
+          "unit": "oz",
+          "item": "cream cheese",
+          "note": "softened"
+        },
+        {
+          "amount": 2,
+          "unit": "cup",
+          "item": "powdered sugar"
+        },
+        {
+          "amount": 15,
+          "unit": "oz",
+          "item": "can pumpkin puree"
+        },
+        {
+          "amount": 3,
+          "unit": "TBSP",
+          "item": "pumpkin pie spice"
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "vanilla extract"
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "ground ginger"
+        },
+        {
+          "item": "apples, graham crackers, or ginger snaps"
+        }
+      ],
+      "subtitle": "Rebekah Sanford",
+      "directions": [
+        "In a large bowl, beat the cream cheese and powdered sugar until smooth and well combined.",
+        "Add the pumpkin puree, pumpkin spice, vanilla, and ginger. Mix until fully incorporated.",
+        "Refrigerate for 1–2 hours, then serve with apples or crackers."
+      ]
+    },
+    {
+      "name": "Pumpkin Pie Dip",
+      "url": "recipes/pumpkin-pie-dip.html",
+      "ingredients": [
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "cottage cheese"
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "pumpkin puree"
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "vanilla extract"
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "pumpkin pie spice"
+        },
+        {
+          "amount": 1,
+          "unit": "TBSP",
+          "item": "maple syrup"
+        },
+        {
+          "item": "pinch of salt",
+          "note": "optional"
+        }
+      ],
+      "directions": [
+        "Add the cottage cheese to a blender and blend for 30–60 seconds until completely smooth.",
+        "Add the pumpkin puree, vanilla extract, pumpkin pie spice, maple syrup, and a pinch of salt (optional). Blend again until smooth and creamy.",
+        "Taste and adjust sweetness with additional maple syrup if desired."
+      ]
+    },
+    {
+      "name": "⭐ White Queso",
+      "url": "recipes/white-queso.html",
+      "ingredients": [
+        {
+          "amount": 1,
+          "unit": "LB",
+          "item": "white American cheese"
+        },
+        {
+          "amount": 5,
+          "unit": "oz",
+          "item": "evaporated milk"
+        },
+        {
+          "amount": 1,
+          "unit": "TBSP",
+          "item": "unsalted butter"
+        },
+        {
+          "amount": 4,
+          "unit": "oz",
+          "item": "green chiles"
+        },
+        {
+          "amount": 0.25,
+          "unit": "tsp",
+          "item": "cumin"
+        },
+        {
+          "amount": 0.25,
+          "unit": "tsp",
+          "item": "garlic powder"
+        },
+        {
+          "amount": 0.125,
+          "unit": "tsp",
+          "item": "paprika"
+        },
+        {
+          "amount": 0.125,
+          "unit": "tsp",
+          "item": "cayenne pepper"
+        }
+      ],
+      "subtitle": "eatingonadime.com",
+      "directions": [
+        "In a saucepan over low heat, combine the cheese, evaporated milk, and butter. Stir frequently until melted and smooth.",
+        "Stir in the green chiles, cumin, garlic powder, and cayenne pepper until well incorporated.",
+        "Add additional evaporated milk as needed to reach your desired consistency."
+      ]
+    }
+  ],
+  "Dressings": [
+    {
+      "name": "Caesar Dressing",
+      "url": "recipes/caesar-dressing.html",
+      "ingredients": [
+        {
+          "amount": 2,
+          "unit": "clove",
+          "item": "garlic",
+          "note": "minced"
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "salt"
+        },
+        {
+          "amount": 1,
+          "unit": "TBSP",
+          "item": "mayo"
+        },
+        {
+          "amount": 2,
+          "unit": "TBSP",
+          "item": "fresh lemon juice"
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "Worcestershire sauce"
+        },
+        {
+          "amount": 3,
+          "item": "-4 anchovy fillets"
+        },
+        {
+          "item": "salt & pepper",
+          "note": "to taste"
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "extra-virgin olive oil"
+        },
+        {
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "shredded Parmesan cheese"
+        }
+      ],
+      "subtitle": "Pam Woods",
+      "directions": [
+        "In a small bowl, mash the garlic and salt together until a smooth paste forms.",
+        "Whisk in the lemon juice, mayonnaise, Worcestershire sauce, anchovy fillets, and black pepper until well combined.",
+        "While whisking continuously, slowly drizzle in the extra-virgin olive oil until the dressing is smooth and emulsified."
+      ]
+    }
+  ],
+  "Misc.": [
+    {
+      "name": "Almond Flour",
+      "url": "recipes/almond-flour.html",
+      "ingredients": [
+        {
+          "item": "pulp from almond milk"
+        }
+      ],
+      "directions": [
+        "Preheat the oven to 200°F.",
+        "Spread the wet almond pulp evenly onto a lined baking sheet.",
+        "Bake for 1–2 hours, stirring every 30 minutes, until fully dried.",
+        "Some clumping is normal and will be resolved during processing.",
+        "Transfer the dried pulp to a food processor and process until finely ground.",
+        "Store in an airtight glass container."
+      ]
+    },
+    {
+      "name": "Almond Milk",
+      "url": "recipes/almond-milk.html",
+      "ingredients": [
+        {
+          "amount": 3,
+          "unit": "cup",
+          "item": "raw organic almonds"
+        },
+        {
+          "item": "filtered water"
+        },
+        {
+          "amount": 3,
+          "unit": "TBSP",
+          "item": "stevia"
+        },
+        {
+          "amount": 1,
+          "unit": "TBSP",
+          "item": "white Dominican vanilla"
+        },
+        {
+          "item": "Optional:"
+        },
+        {
+          "item": "vanilla bean paste"
+        },
+        {
+          "item": "honey"
+        },
+        {
+          "item": "cinnamon"
+        },
+        {
+          "item": "cardamom"
+        },
+        {
+          "item": "cocoa"
+        }
+      ],
+      "directions": [
+        "Soak the almonds in filtered water for 10–12 hours.",
+        "Drain and rinse thoroughly with cold water.",
+        "Blend 1 cup soaked almonds with 2 cups filtered water until the mixture is as smooth as possible.",
+        "Strain the mixture through a nut milk bag, squeezing out as much liquid as possible into a bowl or jar.",
+        "Do not discard the leftover pulp. Reserve it for homemade almond flour (see almond flour recipe).",
+        "For a sweeter milk, stir in stevia and vanilla to taste.",
+        "Store in an airtight container in the refrigerator for 7–10 days. Shake well before each use."
+      ]
+    },
+    {
+      "name": "Bourbon Butter",
+      "url": "recipes/bourbon-butter.html",
+      "ingredients": [
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "unsalted butter",
+          "note": "room temp"
+        },
+        {
+          "amount": 2,
+          "unit": "clove",
+          "item": "garlic",
+          "note": "finely minced"
+        },
+        {
+          "amount": 2,
+          "unit": "TBSP",
+          "item": "Maker's Mark or bourbon of choice"
+        },
+        {
+          "amount": 1,
+          "unit": "TBSP",
+          "item": "green onion",
+          "note": "finely chopped"
+        },
+        {
+          "amount": 1,
+          "unit": "TBSP",
+          "item": "parsley",
+          "note": "chopped"
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "salt"
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "pepper"
+        }
+      ],
+      "subtitle": "Traeger.com",
+      "directions": [
+        "In a bowl, combine the butter, garlic, bourbon, green onion, parsley, salt, and pepper. Mix until well blended."
+      ]
+    },
+    {
+      "name": "Caramel Popcorn Balls",
+      "url": "recipes/caramel-popcorn-balls.html",
+      "ingredients": [
+        {
+          "amount": 14,
+          "unit": "oz",
+          "item": "can sweetened condensed milk"
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "brown sugar",
+          "note": "packed"
+        },
+        {
+          "amount": 0.75,
+          "unit": "cup",
+          "item": "light corn syrup"
+        },
+        {
+          "amount": 0.125,
+          "unit": "tsp",
+          "item": "salt"
+        },
+        {
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "butter"
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "vanilla extract"
+        },
+        {
+          "amount": 16,
+          "unit": "cup",
+          "item": "popped popcorn"
+        },
+        {
+          "item": "Optional: M&M's, nuts, sea salt, or melted chocolate",
+          "note": "drizzle"
+        }
+      ],
+      "directions": [
+        "In a large saucepan, melt the butter, brown sugar, and corn syrup. Bring the mixture to a boil.",
+        "Once boiling, reduce the heat to medium and add the sweetened condensed milk. Cook for 4–5 minutes, stirring frequently and scraping the bottom of the pan to prevent burning. Cook for about 4 minutes for a softer caramel.",
+        "Place the popcorn in a large bowl. Pour the caramel mixture over the popcorn and stir until evenly coated.",
+        "Lightly spray your hands with cooking spray and shape the popcorn into balls once it has cooled enough to handle.",
+        "Optional: Once the caramel popcorn has cooled slightly, mix in M&M’s, chopped nuts, or a sprinkle of sea salt before forming the popcorn balls. You can also drizzle melted chocolate over the finished popcorn balls."
+      ]
+    },
+    {
+      "name": "Cinnamon Butter",
+      "url": "recipes/cinnamon-butter.html",
+      "ingredients": [
+        {
+          "amount": 1,
+          "unit": "stick",
+          "item": "unsalted butter",
+          "note": "room temperature"
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "powdered sugar"
+        },
+        {
+          "amount": 1.5,
+          "unit": "TBSP",
+          "item": "honey"
+        },
+        {
+          "amount": 0.75,
+          "unit": "tsp",
+          "item": "ground cinnamon"
+        }
+      ],
+      "subtitle": "Copycat Texas Roadhouse",
+      "directions": [
+        "For a creamy consistency, allow the butter to sit at room temperature for at least 1 hour until very soft. Do not microwave, as this can affect the texture.",
+        "In a medium bowl, combine the butter, powdered sugar, honey, and cinnamon. Mix until smooth. For an even smoother consistency, use a hand mixer.",
+        "Refrigerate until ready to use."
+      ]
+    },
+    {
+      "name": "Dry Brine",
+      "url": "recipes/dry-brine.html",
+      "ingredients": [
+        {
+          "amount": 0.3333333333333333,
+          "unit": "cup",
+          "item": "kosher salt"
+        },
+        {
+          "amount": 1,
+          "unit": "TBSP",
+          "item": "light brown sugar"
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "ground black pepper"
+        },
+        {
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "unsalted butter",
+          "note": "room temp"
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "water"
+        },
+        {
+          "amount": 1,
+          "item": "whole turkey or chicken"
+        }
+      ],
+      "directions": [
+        "Rinse the chicken under cold water and pat dry thoroughly inside and out.",
+        "In a small bowl, combine the salt, sugar, and pepper. Rub the mixture all over the chicken, including inside the cavity and under the skin of the breasts.",
+        "Place the chicken on a baking sheet and refrigerate uncovered overnight, or for at least 8–12 hours.",
+        "Preheat the oven to 500°F and position the rack in the lowest setting.",
+        "Rinse off the brine under cold water and pat dry again inside and out.",
+        "Place the chicken breast-side up on a rack in a roasting pan. Let sit at room temperature for 30–60 minutes.",
+        "Rub softened butter all over the chicken, including under the skin of the breasts.",
+        "Tie the legs together with kitchen twine. Secure the twine around the body near the neck opening and tuck the wings underneath.",
+        "Add 1 cup water to the roasting pan. Roast for 30 minutes at 500°F, then reduce the oven temperature to 350°F and continue roasting for 1½ to 2 hours.",
+        "Rotate the pan after 1 hour. Roast until a thermometer inserted into the thickest part of the thigh registers 155°F.",
+        "Remove from the oven and let rest for 20 minutes before transferring to a cutting board to carve and serve."
+      ]
+    },
+    {
+      "name": "⭐ Protein Balls",
+      "url": "recipes/protein-balls.html",
+      "ingredients": [
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "quick oats"
+        },
+        {
+          "amount": 1,
+          "item": "scoop protein powder"
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "peanut butter"
+        },
+        {
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "honey"
+        },
+        {
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "mini chocolate chips or mini M&M's"
+        }
+      ],
+      "subtitle": "Alicia Smith",
+      "directions": [
+        "In a medium bowl, combine the quick oats and protein powder.",
+        "Stir in the peanut butter and honey until well combined.",
+        "Fold in the chocolate chips or M&M’s.",
+        "Roll into balls and store in the refrigerator."
+      ]
+    },
+    {
+      "name": "Puppy Chow",
+      "url": "recipes/puppy-chow.html",
+      "ingredients": [
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "creamy peanut butter"
+        },
+        {
+          "amount": 12,
+          "unit": "oz",
+          "item": "chocolate chips"
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "unsalted butter"
+        },
+        {
+          "amount": 10,
+          "unit": "oz",
+          "item": "box Crispix or Rice Chex"
+        },
+        {
+          "amount": 1,
+          "unit": "LB",
+          "item": "powdered sugar"
+        }
+      ],
+      "subtitle": "Alicia Smith",
+      "directions": [
+        "In a microwave-safe bowl or saucepan, melt the peanut butter, chocolate chips, and butter until smooth.",
+        "In a large bowl, add 3 cups of cereal. Pour 1 cup of the chocolate mixture over the cereal and stir until evenly coated.",
+        "Repeat this process two more times until all of the cereal and chocolate mixture have been combined.",
+        "If there are pools of chocolate in the bottom of the bowl, add additional cereal if desired.",
+        "Let the mixture cool slightly in the refrigerator, then transfer it to a brown paper bag.",
+        "Add 1 cup of powdered sugar at a time, seal the bag, and shake until evenly coated."
+      ]
+    },
+    {
+      "name": "Taco Seasoning",
+      "url": "recipes/taco-seasoning.html",
+      "ingredients": [
+        {
+          "amount": 4,
+          "unit": "TBSP",
+          "item": "chili powder"
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "garlic powder"
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "onion powder"
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "red pepper flakes",
+          "note": "optional"
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "dried oregano"
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "paprika"
+        },
+        {
+          "amount": 4,
+          "unit": "tsp",
+          "item": "cumin"
+        },
+        {
+          "amount": 4,
+          "unit": "tsp",
+          "item": "salt"
+        },
+        {
+          "amount": 4,
+          "unit": "tsp",
+          "item": "black pepper"
+        }
+      ],
+      "subtitle": "Megan Corkrean",
+      "directions": [
+        "In a small bowl, combine all ingredients and mix well.",
+        "Store in an airtight glass jar.",
+        "Use 3 tablespoons of seasoning per 1 pound of meat."
+      ]
+    },
+    {
+      "name": "Turkey Tender Marinade",
+      "url": "recipes/turkey-tender-marinade.html",
+      "ingredients": [
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "liquid aminos"
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "cooking sherry"
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "olive or avocado oil"
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "lemon juice"
+        },
+        {
+          "amount": 0.25,
+          "unit": "tsp",
+          "item": "black pepper"
+        },
+        {
+          "amount": 0.125,
+          "unit": "tsp",
+          "item": "garlic powder"
+        },
+        {
+          "amount": 1,
+          "item": "small onion",
+          "note": "diced"
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "Sierra Mist, 7UP or Sprite"
+        },
+        {
+          "amount": 2,
+          "item": "-3 LBS turkey tendererloins"
+        }
+      ],
+      "subtitle": "Rainbow Drive In",
+      "directions": [
+        "In a large bowl, whisk together the liquid aminos, cooking sherry, oil, lemon juice, black pepper, garlic powder, onion, and lemon-lime soda.",
+        "Place the turkey tenders in a large resealable plastic bag. Pour the marinade over the turkey, seal the bag, and refrigerate overnight."
+      ]
+    }
+  ],
+  "Sauces": [
+    {
+      "name": "Cajun Dipping Sauce",
+      "url": "recipes/cajun-dipping-sauce.html",
+      "ingredients": [
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "mayo"
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "sour cream"
+        },
+        {
+          "amount": 1.5,
+          "unit": "TBSP",
+          "item": "Cajun seasoning"
+        }
+      ],
+      "subtitle": "Rainbow Drive In",
+      "directions": [
+        "In a large bowl, combine the mayonnaise, sour cream, and Cajun seasoning. Mix until well blended.",
+        "Refrigerate before serving."
+      ]
+    },
+    {
+      "name": "Fish Taco Sauce",
+      "url": "recipes/fish-taco-sauce.html",
+      "ingredients": [
+        {
+          "amount": 3,
+          "unit": "TBSP",
+          "item": "sour cream"
+        },
+        {
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "mayo"
+        },
+        {
+          "amount": 0.5,
+          "item": "fresh lime",
+          "note": "juiced"
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "garlic powder"
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "chili powder"
+        }
+      ],
+      "directions": [
+        "In a small bowl, combine the mayonnaise, sour cream, lime juice, garlic powder, and chili powder. Mix until well blended.",
+        "Refrigerate before serving to allow the flavors to blend."
+      ]
+    },
+    {
+      "name": "⭐ Honey Mustard",
+      "url": "recipes/honey-mustard.html",
+      "ingredients": [
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "mayo"
+        },
+        {
+          "amount": 1,
+          "unit": "TBSP",
+          "item": "Dijon mustard"
+        },
+        {
+          "amount": 1,
+          "unit": "TBSP",
+          "item": "yellow mustard"
+        },
+        {
+          "amount": 3,
+          "unit": "TBSP",
+          "item": "honey"
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "apple cider vinegar"
+        },
+        {
+          "amount": 0.125,
+          "unit": "tsp",
+          "item": "garlic powder"
+        },
+        {
+          "amount": 0.125,
+          "unit": "tsp",
+          "item": "paprika"
+        },
+        {
+          "amount": 0.125,
+          "unit": "tsp",
+          "item": "salt"
+        },
+        {
+          "item": "dash black pepper"
+        }
+      ],
+      "directions": [
+        "In a small bowl, combine the mayonnaise, Dijon mustard, yellow mustard, honey, apple cider vinegar, garlic powder, paprika, salt, and pepper. Whisk until smooth and well blended.",
+        "Refrigerate before serving to allow the flavors to blend."
+      ]
+    },
+    {
+      "name": "Margherita Pizza Sauce",
+      "url": "recipes/margherita-pizza-sauce.html",
+      "ingredients": [
+        {
+          "amount": 1,
+          "unit": "TBSP",
+          "item": "extra-virgin olive oil"
+        },
+        {
+          "amount": 1,
+          "item": "small onion",
+          "note": "minced"
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "fresh parsley",
+          "note": "chopped"
+        },
+        {
+          "item": "salt & pepper",
+          "note": "to taste"
+        },
+        {
+          "amount": 3,
+          "item": "-4 cloves garlic",
+          "note": "minced"
+        },
+        {
+          "amount": 0.25,
+          "unit": "tsp",
+          "item": "dried oregano"
+        },
+        {
+          "amount": 2,
+          "item": "",
+          "note": "15 oz cans whole peeled tomatoes"
+        }
+      ],
+      "directions": [
+        "In a large skillet over medium-high heat, add the olive oil, onion, parsley, salt, and pepper. Cook until the onions are soft and lightly golden.",
+        "Stir in the garlic and oregano and cook for 30 seconds. Add the tomatoes, crushing them as they are added to the pan. Do not substitute crushed tomatoes.",
+        "Bring to a boil, then reduce heat and simmer for about 5 minutes, stirring occasionally, until the mixture has thickened.",
+        "Spread over pizza crust as desired. For canning, process in a water bath with lemon juice according to safe canning guidelines."
+      ]
+    },
+    {
+      "name": "Sweet and Sour Sauce",
+      "url": "recipes/sweet-and-sour-sauce.html",
+      "ingredients": [
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "pineapple juice"
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "brown sugar",
+          "note": "packed"
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "rice vinegar"
+        },
+        {
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "ketchup"
+        },
+        {
+          "amount": 1,
+          "unit": "TBSP",
+          "item": "liquid aminos or soy sauce"
+        },
+        {
+          "amount": 1,
+          "unit": "TBSP",
+          "item": "cornstarch"
+        },
+        {
+          "amount": 2,
+          "unit": "TBSP",
+          "item": "water"
+        },
+        {
+          "item": "Optional: 3 drops red food coloring"
+        }
+      ],
+      "subtitle": "dinnerthendessert.com",
+      "directions": [
+        "In a medium saucepan over medium heat, combine the pineapple juice, brown sugar, rice vinegar, ketchup, liquid aminos, and food coloring. Whisk frequently and bring to a boil.",
+        "In a separate bowl, mix the cornstarch and water. Add the mixture to the saucepan.",
+        "Whisk until the cornstarch is fully incorporated and the sauce has thickened to the desired consistency.",
+        "Allow the sauce to cool before serving."
+      ]
+    },
+    {
+      "name": "Tzatziki Sauce",
+      "url": "recipes/tzatziki-sauce.html",
+      "ingredients": [
+        {
+          "amount": 1.5,
+          "unit": "cup",
+          "item": "sour cream"
+        },
+        {
+          "amount": 1,
+          "item": "medium English cucumber",
+          "note": "finely shredded and squeezed"
+        },
+        {
+          "amount": 3,
+          "unit": "clove",
+          "item": "garlic",
+          "note": "finely minced"
+        },
+        {
+          "amount": 2,
+          "unit": "TBSP",
+          "item": "lemon juice"
+        },
+        {
+          "amount": 1,
+          "unit": "TBSP",
+          "item": "red wine vinegar"
+        },
+        {
+          "amount": 1,
+          "unit": "TBSP",
+          "item": "fresh dill",
+          "note": "finely chopped"
+        },
+        {
+          "amount": 2,
+          "unit": "tsp",
+          "item": "salt"
+        }
+      ],
+      "directions": [
+        "Grate the cucumber and squeeze out as much liquid as possible using a clean towel or paper towels.",
+        "In a large bowl, combine all ingredients and mix well.",
+        "Refrigerate for at least 1 hour, preferably overnight, to allow the flavors to develop.",
+        "Optional: Drizzle with olive oil and sprinkle with fresh dill before serving."
+      ]
+    }
+  ],
+  "Sides": [
+    {
+      "name": "Applesauce",
+      "url": "recipes/applesauce-grandma-peggy.html",
+      "ingredients": [
+        {
+          "amount": 6,
+          "item": "-8 cups Granny Smith apples",
+          "note": "peeled & diced"
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "water"
+        },
+        {
+          "amount": 2,
+          "unit": "TBSP",
+          "item": "lemon juice"
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "sugar"
+        },
+        {
+          "amount": 1,
+          "item": "-2 dashes vanilla extract"
+        },
+        {
+          "amount": 1,
+          "item": "-2 dashes cinnamon"
+        },
+        {
+          "amount": 1,
+          "item": "-2 dashes nutmeg"
+        }
+      ],
+      "subtitle": "Grandma Peggy",
+      "directions": [
+        "Place the apples in a large pot with enough water to prevent sticking. Cook over medium heat until tender, then remove from heat.",
+        "Stir in the sugar, vanilla, and cinnamon until well combined.",
+        "For a traditional texture, leave the apples slightly chunky. (Grandma never mashed them.)",
+        "Ladle the mixture into sterilized jars. Process in a boiling water bath for 15 minutes to seal.",
+        "Optional – For a smoother, saucier version: Blend 1 cup applesauce using an immersion blender until smooth.",
+        "Stir in 1/8 teaspoon vanilla.",
+        "Add 1/8 teaspoon cinnamon.",
+        "Add 1/8 teaspoon nutmeg."
+      ]
+    },
+    {
+      "name": "Avocado Chips - Keto",
+      "url": "recipes/avocado-chips-keto.html",
+      "ingredients": [
+        {
+          "amount": 1,
+          "item": "avocado",
+          "note": "mashed"
+        },
+        {
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "Parmesan cheese",
+          "note": "finely grated"
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "mozzarella cheese",
+          "note": "finely grated"
+        },
+        {
+          "amount": 2,
+          "unit": "tsp",
+          "item": "garlic powder"
+        },
+        {
+          "amount": 2,
+          "item": "dashes everything bagel seasoning"
+        }
+      ],
+      "directions": [
+        "In a large bowl, mix all ingredients together until evenly combined.",
+        "Preheat the air fryer to 400°F. Place the mixture in the basket in a single layer.",
+        "Cook for 4 minutes, then flip and cook for an additional 4 minutes, or until golden and cooked through."
+      ]
+    },
+    {
+      "name": "Baked Boursin Spaghetti Squash",
+      "url": "recipes/baked-boursin-spaghetti-squash.html",
+      "ingredients": [
+        {
+          "amount": 1,
+          "item": "large spaghetti squash",
+          "note": "halved lengthwise and deseeded"
+        },
+        {
+          "item": "avocado or olive oil"
+        },
+        {
+          "item": "salt & pepper"
+        },
+        {
+          "amount": 10,
+          "item": "-12 sun-dried tomatoes"
+        },
+        {
+          "amount": 3,
+          "unit": "cup",
+          "item": "spinach",
+          "note": "chopped"
+        },
+        {
+          "amount": 3,
+          "unit": "TBSP",
+          "item": "fresh basil",
+          "note": "chopped and divided"
+        },
+        {
+          "amount": 1,
+          "item": "-2 cloves garlic",
+          "note": "finely minced"
+        },
+        {
+          "amount": 10.6,
+          "unit": "oz",
+          "item": "package Boursin garlic & fine herbs"
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "heavy whipping cream"
+        },
+        {
+          "item": "Optional: red pepper flakes or balsamic glaze"
+        },
+        {
+          "amount": 2,
+          "unit": "LB",
+          "item": "chicken",
+          "note": "ground, grilled, air fried, or rotisserie and diced"
+        },
+        {
+          "amount": 1,
+          "item": "-2 TBSP Italian seasoning"
+        }
+      ],
+      "subtitle": "TikTok - @sam.movess",
+      "directions": [
+        "Preheat the oven to 400°F and line a baking sheet with parchment paper.",
+        "Brush the spaghetti squash with olive oil until evenly coated and season with salt and pepper.",
+        "Place the spaghetti squash cut-side down on the baking sheet and bake for about 45 minutes, or until fork-tender.",
+        "If cooking chicken, heat a large skillet over medium-high heat and cook the chicken with salt, pepper, and Italian seasoning until fully cooked.",
+        "In the same skillet over medium heat, add the sun-dried tomatoes, spinach, basil, garlic, Boursin cheese, and heavy whipping cream. Optional: Add red pepper flakes. Stir often until the cheese is melted and the sauce is smooth.",
+        "Once the spaghetti squash is done, use a fork to loosen the strands from the shell. Discard the shell and add the squash strands to the cheese mixture.",
+        "Serve topped with fresh basil. Optional: Drizzle with balsamic glaze."
+      ]
+    },
+    {
+      "name": "Ole Feller Beans",
+      "url": "recipes/ole-feller-beans.html",
+      "ingredients": [
+        {
+          "amount": 1,
+          "unit": "LB",
+          "item": "ground beef"
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "salt"
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "onion",
+          "note": "diced"
+        },
+        {
+          "amount": 0.3333333333333333,
+          "unit": "cup",
+          "item": "light brown sugar",
+          "note": "packed"
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "chili powder"
+        },
+        {
+          "amount": 0.5,
+          "unit": "LB",
+          "item": "bacon",
+          "note": "diced"
+        },
+        {
+          "amount": 2,
+          "unit": "TBSP",
+          "item": "white corn syrup"
+        },
+        {
+          "amount": 15,
+          "unit": "oz",
+          "item": "can kidney beans",
+          "note": "rinsed and drained"
+        },
+        {
+          "amount": 15,
+          "unit": "oz",
+          "item": "can butter beans",
+          "note": "rinsed and drained"
+        },
+        {
+          "amount": 15,
+          "unit": "oz",
+          "item": "can pork and beans"
+        },
+        {
+          "amount": 0.3333333333333333,
+          "unit": "cup",
+          "item": "sugar"
+        },
+        {
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "ketchup"
+        },
+        {
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "BBQ sauce"
+        },
+        {
+          "amount": 2,
+          "unit": "TBSP",
+          "item": "mustard"
+        },
+        {
+          "amount": 0.25,
+          "unit": "tsp",
+          "item": "ground black pepper"
+        }
+      ],
+      "subtitle": "Braden Crane",
+      "directions": [
+        "In a large skillet over medium heat, brown the beef and bacon until fully cooked. Drain excess grease if needed.",
+        "Add the remaining ingredients and stir to combine.",
+        "Bring to a gentle simmer and cook for 20–30 minutes, stirring occasionally. Alternatively, cook in a crockpot on Low for 6–8 hours."
+      ]
+    },
+    {
+      "name": "Pinto Beans",
+      "url": "recipes/pinto-beans.html",
+      "ingredients": [
+        {
+          "amount": 50,
+          "unit": "oz",
+          "item": "can pinto beans",
+          "note": "drained and rinsed"
+        },
+        {
+          "amount": 1,
+          "unit": "LB",
+          "item": "bacon",
+          "note": "chopped"
+        },
+        {
+          "amount": 1,
+          "item": "large onion",
+          "note": "diced"
+        },
+        {
+          "amount": 3,
+          "item": "Roma tomatoes",
+          "note": "diced"
+        },
+        {
+          "amount": 1,
+          "item": "jalapeño",
+          "note": "deseeded and diced"
+        },
+        {
+          "amount": 1,
+          "unit": "bunch",
+          "item": "cilantro",
+          "note": "chopped"
+        },
+        {
+          "amount": 25,
+          "unit": "oz",
+          "item": "water"
+        },
+        {
+          "item": "queso fresco",
+          "note": "for topping"
+        }
+      ],
+      "subtitle": "Joanne Zacharias",
+      "directions": [
+        "In a large pot, add the pinto beans and water. Bring to a boil and cook for 15 minutes.",
+        "In a separate skillet, cook the bacon until slightly crispy. Remove the bacon and set aside, leaving some of the grease in the pan.",
+        "In the same skillet, add the onions, tomatoes, jalapeños, and cilantro. Cook until softened.",
+        "Add the bacon back to the skillet and stir to combine.",
+        "Add the mixture to the beans and simmer for 15 minutes.",
+        "Serve topped with queso fresco."
+      ]
+    },
+    {
+      "name": "Potato Salad",
+      "url": "recipes/potato-salad.html",
+      "ingredients": [
+        {
+          "amount": 8,
+          "item": "-10 eggs",
+          "note": "cooked, peeled, chopped"
+        },
+        {
+          "amount": 4,
+          "unit": "LB",
+          "item": "potatoes",
+          "note": "peeled and diced"
+        },
+        {
+          "amount": 1,
+          "item": "medium onion",
+          "note": "finely chopped"
+        },
+        {
+          "amount": 0.5,
+          "unit": "TBSP",
+          "item": "salt"
+        },
+        {
+          "amount": 0.5,
+          "unit": "TBSP",
+          "item": "black pepper"
+        },
+        {
+          "amount": 2,
+          "unit": "cup",
+          "item": "mayo (not Miracle Whip)"
+        },
+        {
+          "amount": 3,
+          "unit": "TBSP",
+          "item": "mustard"
+        },
+        {
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "vinegar"
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "sugar"
+        }
+      ],
+      "subtitle": "Lisa Smith",
+      "directions": [
+        "In a large pot, add the diced potatoes and cover with cold water. Bring to a boil and cook until the potatoes are about ¾ cooked.",
+        "Drain the water and run cold water over the potatoes to stop the cooking process.",
+        "Allow the potatoes to cool slightly.",
+        "Optional: While the potatoes are still warm, sprinkle with a small amount of vinegar and toss gently. This helps the potatoes absorb additional flavor.",
+        "In a medium bowl, combine the onion, salt, pepper, mayonnaise, mustard, vinegar, sugar, and eggs. Mix well, then refrigerate the mixture to allow the flavors to develop.",
+        "Place the potatoes in a large bowl and break them apart with a fork to the desired size.",
+        "Add the mayonnaise mixture to the potatoes and mix well. Refrigerate for 2–3 hours before serving.",
+        "Season with salt and pepper to taste before serving."
+      ]
+    },
+    {
+      "name": "Quinoa Black Bean Salad",
+      "url": "recipes/quinoa-black-bean-salad.html",
+      "ingredients": [
+        {
+          "amount": 2,
+          "unit": "cup",
+          "item": "quinoa",
+          "note": "rinsed"
+        },
+        {
+          "amount": 4,
+          "unit": "cup",
+          "item": "water"
+        },
+        {
+          "amount": 3,
+          "item": "medium limes",
+          "note": "juiced"
+        },
+        {
+          "amount": 1,
+          "unit": "TBSP",
+          "item": "cumin"
+        },
+        {
+          "amount": 1,
+          "unit": "TBSP",
+          "item": "sea salt"
+        },
+        {
+          "amount": 0.3333333333333333,
+          "unit": "cup",
+          "item": "olive oil"
+        },
+        {
+          "amount": 30,
+          "unit": "oz",
+          "item": "can black beans",
+          "note": "drained and rinsed"
+        },
+        {
+          "amount": 4.5,
+          "unit": "tsp",
+          "item": "red wine vinegar"
+        },
+        {
+          "item": "black pepper",
+          "note": "to taste"
+        },
+        {
+          "amount": 1,
+          "item": "red bell pepper",
+          "note": "deseeded and chopped"
+        },
+        {
+          "amount": 1,
+          "item": "yellow bell pepper",
+          "note": "deseeded and chopped"
+        },
+        {
+          "amount": 1,
+          "item": "orange bell pepper",
+          "note": "deseeded and chopped"
+        },
+        {
+          "amount": 10,
+          "unit": "oz",
+          "item": "bag frozen sweet corn"
+        },
+        {
+          "amount": 1,
+          "unit": "bunch",
+          "item": "cilantro",
+          "note": "chopped"
+        }
+      ],
+      "subtitle": "Grandma Peggy",
+      "directions": [
+        "In a large saucepan, combine the quinoa and water. Bring to a boil, then reduce heat to low, cover, and simmer for 15 minutes or until the water is absorbed. Remove from heat and let rest for 15–30 minutes before fluffing with a fork.",
+        "In a small bowl, whisk together the lime juice, cumin, and salt. Slowly drizzle in the olive oil while whisking until well combined. Set aside.",
+        "In a separate bowl, combine the black beans, red wine vinegar, and pepper. Mix well and set aside.",
+        "Once the quinoa has cooled, place it in a large bowl. Add the bell pepper, corn, cilantro, bean mixture, and dressing. Gently toss until well combined."
+      ]
+    },
+    {
+      "name": "Sweet Potato Casserole",
+      "url": "recipes/sweet-potato-casserole.html",
+      "ingredients": [
+        {
+          "amount": 3,
+          "item": "large sweet potatoes"
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "sugar"
+        },
+        {
+          "amount": 2,
+          "item": "eggs",
+          "note": "room temperature and well beaten"
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "vanilla extract"
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "unsalted butter",
+          "note": "melted"
+        },
+        {
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "milk"
+        },
+        {
+          "item": "Topping:"
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "brown sugar",
+          "note": "packed"
+        },
+        {
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "flour",
+          "note": "sifted"
+        },
+        {
+          "amount": 0.75,
+          "unit": "cup",
+          "item": "pecans",
+          "note": "chopped"
+        },
+        {
+          "amount": 3,
+          "unit": "TBSP",
+          "item": "unsalted butter",
+          "note": "melted"
+        },
+        {
+          "item": "Optional: mini marshmallows"
+        }
+      ],
+      "subtitle": "Teresa Scheeler",
+      "directions": [
+        "Preheat the oven to 350°F and grease a 9x13-inch baking dish.",
+        "In a large stockpot, add the sweet potatoes and cover with water. Do not peel the sweet potatoes. Bring to a boil and cook for 20–40 minutes, or until the sweet potatoes are fork-tender.",
+        "Drain the water and place the sweet potatoes on a cutting board to cool. Once cool enough to handle, peel and discard the skins, then place the sweet potatoes in a large mixing bowl.",
+        "Add the sugar, eggs, vanilla, butter, and milk. Mix with a hand mixer on low speed until smooth.",
+        "Spread the sweet potato mixture evenly into the prepared baking dish.",
+        "In a separate bowl, combine the brown sugar, flour, and pecans for the topping. Add the melted butter and mix with a fork until crumbly.",
+        "Sprinkle the topping evenly over the sweet potatoes and bake uncovered for 30–45 minutes.",
+        "Optional: Sprinkle mini marshmallows over the top during the last 5–10 minutes of baking and continue baking until the marshmallows are lightly golden."
+      ]
+    },
+    {
+      "name": "Sweet Potatoes",
+      "url": "recipes/sweet-potatoes.html",
+      "ingredients": [
+        {
+          "amount": 3,
+          "item": "sweet potatoes",
+          "note": "peeled and diced"
+        },
+        {
+          "amount": 3,
+          "unit": "TBSP",
+          "item": "olive oil or avocado oil"
+        },
+        {
+          "item": "salt & pepper",
+          "note": "to taste"
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "bell peppers",
+          "note": "diced"
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "onion",
+          "note": "diced"
+        },
+        {
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "cinnamon sugar"
+        },
+        {
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "brown sugar"
+        }
+      ],
+      "directions": [
+        "Preheat the oven to 400°F.",
+        "In a large bowl, toss the sweet potatoes with the oil until evenly coated.",
+        "Add the desired seasoning option and mix well.",
+        "Spread the sweet potatoes onto a baking sheet and bake for 20–40 minutes, or until fork-tender."
+      ]
+    },
+    {
+      "name": "Sweet Potatoes Gratin",
+      "url": "recipes/sweet-potato-gratin.html",
+      "ingredients": [
+        {
+          "amount": 0.75,
+          "unit": "cup",
+          "item": "heavy whipping cream"
+        },
+        {
+          "amount": 0.75,
+          "unit": "cup",
+          "item": "milk"
+        },
+        {
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "unsalted butter"
+        },
+        {
+          "amount": 2,
+          "unit": "clove",
+          "item": "garlic",
+          "note": "finely minced"
+        },
+        {
+          "amount": 1,
+          "unit": "TBSP",
+          "item": "fresh parsley",
+          "note": "finely chopped"
+        },
+        {
+          "amount": 1,
+          "unit": "TBSP",
+          "item": "fresh thyme",
+          "note": "finely chopped"
+        },
+        {
+          "amount": 1,
+          "unit": "TBSP",
+          "item": "fresh sage",
+          "note": "finely chopped"
+        },
+        {
+          "amount": 1,
+          "unit": "TBSP",
+          "item": "fresh rosemary",
+          "note": "finely chopped"
+        },
+        {
+          "amount": 1.5,
+          "unit": "tsp",
+          "item": "salt"
+        },
+        {
+          "amount": 0.75,
+          "unit": "tsp",
+          "item": "black pepper"
+        },
+        {
+          "amount": 3,
+          "unit": "LB",
+          "item": "sweet potatoes",
+          "note": "peeled and thinly sliced"
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "Gruyere cheese",
+          "note": "shredded"
+        }
+      ],
+      "subtitle": "Doris Tritle",
+      "directions": [
+        "Preheat the oven to 400°F and grease a 9x13-inch baking dish.",
+        "In a medium saucepan, combine the heavy whipping cream, milk, butter, and garlic. Bring to a gentle simmer.",
+        "Remove from heat and stir in the parsley, thyme, sage, rosemary, salt, and pepper.",
+        "Arrange half of the sweet potatoes in the bottom of the prepared baking dish. Pour half of the milk mixture over the potatoes and sprinkle with half of the Gruyère cheese. Repeat the layers with the remaining sweet potatoes, milk mixture, and cheese.",
+        "Cover the pan with foil and bake for 30 minutes. Remove the foil and bake for an additional 15 minutes, or until the potatoes are tender and the top is bubbly and golden brown.",
+        "Let the dish stand for about 10 minutes before serving. Optional: Top with fresh herbs."
+      ]
+    },
+    {
+      "name": "Vermicelli Pasta Salad",
+      "url": "recipes/vermicelli-pasta-salad.html",
+      "ingredients": [
+        {
+          "amount": 16,
+          "unit": "oz",
+          "item": "angel hair spaghetti"
+        },
+        {
+          "amount": 1,
+          "unit": "TBSP",
+          "item": "Ac'cent flavor enhancer"
+        },
+        {
+          "amount": 1,
+          "unit": "TBSP",
+          "item": "Lawry's"
+        },
+        {
+          "amount": 3,
+          "unit": "TBSP",
+          "item": "lemon juice"
+        },
+        {
+          "amount": 4,
+          "unit": "TBSP",
+          "item": "olive or avocado oil"
+        },
+        {
+          "amount": 4,
+          "unit": "oz",
+          "item": "pimentos",
+          "note": "diced"
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "green bell peppers",
+          "note": "diced"
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "red onion",
+          "note": "diced"
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "celery",
+          "note": "finely diced"
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "black olives",
+          "note": "chopped"
+        },
+        {
+          "amount": 1.5,
+          "unit": "cup",
+          "item": "mayo (not Miracle Whip)"
+        }
+      ],
+      "subtitle": "Wendy Jones",
+      "directions": [
+        "In a medium saucepan, cook the pasta until al dente. Drain and set aside.",
+        "In a large bowl, combine the Ac'cent, Lawry’s seasoning, lemon juice, and oil. Add the spaghetti and mix well. Cover and refrigerate for at least 2 hours, preferably overnight, to enhance the flavor.",
+        "Remove the pasta from the refrigerator. Add the pimentos, bell peppers, red onion, celery, black olives, and mayonnaise. Mix until well combined.",
+        "Refrigerate for at least 1 hour before serving."
+      ]
+    }
+  ]
 }

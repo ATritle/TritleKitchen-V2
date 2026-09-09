@@ -1,1696 +1,1974 @@
 {
-    "Bars": [
+  "Bars": [
+    {
+      "name": "Avocado Fudge",
+      "url": "recipes/avocado-fudge.html",
+      "ingredients": [
         {
-            "name": "Avocado Fudge",
-            "url": "recipes/avocado-fudge.html",
-            "ingredients": [
-                {
-                    "amount": 2,
-                    "item": "medium avocados",
-                    "note": "cubed"
-                },
-                {
-                    "amount": 1,
-                    "item": "ripe banana"
-                },
-                {
-                    "amount": 0.25,
-                    "unit": "cup",
-                    "item": "honey"
-                },
-                {
-                    "amount": 0.6666666666666666,
-                    "unit": "cup",
-                    "item": "coconut oil",
-                    "note": "melted"
-                },
-                {
-                    "amount": 1,
-                    "item": "lemon",
-                    "note": "juiced"
-                },
-                {
-                    "item": "pinch of salt"
-                },
-                {
-                    "item": "walnuts",
-                    "note": "to taste"
-                },
-                {
-                    "item": "coconut flakes",
-                    "note": "to taste"
-                }
-            ]
+          "amount": 2,
+          "item": "medium avocados",
+          "note": "cubed"
         },
         {
-            "name": "Blueberry Oat Bars",
-            "url": "recipes/blueberry-oat-bars.html",
-            "ingredients": [
-                {
-                    "amount": 2,
-                    "unit": "cup",
-                    "item": "rolled oats",
-                    "note": "divided"
-                },
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "almonds or almond butter"
-                },
-                {
-                    "amount": 2,
-                    "item": "scoops vanilla protein powder"
-                },
-                {
-                    "amount": 10,
-                    "item": "dates",
-                    "note": "pitted & chopped"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "agave or maple syrup"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "tsp",
-                    "item": "vanilla extract"
-                },
-                {
-                    "item": "pinch of salt"
-                },
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "blueberries"
-                }
-            ]
+          "amount": 1,
+          "item": "ripe banana"
         },
         {
-            "name": "Caramel Rice Krispies Treats",
-            "url": "recipes/caramel-rice-krispies-treats.html",
-            "ingredients": [
-                {
-                    "amount": 2,
-                    "item": "bags marshmallows"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "unsalted butter"
-                },
-                {
-                    "amount": 12,
-                    "unit": "cup",
-                    "item": "Rice Krispies"
-                },
-                {
-                    "item": "Caramel sauce:"
-                },
-                {
-                    "amount": 1.25,
-                    "unit": "stick",
-                    "item": "unsalted butter"
-                },
-                {
-                    "amount": 14,
-                    "unit": "oz",
-                    "item": "Kraft caramels",
-                    "note": "unwrapped"
-                },
-                {
-                    "amount": 13,
-                    "unit": "oz",
-                    "item": "can sweetened condensed milk"
-                }
-            ]
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "honey"
         },
         {
-            "name": "Chocolate Chickpea Brownies",
-            "url": "recipes/chocolate-chickpea-brownies.html",
-            "ingredients": [
-                {
-                    "amount": 15,
-                    "unit": "oz",
-                    "item": "can chickpeas",
-                    "note": "drained & rinsed"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "almond or peanut butter"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "agave syrup"
-                },
-                {
-                    "amount": 1,
-                    "unit": "TBSP",
-                    "item": "coconut oil",
-                    "note": "melted"
-                },
-                {
-                    "amount": 1,
-                    "unit": "tsp",
-                    "item": "vanilla extract"
-                },
-                {
-                    "amount": 0.25,
-                    "unit": "cup",
-                    "item": "almond flour"
-                },
-                {
-                    "amount": 0.25,
-                    "unit": "cup",
-                    "item": "Hershey's 100% unsweetened cocoa powder"
-                },
-                {
-                    "amount": 0.25,
-                    "unit": "tsp",
-                    "item": "baking soda"
-                },
-                {
-                    "amount": 0.25,
-                    "unit": "tsp",
-                    "item": "baking powder"
-                },
-                {
-                    "amount": 0.25,
-                    "unit": "tsp",
-                    "item": "salt"
-                },
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "chocolate chips",
-                    "note": "divided"
-                }
-            ]
+          "amount": 0.6666666666666666,
+          "unit": "cup",
+          "item": "coconut oil",
+          "note": "melted"
         },
         {
-            "name": "Chunky Blonde Brownies",
-            "url": "recipes/chunky-blonde-brownies.html",
-            "ingredients": [
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "unsalted butter",
-                    "note": "softened"
-                },
-                {
-                    "amount": 0.75,
-                    "unit": "cup",
-                    "item": "sugar"
-                },
-                {
-                    "amount": 0.75,
-                    "unit": "cup",
-                    "item": "brown sugar",
-                    "note": "packed"
-                },
-                {
-                    "amount": 2,
-                    "item": "eggs",
-                    "note": "room temperature"
-                },
-                {
-                    "amount": 1,
-                    "unit": "tsp",
-                    "item": "vanilla extract"
-                },
-                {
-                    "amount": 1.5,
-                    "unit": "cup",
-                    "item": "flour",
-                    "note": "sifted"
-                },
-                {
-                    "amount": 1,
-                    "unit": "tsp",
-                    "item": "baking powder"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "tsp",
-                    "item": "salt"
-                },
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "white chocolate or vanilla chips"
-                },
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "chocolate chips"
-                },
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "macadamia nuts"
-                }
-            ]
+          "amount": 1,
+          "item": "lemon",
+          "note": "juiced"
         },
         {
-            "name": "Mary Bars",
-            "url": "recipes/mary-bars.html",
-            "ingredients": [
-                {
-                    "amount": 1.5,
-                    "unit": "cup",
-                    "item": "creamy peanut butter",
-                    "note": "divided into 1 cup and 1/2 cup"
-                },
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "sugar"
-                },
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "light corn syrup"
-                },
-                {
-                    "amount": 7,
-                    "unit": "cup",
-                    "item": "Rice Krispies"
-                },
-                {
-                    "amount": 6,
-                    "item": "squares white almond bark"
-                },
-                {
-                    "amount": 1.5,
-                    "unit": "cup",
-                    "item": "semi-sweet chocolate chips"
-                }
-            ]
+          "item": "pinch of salt"
         },
         {
-            "name": "⭐ Monster Cookie Bars",
-            "url": "recipes/monster-cookie-bars.html",
-            "ingredients": [
-                {
-                    "amount": 1,
-                    "unit": "stick",
-                    "item": "unsalted butter",
-                    "note": "softened"
-                },
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "light brown sugar",
-                    "note": "packed"
-                },
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "sugar"
-                },
-                {
-                    "amount": 3,
-                    "item": "eggs",
-                    "note": "room temperature"
-                },
-                {
-                    "amount": 1.5,
-                    "unit": "cup",
-                    "item": "creamy peanut butter"
-                },
-                {
-                    "amount": 1,
-                    "unit": "tsp",
-                    "item": "vanilla extract"
-                },
-                {
-                    "amount": 2,
-                    "unit": "tsp",
-                    "item": "baking soda"
-                },
-                {
-                    "amount": 4.5,
-                    "unit": "cup",
-                    "item": "quick oats"
-                },
-                {
-                    "amount": 1.5,
-                    "unit": "cup",
-                    "item": "semi-sweet mini chocolate chips"
-                },
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "M&M's"
-                }
-            ]
+          "item": "walnuts",
+          "note": "to taste"
         },
         {
-            "name": "Rhubarb Cheesecake Squares",
-            "url": "recipes/rhubarb-cheesecake-squares.html",
-            "ingredients": [
-                {
-                    "amount": 1.25,
-                    "unit": "cup",
-                    "item": "flour",
-                    "note": "sifted"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "old-fashioned oats"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "brown sugar",
-                    "note": "packed"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "butter",
-                    "note": "cold and cubed"
-                },
-                {
-                    "amount": 8,
-                    "unit": "oz",
-                    "item": "package cream cheese",
-                    "note": "softened"
-                },
-                {
-                    "amount": 0.75,
-                    "unit": "cup",
-                    "item": "sugar"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "tsp",
-                    "item": "salt"
-                },
-                {
-                    "amount": 0.25,
-                    "unit": "tsp",
-                    "item": "cinnamon"
-                },
-                {
-                    "amount": 0.125,
-                    "unit": "tsp",
-                    "item": "nutmeg"
-                },
-                {
-                    "amount": 1,
-                    "item": "LG egg",
-                    "note": "room temperature and lightly beaten"
-                },
-                {
-                    "amount": 1.5,
-                    "unit": "cup",
-                    "item": "rhubarb",
-                    "note": "diced"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "tsp",
-                    "item": "vanilla extract"
-                }
-            ]
-        },
-        {
-            "name": "S'more Bars",
-            "url": "recipes/smore-bars.html",
-            "ingredients": [
-                {
-                    "amount": 8,
-                    "unit": "cup",
-                    "item": "mini marshmallows",
-                    "note": "divided into 6 cups and 2 cups"
-                },
-                {
-                    "amount": 4,
-                    "unit": "TBSP",
-                    "item": "unsalted butter"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "tsp",
-                    "item": "salt"
-                },
-                {
-                    "amount": 1.75,
-                    "unit": "cup",
-                    "item": "chocolate chips",
-                    "note": "divided into 1 cup and 3/4 cup"
-                },
-                {
-                    "amount": 8,
-                    "item": "-10 graham crackers",
-                    "note": "cut in half short way"
-                }
-            ]
+          "item": "coconut flakes",
+          "note": "to taste"
         }
-    ],
-    "Cake": [
+      ],
+      "subtitle": "Rebekah Sanford",
+      "directions": [
+        "In a food processor, combine the avocado, banana, honey, coconut oil, lemon juice, and salt.",
+        "Blend until smooth, scraping down the sides as needed.",
+        "Pour the mixture into an 8x8-inch freezer-safe pan lined with parchment paper.",
+        "Top with walnuts and/or coconut flakes, if desired.",
+        "Freeze for at least 3 hours before cutting into cubes."
+      ]
+    },
+    {
+      "name": "Blueberry Oat Bars",
+      "url": "recipes/blueberry-oat-bars.html",
+      "ingredients": [
         {
-            "name": "Banana Greek Yogurt Muffins",
-            "url": "recipes/banana-greek-yogurt-muffins.html",
-            "ingredients": [
-                {
-                    "amount": 2,
-                    "item": "ripe bananas",
-                    "note": "mashed"
-                },
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "Greek yogurt"
-                },
-                {
-                    "amount": 2,
-                    "item": "eggs",
-                    "note": "room temp"
-                },
-                {
-                    "amount": 2,
-                    "unit": "cup",
-                    "item": "rolled quick oats"
-                },
-                {
-                    "amount": 0.25,
-                    "unit": "cup",
-                    "item": "brown sugar"
-                },
-                {
-                    "amount": 1,
-                    "item": "½ tsp baking powder"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "tsp",
-                    "item": "baking soda"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "mini chocolate chips"
-                }
-            ]
+          "amount": 2,
+          "unit": "cup",
+          "item": "rolled oats",
+          "note": "divided"
         },
         {
-            "name": "Better Than Sex Cake",
-            "url": "recipes/better-than-sex-cake.html",
-            "ingredients": [
-                {
-                    "amount": 1,
-                    "item": "box Devil's food cake"
-                },
-                {
-                    "amount": 7,
-                    "unit": "oz",
-                    "item": "can sweetened condensed milk"
-                },
-                {
-                    "amount": 6,
-                    "unit": "oz",
-                    "item": "caramel ice cream topping"
-                },
-                {
-                    "amount": 3,
-                    "item": "Heath bars",
-                    "note": "crushed"
-                },
-                {
-                    "amount": 8,
-                    "unit": "oz",
-                    "item": "container Cool Whip"
-                }
-            ]
+          "amount": 1,
+          "unit": "cup",
+          "item": "almonds or almond butter"
         },
         {
-            "name": "Caramel Cinnamon Rolls",
-            "url": "recipes/caramel-cinnamon-rolls-ruby.html",
-            "ingredients": [
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "sugar"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "Crisco"
-                },
-                {
-                    "amount": 1.5,
-                    "unit": "tsp",
-                    "item": "salt"
-                },
-                {
-                    "amount": 2,
-                    "item": "eggs",
-                    "note": "room temperature, beaten"
-                },
-                {
-                    "amount": 1.25,
-                    "unit": "tsp",
-                    "item": "yeast"
-                },
-                {
-                    "amount": 6,
-                    "unit": "cup",
-                    "item": "flour",
-                    "note": "sifted"
-                },
-                {
-                    "amount": 2,
-                    "unit": "cup",
-                    "item": "boiling water"
-                },
-                {
-                    "amount": 3,
-                    "item": "-4 TBSP butter",
-                    "note": "melted"
-                },
-                {
-                    "item": "cinnamon & sugar"
-                },
-                {
-                    "item": "Caramel sauce:"
-                },
-                {
-                    "amount": 2,
-                    "unit": "cup",
-                    "item": "brown sugar",
-                    "note": "packed"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "water"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "butter",
-                    "note": "softened"
-                },
-                {
-                    "amount": 4,
-                    "unit": "TBSP",
-                    "item": "white Karo syrup"
-                },
-                {
-                    "item": "Optional: pecan or walnuts"
-                }
-            ]
+          "amount": 2,
+          "item": "scoops vanilla protein powder"
         },
         {
-            "name": "Chocolate Zucchini Cake",
-            "url": "recipes/chocolate-zucchini-cake.html",
-            "ingredients": [
-                {
-                    "amount": 2,
-                    "unit": "cup",
-                    "item": "flour",
-                    "note": "sifted"
-                },
-                {
-                    "amount": 0.75,
-                    "unit": "cup",
-                    "item": "unsweetened natural cocoa powder"
-                },
-                {
-                    "amount": 2,
-                    "unit": "tsp",
-                    "item": "baking soda"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "tsp",
-                    "item": "baking powder"
-                },
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "olive or avocado oil"
-                },
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "sugar"
-                },
-                {
-                    "amount": 0.75,
-                    "unit": "cup",
-                    "item": "brown sugar",
-                    "note": "packed"
-                },
-                {
-                    "amount": 2,
-                    "unit": "tsp",
-                    "item": "vanilla extract"
-                },
-                {
-                    "amount": 0.3333333333333333,
-                    "unit": "cup",
-                    "item": "sour cream or plain vanilla yogurt"
-                },
-                {
-                    "amount": 4,
-                    "item": "eggs",
-                    "note": "room temperature"
-                },
-                {
-                    "amount": 3,
-                    "unit": "cup",
-                    "item": "zucchini",
-                    "note": "shredded and lightly squeezed"
-                },
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "semi-sweet chocolate chips"
-                }
-            ]
+          "amount": 10,
+          "item": "dates",
+          "note": "pitted & chopped"
         },
         {
-            "name": "Chocolate Zucchini Muffins",
-            "url": "recipes/chocolate-zucchini-muffins.html",
-            "ingredients": [
-                {
-                    "amount": 2,
-                    "unit": "TBSP",
-                    "item": "flaxseed meal"
-                },
-                {
-                    "amount": 5,
-                    "unit": "TBSP",
-                    "item": "water"
-                },
-                {
-                    "amount": 0.25,
-                    "unit": "cup",
-                    "item": "applesauce"
-                },
-                {
-                    "amount": 0.25,
-                    "unit": "cup",
-                    "item": "maple or agave syrup"
-                },
-                {
-                    "amount": 0.3333333333333333,
-                    "unit": "cup",
-                    "item": "coconut sugar"
-                },
-                {
-                    "amount": 1.5,
-                    "unit": "tsp",
-                    "item": "baking soda"
-                },
-                {
-                    "amount": 1,
-                    "unit": "tsp",
-                    "item": "baking powder"
-                },
-                {
-                    "amount": 0.25,
-                    "unit": "tsp",
-                    "item": "sea salt"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "unsweetened cocoa powder"
-                },
-                {
-                    "amount": 0.25,
-                    "unit": "cup",
-                    "item": "coconut oil",
-                    "note": "melted"
-                },
-                {
-                    "amount": 0.25,
-                    "unit": "cup",
-                    "item": "unsweetened almond milk"
-                },
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "zucchini",
-                    "note": "finely shredded and squeezed"
-                },
-                {
-                    "amount": 0.75,
-                    "unit": "cup",
-                    "item": "flour",
-                    "note": "sifted"
-                },
-                {
-                    "amount": 0.3333333333333333,
-                    "unit": "cup",
-                    "item": "oat flour"
-                },
-                {
-                    "amount": 0.3333333333333333,
-                    "unit": "cup",
-                    "item": "almond flour"
-                },
-                {
-                    "amount": 0.3333333333333333,
-                    "unit": "cup",
-                    "item": "semi-sweet chocolate chips"
-                }
-            ]
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "agave or maple syrup"
         },
         {
-            "name": "Red Velvet Cake",
-            "url": "recipes/red-velvet-cake.html",
-            "ingredients": [
-                {
-                    "item": "Cake:"
-                },
-                {
-                    "amount": 1.5,
-                    "unit": "cup",
-                    "item": "sugar"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "Crisco"
-                },
-                {
-                    "amount": 2,
-                    "unit": "oz",
-                    "item": "red food coloring"
-                },
-                {
-                    "amount": 2,
-                    "item": "eggs",
-                    "note": "room temperature"
-                },
-                {
-                    "amount": 2,
-                    "unit": "cup",
-                    "item": "flour",
-                    "note": "sifted"
-                },
-                {
-                    "amount": 1,
-                    "unit": "tsp",
-                    "item": "salt"
-                },
-                {
-                    "amount": 2,
-                    "unit": "TBSP",
-                    "item": "unsweetened cocoa powder"
-                },
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "buttermilk"
-                },
-                {
-                    "amount": 1,
-                    "unit": "tsp",
-                    "item": "baking soda"
-                },
-                {
-                    "amount": 1,
-                    "unit": "TBSP",
-                    "item": "vanilla extract"
-                },
-                {
-                    "amount": 1,
-                    "unit": "TBSP",
-                    "item": "white vinegar"
-                },
-                {
-                    "item": "Frosting:"
-                },
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "milk"
-                },
-                {
-                    "amount": 1.5,
-                    "unit": "TBSP",
-                    "item": "cornstarch"
-                },
-                {
-                    "item": "pinch salt"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "Crisco"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "butter",
-                    "note": "softened"
-                },
-                {
-                    "amount": 0.6666666666666666,
-                    "unit": "cup",
-                    "item": "sugar"
-                },
-                {
-                    "amount": 1.6666666666666665,
-                    "unit": "cup",
-                    "item": "powdered sugar",
-                    "note": "divided"
-                },
-                {
-                    "amount": 1,
-                    "unit": "tsp",
-                    "item": "vanilla extract"
-                }
-            ]
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "vanilla extract"
         },
         {
-            "name": "Strawberry Banana Poke Cake",
-            "url": "recipes/strawberry-banana-poke-cake.html",
-            "ingredients": [
-                {
-                    "amount": 21.5,
-                    "unit": "oz",
-                    "item": "package all butter pound cake",
-                    "note": "cubed"
-                },
-                {
-                    "amount": 3,
-                    "unit": "oz",
-                    "item": "package strawberry Jell-o"
-                },
-                {
-                    "amount": 1,
-                    "item": "large container strawberries",
-                    "note": "sliced"
-                },
-                {
-                    "amount": 4,
-                    "item": "-5 bananas",
-                    "note": "sliced"
-                },
-                {
-                    "amount": 3.4,
-                    "unit": "oz",
-                    "item": "package vanilla pudding"
-                },
-                {
-                    "amount": 2,
-                    "unit": "cup",
-                    "item": "cold milk"
-                },
-                {
-                    "amount": 8,
-                    "unit": "oz",
-                    "item": "Cool Whip",
-                    "note": "thawed"
-                }
-            ]
+          "item": "pinch of salt"
         },
         {
-            "name": "Vegan Zucchini Muffins",
-            "url": "recipes/vegan-zucchini-muffins.html",
-            "ingredients": [
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "avocado oil"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "unsweetened almond milk"
-                },
-                {
-                    "amount": 0.6666666666666666,
-                    "unit": "cup",
-                    "item": "coconut sugar"
-                },
-                {
-                    "amount": 0.6666666666666666,
-                    "unit": "cup",
-                    "item": "maple or agave syrup"
-                },
-                {
-                    "amount": 2,
-                    "unit": "tsp",
-                    "item": "vanilla extract"
-                },
-                {
-                    "amount": 2,
-                    "unit": "cup",
-                    "item": "zucchini",
-                    "note": "shredded and squeezed"
-                },
-                {
-                    "amount": 3,
-                    "unit": "cup",
-                    "item": "almond flour"
-                },
-                {
-                    "amount": 1.3333333333333333,
-                    "unit": "cup",
-                    "item": "+ 1/2 cup flour",
-                    "note": "sifted"
-                },
-                {
-                    "amount": 4,
-                    "unit": "TBSP",
-                    "item": "flaxseed meal"
-                },
-                {
-                    "amount": 5,
-                    "unit": "tsp",
-                    "item": "baking powder"
-                },
-                {
-                    "amount": 1,
-                    "unit": "tsp",
-                    "item": "baking soda"
-                },
-                {
-                    "amount": 1,
-                    "unit": "TBSP",
-                    "item": "cinnamon"
-                },
-                {
-                    "amount": 1,
-                    "unit": "tsp",
-                    "item": "sea salt"
-                }
-            ]
+          "amount": 1,
+          "unit": "cup",
+          "item": "blueberries"
         }
-    ],
-    "Layered Dish": [
+      ],
+      "subtitle": "Tammy Kuhlmann",
+      "directions": [
+        "Preheat the oven to 350°F.",
+        "In a food processor, combine 1 cup oats, almonds, protein powder, and salt. Process until finely ground.",
+        "Add the dates and process in 30-second increments until well combined. Do not overmix, as the mixture can become gummy.",
+        "If using frozen blueberries, warm them slightly in the microwave. In a bowl, combine the blueberries with the remaining 1 cup oats, vanilla, and agave.",
+        "Line an 8x8-inch pan with parchment paper. Press the mixture firmly and evenly into the pan.",
+        "Bake for 20–25 minutes, or until slightly golden.",
+        "Allow to cool completely before cutting into bars.",
+        "Store in the freezer for best texture."
+      ]
+    },
+    {
+      "name": "Caramel Rice Krispies Treats",
+      "url": "recipes/caramel-rice-krispies-treats.html",
+      "ingredients": [
         {
-            "name": "Banana Chessman Dessert",
-            "url": "recipes/banana-chessmen-dessert.html",
-            "ingredients": [
-                {
-                    "amount": 12,
-                    "unit": "oz",
-                    "item": "container Cool Whip",
-                    "note": "thawed"
-                },
-                {
-                    "amount": 14,
-                    "unit": "oz",
-                    "item": "sweetend condensed milk"
-                },
-                {
-                    "amount": 8,
-                    "unit": "oz",
-                    "item": "cream cheese",
-                    "note": "softened"
-                },
-                {
-                    "amount": 2,
-                    "item": "c milk"
-                },
-                {
-                    "amount": 5,
-                    "unit": "oz",
-                    "item": "French vanilla pudding mix"
-                },
-                {
-                    "amount": 6,
-                    "item": "-8 bananas",
-                    "note": "sliced"
-                },
-                {
-                    "amount": 48,
-                    "item": "Chessmen cookies"
-                }
-            ]
+          "amount": 2,
+          "item": "bags marshmallows"
         },
         {
-            "name": "⭐ Peach Cobbler",
-            "url": "recipes/peach-cobbler.html",
-            "ingredients": [
-                {
-                    "amount": 15.25,
-                    "unit": "oz",
-                    "item": "package yellow cake mix"
-                },
-                {
-                    "amount": 30,
-                    "unit": "oz",
-                    "item": "can no sugar added sliced peaches",
-                    "note": "mostly drained"
-                },
-                {
-                    "amount": 24,
-                    "unit": "oz",
-                    "item": "Sprite or 7UP"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "brown sugar",
-                    "note": "packed and divided"
-                },
-                {
-                    "item": "honey",
-                    "note": "to drizzle"
-                },
-                {
-                    "amount": 1,
-                    "unit": "tsp",
-                    "item": "cinnamon",
-                    "note": "divided"
-                },
-                {
-                    "item": "Optional: vanilla ice cream"
-                }
-            ]
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "unsalted butter"
         },
         {
-            "name": "Rhubarb Butter Crunch",
-            "url": "recipes/rhubarb-butter-crunch.html",
-            "ingredients": [
-                {
-                    "amount": 6,
-                    "unit": "cup",
-                    "item": "rhubarb",
-                    "note": "diced"
-                },
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "sugar"
-                },
-                {
-                    "amount": 2,
-                    "unit": "TBSP",
-                    "item": "flour"
-                },
-                {
-                    "amount": 1,
-                    "unit": "tsp",
-                    "item": "nutmeg"
-                },
-                {
-                    "amount": 4,
-                    "unit": "tsp",
-                    "item": "cinnamon"
-                },
-                {
-                    "item": "Crumble:"
-                },
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "brown sugar",
-                    "note": "packed"
-                },
-                {
-                    "amount": 1.25,
-                    "unit": "cup",
-                    "item": "flour",
-                    "note": "sifted"
-                },
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "old-fashioned oats"
-                },
-                {
-                    "amount": 0.75,
-                    "unit": "cup",
-                    "item": "butter",
-                    "note": "melted"
-                }
-            ]
+          "amount": 12,
+          "unit": "cup",
+          "item": "Rice Krispies"
         },
         {
-            "name": "Strawberry Rhubarb Crisp",
-            "url": "recipes/strawberry-rhubarb-crisp.html",
-            "ingredients": [
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "sugar"
-                },
-                {
-                    "amount": 3,
-                    "unit": "TBSP",
-                    "item": "oat flour"
-                },
-                {
-                    "amount": 3,
-                    "unit": "cup",
-                    "item": "strawberries",
-                    "note": "sliced"
-                },
-                {
-                    "amount": 3,
-                    "unit": "cup",
-                    "item": "rhubarb",
-                    "note": "diced"
-                },
-                {
-                    "item": "Topping:"
-                },
-                {
-                    "amount": 1.5,
-                    "unit": "cup",
-                    "item": "oat flour"
-                },
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "brown sugar",
-                    "note": "packed"
-                },
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "unsalted butter",
-                    "note": "cold and sliced"
-                },
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "quick oats"
-                },
-                {
-                    "item": "Optional: vanilla ice cream"
-                }
-            ]
+          "item": "Caramel sauce:"
+        },
+        {
+          "amount": 1.25,
+          "unit": "stick",
+          "item": "unsalted butter"
+        },
+        {
+          "amount": 14,
+          "unit": "oz",
+          "item": "Kraft caramels",
+          "note": "unwrapped"
+        },
+        {
+          "amount": 13,
+          "unit": "oz",
+          "item": "can sweetened condensed milk"
         }
-    ],
-    "Misc.": [
+      ],
+      "subtitle": "Kim Meyer",
+      "directions": [
+        "In a large saucepan over medium-low heat, melt the marshmallows and butter, stirring frequently. Remove from heat and stir in the Rice Krispies until well combined.",
+        "In a microwave-safe glass bowl, combine 1¼ sticks of butter, caramels, and sweetened condensed milk. Microwave in 45-second increments, stirring between each, until fully melted and smooth.",
+        "Press half of the Rice Krispies mixture into a greased or parchment-lined pan. Pour the caramel mixture evenly over the top and refrigerate for 1 hour.",
+        "Spread the remaining Rice Krispies mixture over the caramel layer and press gently to seal."
+      ]
+    },
+    {
+      "name": "Chocolate Chickpea Brownies",
+      "url": "recipes/chocolate-chickpea-brownies.html",
+      "ingredients": [
         {
-            "name": "Caramel Corn",
-            "url": "recipes/caramel-corn-old-dutch-style.html",
-            "ingredients": [
-                {
-                    "amount": 1,
-                    "unit": "package",
-                    "item": "Old Dutch Puffcorn"
-                },
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "unsalted butter"
-                },
-                {
-                    "amount": 1.25,
-                    "unit": "cup",
-                    "item": "brown sugar",
-                    "note": "packed"
-                },
-                {
-                    "amount": 0.6666666666666666,
-                    "unit": "cup",
-                    "item": "light corn syrup"
-                },
-                {
-                    "amount": 1,
-                    "unit": "tsp",
-                    "item": "baking soda"
-                },
-                {
-                    "item": "Optional: chocolate chips",
-                    "note": "melted"
-                }
-            ]
+          "amount": 15,
+          "unit": "oz",
+          "item": "can chickpeas",
+          "note": "drained & rinsed"
         },
         {
-            "name": "Chocolate Buttercream Frosting",
-            "url": "recipes/chocolate-buttercream-frosting.html",
-            "ingredients": [
-                {
-                    "amount": 1.25,
-                    "unit": "cup",
-                    "item": "unsalted butter",
-                    "note": "room temperature"
-                },
-                {
-                    "amount": 3.5,
-                    "unit": "cup",
-                    "item": "powdered sugar"
-                },
-                {
-                    "amount": 3,
-                    "item": "-5 TBSP heavy whipping cream or milk",
-                    "note": "room temperature"
-                },
-                {
-                    "amount": 0.25,
-                    "unit": "tsp",
-                    "item": "salt"
-                },
-                {
-                    "amount": 1,
-                    "unit": "tsp",
-                    "item": "vanilla extract"
-                },
-                {
-                    "item": "Optional: semi-sweet chocolate chips for decoration"
-                }
-            ]
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "almond or peanut butter"
         },
         {
-            "name": "Chocolate Chip Cookies",
-            "url": "recipes/chocolate-chip-cookies-grandma-peggy.html",
-            "ingredients": [
-                {
-                    "amount": 1.5,
-                    "unit": "cup",
-                    "item": "butter",
-                    "note": "softened"
-                },
-                {
-                    "amount": 1.25,
-                    "unit": "cup",
-                    "item": "sugar"
-                },
-                {
-                    "amount": 1.25,
-                    "unit": "cup",
-                    "item": "brown sugar",
-                    "note": "packed"
-                },
-                {
-                    "amount": 2,
-                    "item": "eggs",
-                    "note": "room temperature"
-                },
-                {
-                    "amount": 1,
-                    "unit": "TBSP",
-                    "item": "vanilla extract"
-                },
-                {
-                    "amount": 4.5,
-                    "unit": "cup",
-                    "item": "flour",
-                    "note": "sifted"
-                },
-                {
-                    "amount": 1,
-                    "unit": "tsp",
-                    "item": "baking powder"
-                },
-                {
-                    "amount": 1,
-                    "unit": "tsp",
-                    "item": "baking soda"
-                },
-                {
-                    "amount": 1,
-                    "unit": "tsp",
-                    "item": "salt"
-                },
-                {
-                    "amount": 2,
-                    "unit": "cup",
-                    "item": "chocolate chips"
-                }
-            ]
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "agave syrup"
         },
         {
-            "name": "Chocolate Peanut Butter Mousse - Keto",
-            "url": "recipes/chocolate-peanut-butter-mousse-keto.html",
-            "ingredients": [
-                {
-                    "amount": 4,
-                    "unit": "oz",
-                    "item": "cream cheese",
-                    "note": "softened"
-                },
-                {
-                    "amount": 3.5,
-                    "unit": "TBSP",
-                    "item": "Swerve confectioners sugar"
-                },
-                {
-                    "amount": 1,
-                    "unit": "TBSP",
-                    "item": "cocoa powder"
-                },
-                {
-                    "amount": 3,
-                    "unit": "TBSP",
-                    "item": "sugar-free peanut butter"
-                },
-                {
-                    "amount": 0.6666666666666666,
-                    "unit": "cup",
-                    "item": "heavy whipping cream"
-                }
-            ]
+          "amount": 1,
+          "unit": "TBSP",
+          "item": "coconut oil",
+          "note": "melted"
         },
         {
-            "name": "Cream Cheese Fluff - Keto",
-            "url": "recipes/cream-cheese-fluff-keto.html",
-            "ingredients": [
-                {
-                    "amount": 3,
-                    "unit": "oz",
-                    "item": "cream cheese",
-                    "note": "softened"
-                },
-                {
-                    "amount": 3,
-                    "unit": "TBSP",
-                    "item": "Swerve confectioners' sugar"
-                },
-                {
-                    "amount": 3,
-                    "unit": "TBSP",
-                    "item": "heavy whipping cream"
-                }
-            ]
+          "amount": 1,
+          "unit": "tsp",
+          "item": "vanilla extract"
         },
         {
-            "name": "Everything Bagel Seasoning",
-            "url": "recipes/everything-bagel-seasoning.html",
-            "ingredients": [
-                {
-                    "amount": 1,
-                    "unit": "TBSP",
-                    "item": "poppy seeds"
-                },
-                {
-                    "amount": 1,
-                    "unit": "TBSP",
-                    "item": "white sesame seeds"
-                },
-                {
-                    "amount": 1,
-                    "unit": "TBSP",
-                    "item": "black sesame seeds"
-                },
-                {
-                    "amount": 1.5,
-                    "unit": "TBSP",
-                    "item": "dried minced garlic"
-                },
-                {
-                    "amount": 1.5,
-                    "unit": "TBSP",
-                    "item": "dried minced onion"
-                },
-                {
-                    "amount": 2,
-                    "unit": "tsp",
-                    "item": "flaky sea salt"
-                }
-            ]
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "almond flour"
         },
         {
-            "name": "Monkey Bread",
-            "url": "recipes/monkey-bread.html",
-            "ingredients": [
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "sugar"
-                },
-                {
-                    "amount": 1,
-                    "unit": "tsp",
-                    "item": "cinnamon"
-                },
-                {
-                    "amount": 2,
-                    "unit": "can",
-                    "item": "Pilsbury Grands Homestyle Buttermilk Biscuits"
-                },
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "light brown sugar",
-                    "note": "packed"
-                },
-                {
-                    "amount": 0.75,
-                    "unit": "cup",
-                    "item": "unsalted butter",
-                    "note": "melted"
-                }
-            ]
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "Hershey's 100% unsweetened cocoa powder"
         },
         {
-            "name": "Monster Cookies",
-            "url": "recipes/monster-cookie.html",
-            "ingredients": [
-                {
-                    "amount": 3,
-                    "item": "eggs",
-                    "note": "room temperature"
-                },
-                {
-                    "amount": 1.25,
-                    "unit": "cup",
-                    "item": "light brown sugar",
-                    "note": "packed"
-                },
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "sugar"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "tsp",
-                    "item": "salt"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "tsp",
-                    "item": "vanilla extract"
-                },
-                {
-                    "amount": 12,
-                    "unit": "oz",
-                    "item": "jar creamy peanut butter"
-                },
-                {
-                    "amount": 1,
-                    "unit": "stick",
-                    "item": "unsalted butter",
-                    "note": "softened"
-                },
-                {
-                    "amount": 4.5,
-                    "unit": "cup",
-                    "item": "old-fashioned oats"
-                },
-                {
-                    "amount": 2,
-                    "unit": "tsp",
-                    "item": "baking soda"
-                },
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "M&M's"
-                }
-            ]
+          "amount": 0.25,
+          "unit": "tsp",
+          "item": "baking soda"
         },
         {
-            "name": "Neiman Marcus Cookies",
-            "url": "recipes/neiman-marcus-cookies.html",
-            "ingredients": [
-                {
-                    "amount": 4,
-                    "unit": "cup",
-                    "item": "flour",
-                    "note": "sifted"
-                },
-                {
-                    "amount": 2,
-                    "unit": "tsp",
-                    "item": "baking soda"
-                },
-                {
-                    "amount": 2,
-                    "unit": "tsp",
-                    "item": "baking powder"
-                },
-                {
-                    "amount": 5,
-                    "unit": "cup",
-                    "item": "quick oats"
-                },
-                {
-                    "amount": 2,
-                    "unit": "cup",
-                    "item": "sugar"
-                },
-                {
-                    "amount": 2,
-                    "unit": "cup",
-                    "item": "unsalted butter",
-                    "note": "softened"
-                },
-                {
-                    "amount": 2,
-                    "unit": "cup",
-                    "item": "light brown sugar",
-                    "note": "packed"
-                },
-                {
-                    "amount": 1,
-                    "unit": "tsp",
-                    "item": "salt"
-                },
-                {
-                    "amount": 4,
-                    "item": "eggs",
-                    "note": "room temperature"
-                },
-                {
-                    "amount": 2,
-                    "unit": "tsp",
-                    "item": "vanilla extract"
-                },
-                {
-                    "amount": 24,
-                    "unit": "oz",
-                    "item": "milk chocolate chips"
-                },
-                {
-                    "amount": 8,
-                    "unit": "oz",
-                    "item": "Hershey's bar",
-                    "note": "grated"
-                }
-            ]
+          "amount": 0.25,
+          "unit": "tsp",
+          "item": "baking powder"
         },
         {
-            "name": "Oreo Fluff",
-            "url": "recipes/oreo-fluff.html",
-            "ingredients": [
-                {
-                    "amount": 4,
-                    "unit": "oz",
-                    "item": "cream cheese",
-                    "note": "softened"
-                },
-                {
-                    "amount": 1.5,
-                    "unit": "cup",
-                    "item": "milk"
-                },
-                {
-                    "amount": 3.4,
-                    "unit": "oz",
-                    "item": "package instant vanilla pudding"
-                },
-                {
-                    "amount": 24,
-                    "item": "Oreos",
-                    "note": "crushed"
-                },
-                {
-                    "amount": 16,
-                    "unit": "oz",
-                    "item": "Cool Whip"
-                }
-            ]
+          "amount": 0.25,
+          "unit": "tsp",
+          "item": "salt"
         },
         {
-            "name": "Oreo Fluff - Keto",
-            "url": "recipes/oreo-fluff-keto.html",
-            "ingredients": [
-                {
-                    "amount": 8,
-                    "unit": "oz",
-                    "item": "sugar-free Cool Whip"
-                },
-                {
-                    "amount": 4,
-                    "unit": "oz",
-                    "item": "sugar-free instant vanilla pudding"
-                },
-                {
-                    "amount": 2,
-                    "unit": "oz",
-                    "item": "HighKey Double Chocolate Brownie Cookies",
-                    "note": "chopped"
-                }
-            ]
-        },
-        {
-            "name": "Peanut Butter Cups",
-            "url": "recipes/peanut-butter-cups.html",
-            "ingredients": [
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "chocolate chips"
-                },
-                {
-                    "amount": 1,
-                    "unit": "TBSP",
-                    "item": "coconut oil",
-                    "note": "melted"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "peanut butter"
-                },
-                {
-                    "amount": 0.25,
-                    "unit": "cup",
-                    "item": "honey"
-                },
-                {
-                    "amount": 2,
-                    "unit": "TBSP",
-                    "item": "coconut oil",
-                    "note": "melted"
-                },
-                {
-                    "item": "pinch of sea salt",
-                    "note": "optional"
-                }
-            ]
-        },
-        {
-            "name": "Peanut Butter Frosting",
-            "url": "recipes/peanut-butter-frosting.html",
-            "ingredients": [
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "chunky or creamy peanut butter"
-                },
-                {
-                    "amount": 3,
-                    "unit": "TBSP",
-                    "item": "butter",
-                    "note": "softened"
-                },
-                {
-                    "amount": 2.5,
-                    "unit": "cup",
-                    "item": "powdered sugar"
-                },
-                {
-                    "amount": 0.25,
-                    "unit": "cup",
-                    "item": "milk"
-                },
-                {
-                    "amount": 2,
-                    "unit": "tsp",
-                    "item": "vanilla extract"
-                }
-            ]
+          "amount": 1,
+          "unit": "cup",
+          "item": "chocolate chips",
+          "note": "divided"
         }
-    ]
+      ],
+      "directions": [
+        "Preheat the oven to 350°F.",
+        "In a food processor, blend the chickpeas, nut butter, agave syrup, coconut oil, and vanilla extract until smooth.",
+        "Add the almond flour, cocoa powder, baking soda, baking powder, and salt. Continue blending until the batter is smooth and creamy.",
+        "Fold in the chocolate chips.",
+        "Lightly grease an 8x8-inch pan and spread the batter evenly into the pan. Sprinkle additional chocolate chips on top, if desired.",
+        "Bake for 21–23 minutes, or until the center is set and a toothpick inserted comes out mostly clean."
+      ]
+    },
+    {
+      "name": "Chunky Blonde Brownies",
+      "url": "recipes/chunky-blonde-brownies.html",
+      "ingredients": [
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "unsalted butter",
+          "note": "softened"
+        },
+        {
+          "amount": 0.75,
+          "unit": "cup",
+          "item": "sugar"
+        },
+        {
+          "amount": 0.75,
+          "unit": "cup",
+          "item": "brown sugar",
+          "note": "packed"
+        },
+        {
+          "amount": 2,
+          "item": "eggs",
+          "note": "room temperature"
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "vanilla extract"
+        },
+        {
+          "amount": 1.5,
+          "unit": "cup",
+          "item": "flour",
+          "note": "sifted"
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "baking powder"
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "salt"
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "white chocolate or vanilla chips"
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "chocolate chips"
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "macadamia nuts"
+        }
+      ],
+      "subtitle": "Sheila Judas",
+      "directions": [
+        "Preheat the oven to 350°F.",
+        "In a large bowl, cream together the butter, sugar, and brown sugar with a hand mixer until smooth.",
+        "Add the eggs and vanilla extract. Mix until well combined.",
+        "In a separate bowl, whisk together the flour, baking powder, and salt. Gradually add the dry ingredients to the butter mixture and mix until just combined.",
+        "Fold in the white chocolate chips and nuts, then spread the batter evenly into a greased 9x13-inch pan.",
+        "Bake for 25–30 minutes, or until the edges are lightly golden and a toothpick inserted in the center comes out clean."
+      ]
+    },
+    {
+      "name": "Mary Bars",
+      "url": "recipes/mary-bars.html",
+      "ingredients": [
+        {
+          "amount": 1.5,
+          "unit": "cup",
+          "item": "creamy peanut butter",
+          "note": "divided into 1 cup and 1/2 cup"
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "sugar"
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "light corn syrup"
+        },
+        {
+          "amount": 7,
+          "unit": "cup",
+          "item": "Rice Krispies"
+        },
+        {
+          "amount": 6,
+          "item": "squares white almond bark"
+        },
+        {
+          "amount": 1.5,
+          "unit": "cup",
+          "item": "semi-sweet chocolate chips"
+        }
+      ],
+      "subtitle": "Mary Schmitt",
+      "directions": [
+        "In a microwave-safe bowl, microwave 1 cup peanut butter on power level 5 for 1 minute and 20 seconds. Set aside.",
+        "In another microwave-safe bowl, combine the sugar and corn syrup. Microwave on full power for 2 minutes and 20 seconds, then stir into the peanut butter.",
+        "In a large bowl, add the Rice Krispies and fold in the peanut butter mixture until well combined.",
+        "Lightly grease a 9x13-inch pan or a 12x18-inch baking sheet. Press the Rice Krispies mixture evenly into the pan.",
+        "In a microwave-safe bowl, melt the almond bark on power level 2, stirring every couple of minutes, for 15–17 minutes or until fully melted. Stir in the chocolate chips and ½ cup peanut butter until smooth."
+      ]
+    },
+    {
+      "name": "⭐ Monster Cookie Bars",
+      "url": "recipes/monster-cookie-bars.html",
+      "ingredients": [
+        {
+          "amount": 1,
+          "unit": "stick",
+          "item": "unsalted butter",
+          "note": "softened"
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "light brown sugar",
+          "note": "packed"
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "sugar"
+        },
+        {
+          "amount": 3,
+          "item": "eggs",
+          "note": "room temperature"
+        },
+        {
+          "amount": 1.5,
+          "unit": "cup",
+          "item": "creamy peanut butter"
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "vanilla extract"
+        },
+        {
+          "amount": 2,
+          "unit": "tsp",
+          "item": "baking soda"
+        },
+        {
+          "amount": 4.5,
+          "unit": "cup",
+          "item": "quick oats"
+        },
+        {
+          "amount": 1.5,
+          "unit": "cup",
+          "item": "semi-sweet mini chocolate chips"
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "M&M's"
+        }
+      ],
+      "subtitle": "Jocelyn Pearce",
+      "directions": [
+        "Preheat the oven to 350°F. Lightly grease or line a 12x18-inch baking sheet with parchment paper.",
+        "In a large bowl, cream together the butter, brown sugar, and granulated sugar until smooth.",
+        "Add the eggs, peanut butter, and vanilla. Mix until well combined.",
+        "In a separate bowl, combine the baking soda and quick oats. Stir into the wet mixture until fully incorporated.",
+        "Fold in the chocolate chips and M&M’s until evenly distributed.",
+        "Drop dollops of dough evenly across the baking sheet rather than placing it all in the center. Gently press the dough into an even layer.",
+        "Bake for 15 minutes. Do not overbake."
+      ]
+    },
+    {
+      "name": "Rhubarb Cheesecake Squares",
+      "url": "recipes/rhubarb-cheesecake-squares.html",
+      "ingredients": [
+        {
+          "amount": 1.25,
+          "unit": "cup",
+          "item": "flour",
+          "note": "sifted"
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "old-fashioned oats"
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "brown sugar",
+          "note": "packed"
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "butter",
+          "note": "cold and cubed"
+        },
+        {
+          "amount": 8,
+          "unit": "oz",
+          "item": "package cream cheese",
+          "note": "softened"
+        },
+        {
+          "amount": 0.75,
+          "unit": "cup",
+          "item": "sugar"
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "salt"
+        },
+        {
+          "amount": 0.25,
+          "unit": "tsp",
+          "item": "cinnamon"
+        },
+        {
+          "amount": 0.125,
+          "unit": "tsp",
+          "item": "nutmeg"
+        },
+        {
+          "amount": 1,
+          "item": "LG egg",
+          "note": "room temperature and lightly beaten"
+        },
+        {
+          "amount": 1.5,
+          "unit": "cup",
+          "item": "rhubarb",
+          "note": "diced"
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "vanilla extract"
+        }
+      ],
+      "subtitle": "tasteofhome.com",
+      "directions": [
+        "Preheat the oven to 350°F and grease a 9x9-inch baking dish.",
+        "In a small bowl, combine the flour, oats, and brown sugar. Cut in the butter until the mixture is crumbly. Reserve 1 cup of the mixture for the topping.",
+        "Press the remaining mixture evenly into the prepared pan.",
+        "In a separate bowl, beat the cream cheese, sugar, salt, cinnamon, and nutmeg until smooth.",
+        "Add the egg and vanilla to the cream cheese mixture. Beat on low just until combined, then fold in the rhubarb.",
+        "Spread the cream cheese mixture over the crust and sprinkle with the reserved crumble topping.",
+        "Bake for about 40 minutes, or until golden brown and the filling is set.",
+        "Refrigerate, covered, for about 2 hours before cutting into squares."
+      ]
+    },
+    {
+      "name": "S'more Bars",
+      "url": "recipes/smore-bars.html",
+      "ingredients": [
+        {
+          "amount": 8,
+          "unit": "cup",
+          "item": "mini marshmallows",
+          "note": "divided into 6 cups and 2 cups"
+        },
+        {
+          "amount": 4,
+          "unit": "TBSP",
+          "item": "unsalted butter"
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "salt"
+        },
+        {
+          "amount": 1.75,
+          "unit": "cup",
+          "item": "chocolate chips",
+          "note": "divided into 1 cup and 3/4 cup"
+        },
+        {
+          "amount": 8,
+          "item": "-10 graham crackers",
+          "note": "cut in half short way"
+        }
+      ],
+      "directions": [
+        "Line a 9x13-inch pan with parchment paper and arrange graham crackers across the bottom of the pan.",
+        "In a large saucepan, melt 6 cups marshmallows, butter, and salt over medium heat.",
+        "Once melted, remove from heat and stir in 1 cup chocolate chips and 2 cups marshmallows. Work quickly and spread the mixture evenly over the graham crackers using a greased spatula.",
+        "Optional: Sprinkle additional chocolate chips on top.",
+        "Refrigerate for about 2 hours. Remove from the pan and cut into squares."
+      ]
+    }
+  ],
+  "Cake": [
+    {
+      "name": "Banana Greek Yogurt Muffins",
+      "url": "recipes/banana-greek-yogurt-muffins.html",
+      "ingredients": [
+        {
+          "amount": 2,
+          "item": "ripe bananas",
+          "note": "mashed"
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "Greek yogurt"
+        },
+        {
+          "amount": 2,
+          "item": "eggs",
+          "note": "room temp"
+        },
+        {
+          "amount": 2,
+          "unit": "cup",
+          "item": "rolled quick oats"
+        },
+        {
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "brown sugar"
+        },
+        {
+          "amount": 1,
+          "item": "½ tsp baking powder"
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "baking soda"
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "mini chocolate chips"
+        }
+      ],
+      "directions": []
+    },
+    {
+      "name": "Better Than Sex Cake",
+      "url": "recipes/better-than-sex-cake.html",
+      "ingredients": [
+        {
+          "amount": 1,
+          "item": "box Devil's food cake"
+        },
+        {
+          "amount": 7,
+          "unit": "oz",
+          "item": "can sweetened condensed milk"
+        },
+        {
+          "amount": 6,
+          "unit": "oz",
+          "item": "caramel ice cream topping"
+        },
+        {
+          "amount": 3,
+          "item": "Heath bars",
+          "note": "crushed"
+        },
+        {
+          "amount": 8,
+          "unit": "oz",
+          "item": "container Cool Whip"
+        }
+      ],
+      "directions": [
+        "Bake the cake according to package directions in a greased 9x13-inch baking dish.",
+        "Allow the cake to cool completely, then use a fork to poke holes evenly across the surface.",
+        "In a saucepan over low heat, combine the sweetened condensed milk and caramel. Stir until smooth and well blended.",
+        "Slowly pour the caramel mixture evenly over the cake, allowing it to seep into the holes.",
+        "Spread the whipped topping evenly over the cake. Drizzle with additional caramel and sprinkle with crushed Heath bars."
+      ]
+    },
+    {
+      "name": "Caramel Cinnamon Rolls",
+      "url": "recipes/caramel-cinnamon-rolls-ruby.html",
+      "ingredients": [
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "sugar"
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "Crisco"
+        },
+        {
+          "amount": 1.5,
+          "unit": "tsp",
+          "item": "salt"
+        },
+        {
+          "amount": 2,
+          "item": "eggs",
+          "note": "room temperature, beaten"
+        },
+        {
+          "amount": 1.25,
+          "unit": "tsp",
+          "item": "yeast"
+        },
+        {
+          "amount": 6,
+          "unit": "cup",
+          "item": "flour",
+          "note": "sifted"
+        },
+        {
+          "amount": 2,
+          "unit": "cup",
+          "item": "boiling water"
+        },
+        {
+          "amount": 3,
+          "item": "-4 TBSP butter",
+          "note": "melted"
+        },
+        {
+          "item": "cinnamon & sugar"
+        },
+        {
+          "item": "Caramel sauce:"
+        },
+        {
+          "amount": 2,
+          "unit": "cup",
+          "item": "brown sugar",
+          "note": "packed"
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "water"
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "butter",
+          "note": "softened"
+        },
+        {
+          "amount": 4,
+          "unit": "TBSP",
+          "item": "white Karo syrup"
+        },
+        {
+          "item": "Optional: pecan or walnuts"
+        }
+      ],
+      "subtitle": "Ruby Greenlee",
+      "directions": [
+        "In a large bowl, combine the boiling water, sugar, Crisco, and salt. Stir until dissolved and allow the mixture to cool to lukewarm.",
+        "Add the eggs and yeast. Stir in the flour gradually to form a soft dough.",
+        "Transfer the dough to a large greased bowl, cover loosely, and let rise until doubled in size (about 2–3 hours).",
+        "Punch down the dough, cover with plastic wrap, and let rest for another 2–3 hours.",
+        "Divide the dough in half. On a lightly floured surface, roll each portion into a large rectangle.",
+        "Brush with melted butter and sprinkle evenly with cinnamon and sugar.",
+        "Roll tightly into logs and cut each into 12 rolls. Place the rolls into two greased 9x13-inch pans.",
+        "In a saucepan, melt the brown sugar, water, and butter over medium heat, stirring until smooth. Stir in the Karo syrup.",
+        "Pour half of the caramel mixture into each pan and sprinkle with nuts, if desired.",
+        "Cover loosely and let rise overnight at room temperature.",
+        "In the morning, preheat the oven to 350°F and bake for 15–20 minutes, or until golden brown.",
+        "Immediately invert the hot rolls onto a baking sheet or serving tray to allow the caramel to coat the tops. (This step is not necessary if frosting instead.)",
+        "Cover loosely with foil or a clean kitchen towel to keep warm before serving."
+      ]
+    },
+    {
+      "name": "Chocolate Zucchini Cake",
+      "url": "recipes/chocolate-zucchini-cake.html",
+      "ingredients": [
+        {
+          "amount": 2,
+          "unit": "cup",
+          "item": "flour",
+          "note": "sifted"
+        },
+        {
+          "amount": 0.75,
+          "unit": "cup",
+          "item": "unsweetened natural cocoa powder"
+        },
+        {
+          "amount": 2,
+          "unit": "tsp",
+          "item": "baking soda"
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "baking powder"
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "olive or avocado oil"
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "sugar"
+        },
+        {
+          "amount": 0.75,
+          "unit": "cup",
+          "item": "brown sugar",
+          "note": "packed"
+        },
+        {
+          "amount": 2,
+          "unit": "tsp",
+          "item": "vanilla extract"
+        },
+        {
+          "amount": 0.3333333333333333,
+          "unit": "cup",
+          "item": "sour cream or plain vanilla yogurt"
+        },
+        {
+          "amount": 4,
+          "item": "eggs",
+          "note": "room temperature"
+        },
+        {
+          "amount": 3,
+          "unit": "cup",
+          "item": "zucchini",
+          "note": "shredded and lightly squeezed"
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "semi-sweet chocolate chips"
+        }
+      ],
+      "directions": [
+        "Preheat the oven to 350°F. Lightly grease a 9x13-inch baking dish or a muffin tin.",
+        "In a large bowl, whisk together the flour, cocoa powder, and salt.",
+        "In a separate bowl, using a hand mixer or a stand mixer fitted with the whisk attachment, beat the oil, sugar, brown sugar, eggs, vanilla, sour cream, and zucchini until well combined.",
+        "Add the dry ingredients to the wet ingredients and beat on medium speed until fully incorporated.",
+        "Fold in the chocolate chips.",
+        "Note: The batter will be slightly thick.",
+        "If using a 9x13-inch pan, bake for about 45 minutes. If using a muffin tin, bake for 18–22 minutes, or until a toothpick inserted in the center comes out clean.",
+        "Allow the cake to cool completely before frosting.",
+        "See the chocolate buttercream frosting recipe for topping.",
+        "Cover and store in the refrigerator for up to 5 days."
+      ]
+    },
+    {
+      "name": "Chocolate Zucchini Muffins",
+      "url": "recipes/chocolate-zucchini-muffins.html",
+      "ingredients": [
+        {
+          "amount": 2,
+          "unit": "TBSP",
+          "item": "flaxseed meal"
+        },
+        {
+          "amount": 5,
+          "unit": "TBSP",
+          "item": "water"
+        },
+        {
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "applesauce"
+        },
+        {
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "maple or agave syrup"
+        },
+        {
+          "amount": 0.3333333333333333,
+          "unit": "cup",
+          "item": "coconut sugar"
+        },
+        {
+          "amount": 1.5,
+          "unit": "tsp",
+          "item": "baking soda"
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "baking powder"
+        },
+        {
+          "amount": 0.25,
+          "unit": "tsp",
+          "item": "sea salt"
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "unsweetened cocoa powder"
+        },
+        {
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "coconut oil",
+          "note": "melted"
+        },
+        {
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "unsweetened almond milk"
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "zucchini",
+          "note": "finely shredded and squeezed"
+        },
+        {
+          "amount": 0.75,
+          "unit": "cup",
+          "item": "flour",
+          "note": "sifted"
+        },
+        {
+          "amount": 0.3333333333333333,
+          "unit": "cup",
+          "item": "oat flour"
+        },
+        {
+          "amount": 0.3333333333333333,
+          "unit": "cup",
+          "item": "almond flour"
+        },
+        {
+          "amount": 0.3333333333333333,
+          "unit": "cup",
+          "item": "semi-sweet chocolate chips"
+        }
+      ],
+      "subtitle": "minimalistbaker.com",
+      "directions": [
+        "Preheat the oven to 375°F and line a mini muffin tin, regular muffin tin, or bread pan with paper or silicone liners.",
+        "In a small bowl, combine the flaxseed and water. Let sit for 5 minutes.",
+        "In a large bowl, combine the applesauce, syrup, coconut sugar, baking soda, baking powder, sea salt, and cocoa powder until well mixed. Add the flaxseed mixture and stir well.",
+        "Add the coconut oil and almond milk to the mixture and stir until fully incorporated.",
+        "Lightly squeeze excess moisture from the shredded zucchini.",
+        "Fold the zucchini into the batter until well combined. Then add the flour, oat flour, and almond flour and mix until incorporated.",
+        "Fold in the chocolate chips and pour the batter into the prepared tin.",
+        "Bake mini muffins for 12–15 minutes, regular muffins for 20–25 minutes, or a loaf in a bread pan for 45–60 minutes, or until a toothpick inserted into the center comes out clean.",
+        "Store at room temperature for 3–4 days or freeze for up to 1–2 months."
+      ]
+    },
+    {
+      "name": "Red Velvet Cake",
+      "url": "recipes/red-velvet-cake.html",
+      "ingredients": [
+        {
+          "item": "Cake:"
+        },
+        {
+          "amount": 1.5,
+          "unit": "cup",
+          "item": "sugar"
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "Crisco"
+        },
+        {
+          "amount": 2,
+          "unit": "oz",
+          "item": "red food coloring"
+        },
+        {
+          "amount": 2,
+          "item": "eggs",
+          "note": "room temperature"
+        },
+        {
+          "amount": 2,
+          "unit": "cup",
+          "item": "flour",
+          "note": "sifted"
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "salt"
+        },
+        {
+          "amount": 2,
+          "unit": "TBSP",
+          "item": "unsweetened cocoa powder"
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "buttermilk"
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "baking soda"
+        },
+        {
+          "amount": 1,
+          "unit": "TBSP",
+          "item": "vanilla extract"
+        },
+        {
+          "amount": 1,
+          "unit": "TBSP",
+          "item": "white vinegar"
+        },
+        {
+          "item": "Frosting:"
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "milk"
+        },
+        {
+          "amount": 1.5,
+          "unit": "TBSP",
+          "item": "cornstarch"
+        },
+        {
+          "item": "pinch salt"
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "Crisco"
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "butter",
+          "note": "softened"
+        },
+        {
+          "amount": 0.6666666666666666,
+          "unit": "cup",
+          "item": "sugar"
+        },
+        {
+          "amount": 1.6666666666666665,
+          "unit": "cup",
+          "item": "powdered sugar",
+          "note": "divided"
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "vanilla extract"
+        }
+      ],
+      "subtitle": "thegratefulgirlcooks.com",
+      "directions": [
+        "Preheat the oven to 350°F and grease two 9-inch round cake pans or one 9x13-inch pan.",
+        "Using an electric mixer or stand mixer, cream the sugar and Crisco together until well combined. Add the red food coloring and eggs.",
+        "Continue mixing until the batter is deep red in color and creamy in texture.",
+        "In a separate bowl, whisk the flour, salt, and cocoa powder until well combined. Add this to the batter and mix on low speed until fully incorporated.",
+        "In another bowl, combine the buttermilk and baking soda. Fold the mixture into the cake batter.",
+        "Stir in the vanilla and vinegar until combined.",
+        "If using two round cake pans, divide the batter evenly between the pans.",
+        "Pour the batter into the prepared pan(s) and bake on the middle rack for about 25 minutes, or until a toothpick inserted into the center comes out clean. Transfer pans to a wire rack to cool.",
+        "While the cake is baking, add the milk, cornstarch, and salt to a medium saucepan over low heat, stirring often until the mixture thickens.",
+        "Remove the pan from the heat and set aside to cool.",
+        "In a separate bowl or stand mixer, combine the Crisco, butter, sugar, and ⅔ cup powdered sugar. Beat for about 15 minutes until the sugar dissolves and the mixture is light and fluffy.",
+        "Add the vanilla and the cooled milk mixture. Beat well, then add the remaining powdered sugar until fully combined.",
+        "Frost the cake once it has completely cooled. If using two round cake pans, remove the cakes by inverting the pans.",
+        "Place one cake layer on a serving plate and frost the top. Place the second cake layer on top.",
+        "Continue frosting the top and sides of the cake. Optional: Decorate the cake as desired."
+      ]
+    },
+    {
+      "name": "Strawberry Banana Poke Cake",
+      "url": "recipes/strawberry-banana-poke-cake.html",
+      "ingredients": [
+        {
+          "amount": 21.5,
+          "unit": "oz",
+          "item": "package all butter pound cake",
+          "note": "cubed"
+        },
+        {
+          "amount": 3,
+          "unit": "oz",
+          "item": "package strawberry Jell-o"
+        },
+        {
+          "amount": 1,
+          "item": "large container strawberries",
+          "note": "sliced"
+        },
+        {
+          "amount": 4,
+          "item": "-5 bananas",
+          "note": "sliced"
+        },
+        {
+          "amount": 3.4,
+          "unit": "oz",
+          "item": "package vanilla pudding"
+        },
+        {
+          "amount": 2,
+          "unit": "cup",
+          "item": "cold milk"
+        },
+        {
+          "amount": 8,
+          "unit": "oz",
+          "item": "Cool Whip",
+          "note": "thawed"
+        }
+      ],
+      "subtitle": "Tammy Kuhlmann",
+      "directions": [
+        "In a 9x13-inch pan, arrange the cubed pound cake evenly across the bottom.",
+        "In a medium saucepan, bring 1 cup of water to a boil. Reduce the heat to medium and stir in the gelatin (Jell-O) for about 2 minutes.",
+        "Once fully dissolved, add 1 cup of cold water to the mixture and pour it evenly over the pound cake.",
+        "Layer the sliced strawberries and bananas over the gelatin and pound cake.",
+        "In a medium bowl, whisk the vanilla pudding mix and milk for about 2 minutes. Refrigerate for 5 minutes to allow it to set.",
+        "Once the pudding has thickened, fold in the whipped topping and spread evenly over the cake."
+      ]
+    },
+    {
+      "name": "Vegan Zucchini Muffins",
+      "url": "recipes/vegan-zucchini-muffins.html",
+      "ingredients": [
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "avocado oil"
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "unsweetened almond milk"
+        },
+        {
+          "amount": 0.6666666666666666,
+          "unit": "cup",
+          "item": "coconut sugar"
+        },
+        {
+          "amount": 0.6666666666666666,
+          "unit": "cup",
+          "item": "maple or agave syrup"
+        },
+        {
+          "amount": 2,
+          "unit": "tsp",
+          "item": "vanilla extract"
+        },
+        {
+          "amount": 2,
+          "unit": "cup",
+          "item": "zucchini",
+          "note": "shredded and squeezed"
+        },
+        {
+          "amount": 3,
+          "unit": "cup",
+          "item": "almond flour"
+        },
+        {
+          "amount": 1.3333333333333333,
+          "unit": "cup",
+          "item": "+ 1/2 cup flour",
+          "note": "sifted"
+        },
+        {
+          "amount": 4,
+          "unit": "TBSP",
+          "item": "flaxseed meal"
+        },
+        {
+          "amount": 5,
+          "unit": "tsp",
+          "item": "baking powder"
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "baking soda"
+        },
+        {
+          "amount": 1,
+          "unit": "TBSP",
+          "item": "cinnamon"
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "sea salt"
+        }
+      ],
+      "subtitle": "minimalistbaker.com",
+      "directions": []
+    }
+  ],
+  "Layered Dish": [
+    {
+      "name": "Banana Chessman Dessert",
+      "url": "recipes/banana-chessmen-dessert.html",
+      "ingredients": [
+        {
+          "amount": 12,
+          "unit": "oz",
+          "item": "container Cool Whip",
+          "note": "thawed"
+        },
+        {
+          "amount": 14,
+          "unit": "oz",
+          "item": "sweetend condensed milk"
+        },
+        {
+          "amount": 8,
+          "unit": "oz",
+          "item": "cream cheese",
+          "note": "softened"
+        },
+        {
+          "amount": 2,
+          "item": "c milk"
+        },
+        {
+          "amount": 5,
+          "unit": "oz",
+          "item": "French vanilla pudding mix"
+        },
+        {
+          "amount": 6,
+          "item": "-8 bananas",
+          "note": "sliced"
+        },
+        {
+          "amount": 48,
+          "item": "Chessmen cookies"
+        }
+      ],
+      "subtitle": "Stacy Douglas",
+      "directions": [
+        "Line the bottom of a 9x13-inch baking dish with one bag of Chessmen cookies. Layer sliced bananas evenly over the top.",
+        "In a large bowl, beat the milk and pudding mix together using a hand mixer until thickened.",
+        "In a separate bowl, beat the cream cheese and sweetened condensed milk until smooth.",
+        "Fold the whipped topping into the cream cheese mixture until fully incorporated.",
+        "Add the cream cheese mixture to the pudding and mix until well combined.",
+        "Pour the mixture evenly over the cookies and bananas. Top with the remaining cookies.",
+        "Cover and refrigerate until ready to serve, preferably at least 4 hours to allow the layers to set."
+      ]
+    },
+    {
+      "name": "⭐ Peach Cobbler",
+      "url": "recipes/peach-cobbler.html",
+      "ingredients": [
+        {
+          "amount": 15.25,
+          "unit": "oz",
+          "item": "package yellow cake mix"
+        },
+        {
+          "amount": 30,
+          "unit": "oz",
+          "item": "can no sugar added sliced peaches",
+          "note": "mostly drained"
+        },
+        {
+          "amount": 24,
+          "unit": "oz",
+          "item": "Sprite or 7UP"
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "brown sugar",
+          "note": "packed and divided"
+        },
+        {
+          "item": "honey",
+          "note": "to drizzle"
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "cinnamon",
+          "note": "divided"
+        },
+        {
+          "item": "Optional: vanilla ice cream"
+        }
+      ],
+      "directions": [
+        "Preheat the oven to 350°F and grease a 9x13-inch pan. Arrange the peaches evenly on the bottom of the pan.",
+        "Sprinkle half of the brown sugar over the peaches, drizzle with honey, and sprinkle with half of the cinnamon.",
+        "In a large bowl, combine the yellow cake mix and slowly add the soda, mixing until well combined. The mixture will fizz and bubble.",
+        "Pour the cake mixture over the peaches, gently spreading the batter to cover them evenly. Sprinkle the remaining brown sugar and cinnamon on top, then drizzle with honey.",
+        "Bake for 20–35 minutes, or until a toothpick inserted into the cake comes out clean. Baking time may vary, so check periodically.",
+        "Optional: Serve warm with vanilla ice cream."
+      ]
+    },
+    {
+      "name": "Rhubarb Butter Crunch",
+      "url": "recipes/rhubarb-butter-crunch.html",
+      "ingredients": [
+        {
+          "amount": 6,
+          "unit": "cup",
+          "item": "rhubarb",
+          "note": "diced"
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "sugar"
+        },
+        {
+          "amount": 2,
+          "unit": "TBSP",
+          "item": "flour"
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "nutmeg"
+        },
+        {
+          "amount": 4,
+          "unit": "tsp",
+          "item": "cinnamon"
+        },
+        {
+          "item": "Crumble:"
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "brown sugar",
+          "note": "packed"
+        },
+        {
+          "amount": 1.25,
+          "unit": "cup",
+          "item": "flour",
+          "note": "sifted"
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "old-fashioned oats"
+        },
+        {
+          "amount": 0.75,
+          "unit": "cup",
+          "item": "butter",
+          "note": "melted"
+        }
+      ],
+      "subtitle": "Jo Ann Otters",
+      "directions": [
+        "Preheat the oven to 375°F and grease a 9x13-inch baking dish.",
+        "In a large bowl, combine the rhubarb, sugar, 2 tablespoons flour, nutmeg, and cinnamon. Toss until the rhubarb is evenly coated, then transfer to the prepared baking dish.",
+        "In a separate bowl, combine the brown sugar, 1¼ cups flour, old-fashioned oats, and butter. Mix until crumbly and well combined.",
+        "Sprinkle the crumble evenly over the rhubarb. Bake for 30–40 minutes, or until the topping is golden brown."
+      ]
+    },
+    {
+      "name": "Strawberry Rhubarb Crisp",
+      "url": "recipes/strawberry-rhubarb-crisp.html",
+      "ingredients": [
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "sugar"
+        },
+        {
+          "amount": 3,
+          "unit": "TBSP",
+          "item": "oat flour"
+        },
+        {
+          "amount": 3,
+          "unit": "cup",
+          "item": "strawberries",
+          "note": "sliced"
+        },
+        {
+          "amount": 3,
+          "unit": "cup",
+          "item": "rhubarb",
+          "note": "diced"
+        },
+        {
+          "item": "Topping:"
+        },
+        {
+          "amount": 1.5,
+          "unit": "cup",
+          "item": "oat flour"
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "brown sugar",
+          "note": "packed"
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "unsalted butter",
+          "note": "cold and sliced"
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "quick oats"
+        },
+        {
+          "item": "Optional: vanilla ice cream"
+        }
+      ],
+      "subtitle": "Tammy Kuhlmann",
+      "directions": [
+        "Preheat the oven to 375°F and grease a 9x13-inch baking dish.",
+        "In a large bowl, combine the sugar, 3 tablespoons oat flour, strawberries, and rhubarb. Toss until well coated, then transfer to the prepared baking dish.",
+        "In a separate bowl, combine 1½ cups oat flour, brown sugar, and oats. Cut in the butter with a fork until the mixture is crumbly.",
+        "Sprinkle the crumble evenly over the strawberry mixture and bake for about 45 minutes, or until the topping is crisp and lightly golden.",
+        "Allow the crisp to rest for about 10 minutes before serving.",
+        "Optional: Serve warm with vanilla ice cream."
+      ]
+    }
+  ],
+  "Misc.": [
+    {
+      "name": "Caramel Corn",
+      "url": "recipes/caramel-corn-old-dutch-style.html",
+      "ingredients": [
+        {
+          "amount": 1,
+          "unit": "package",
+          "item": "Old Dutch Puffcorn"
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "unsalted butter"
+        },
+        {
+          "amount": 1.25,
+          "unit": "cup",
+          "item": "brown sugar",
+          "note": "packed"
+        },
+        {
+          "amount": 0.6666666666666666,
+          "unit": "cup",
+          "item": "light corn syrup"
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "baking soda"
+        },
+        {
+          "item": "Optional: chocolate chips",
+          "note": "melted"
+        }
+      ],
+      "subtitle": "Old Dutch",
+      "directions": [
+        "Preheat the oven to 250°F.",
+        "In a medium saucepan over medium heat, combine the butter, brown sugar, and light corn syrup. Cook, stirring occasionally, until the mixture is fully melted and smooth.",
+        "Remove from heat and stir in the baking soda. The mixture will foam—this is normal.",
+        "Place the Old Dutch Puffcorn in a large bowl. Pour the caramel sauce over the puffcorn and gently stir until evenly coated.",
+        "Spread the mixture onto a large baking sheet and bake for 45 minutes, stirring every 10–15 minutes.",
+        "Remove from the oven and spread onto wax paper to cool. Once cooled, break into pieces.",
+        "Optional: Drizzle melted chocolate chips over the puffcorn after baking and allow to set before serving."
+      ]
+    },
+    {
+      "name": "Chocolate Buttercream Frosting",
+      "url": "recipes/chocolate-buttercream-frosting.html",
+      "ingredients": [
+        {
+          "amount": 1.25,
+          "unit": "cup",
+          "item": "unsalted butter",
+          "note": "room temperature"
+        },
+        {
+          "amount": 3.5,
+          "unit": "cup",
+          "item": "powdered sugar"
+        },
+        {
+          "amount": 3,
+          "item": "-5 TBSP heavy whipping cream or milk",
+          "note": "room temperature"
+        },
+        {
+          "amount": 0.25,
+          "unit": "tsp",
+          "item": "salt"
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "vanilla extract"
+        },
+        {
+          "item": "Optional: semi-sweet chocolate chips for decoration"
+        }
+      ],
+      "directions": [
+        "In a stand mixer fitted with the paddle attachment, or in a large bowl using a hand mixer, beat the butter on medium speed for about 2 minutes, until creamy.",
+        "Add the powdered sugar, cocoa powder, 3 tablespoons heavy cream, salt, and vanilla. Beat on low speed for 30 seconds, then increase to high and beat for 1 minute. Do not overwhip.",
+        "If the frosting is too thin, add up to ¼ cup powdered sugar or cocoa powder. If too thick, add 1–2 tablespoons heavy cream.",
+        "If the frosting is too thin, add up to ¼ cup powdered sugar or cocoa powder. If too thick, add 1–2 tablespoons heavy cream, starting with 1 tablespoon and adding more as needed.",
+        "Taste and adjust with an additional pinch of salt, if desired."
+      ]
+    },
+    {
+      "name": "Chocolate Chip Cookies",
+      "url": "recipes/chocolate-chip-cookies-grandma-peggy.html",
+      "ingredients": [
+        {
+          "amount": 1.5,
+          "unit": "cup",
+          "item": "butter",
+          "note": "softened"
+        },
+        {
+          "amount": 1.25,
+          "unit": "cup",
+          "item": "sugar"
+        },
+        {
+          "amount": 1.25,
+          "unit": "cup",
+          "item": "brown sugar",
+          "note": "packed"
+        },
+        {
+          "amount": 2,
+          "item": "eggs",
+          "note": "room temperature"
+        },
+        {
+          "amount": 1,
+          "unit": "TBSP",
+          "item": "vanilla extract"
+        },
+        {
+          "amount": 4.5,
+          "unit": "cup",
+          "item": "flour",
+          "note": "sifted"
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "baking powder"
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "baking soda"
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "salt"
+        },
+        {
+          "amount": 2,
+          "unit": "cup",
+          "item": "chocolate chips"
+        }
+      ],
+      "subtitle": "Grandma Peggy",
+      "directions": [
+        "Preheat the oven to 350°F.",
+        "In a large bowl, cream together the butter, sugar, and brown sugar until smooth.",
+        "Add the eggs and vanilla extract. Mix until well combined.",
+        "In a separate bowl, whisk together the flour, baking soda, baking powder, and salt.",
+        "Gradually add the dry ingredients to the butter mixture and mix until just combined.",
+        "Bake for 10–12 minutes, or until the edges are lightly golden."
+      ]
+    },
+    {
+      "name": "Chocolate Peanut Butter Mousse - Keto",
+      "url": "recipes/chocolate-peanut-butter-mousse-keto.html",
+      "ingredients": [
+        {
+          "amount": 4,
+          "unit": "oz",
+          "item": "cream cheese",
+          "note": "softened"
+        },
+        {
+          "amount": 3.5,
+          "unit": "TBSP",
+          "item": "Swerve confectioners sugar"
+        },
+        {
+          "amount": 1,
+          "unit": "TBSP",
+          "item": "cocoa powder"
+        },
+        {
+          "amount": 3,
+          "unit": "TBSP",
+          "item": "sugar-free peanut butter"
+        },
+        {
+          "amount": 0.6666666666666666,
+          "unit": "cup",
+          "item": "heavy whipping cream"
+        }
+      ],
+      "directions": [
+        "In a large bowl, beat the confectioners’ sugar and cream cheese together with a hand mixer for about 1 minute, until smooth.",
+        "Add the peanut butter and cocoa powder. Beat on medium speed for 1 minute, or until fully combined and smooth.",
+        "Gradually add the heavy cream and continue beating until the mixture becomes light and fluffy.",
+        "Store in the refrigerator until ready to serve. This mixture can also be frozen and thawed in the refrigerator before serving."
+      ]
+    },
+    {
+      "name": "Cream Cheese Fluff - Keto",
+      "url": "recipes/cream-cheese-fluff-keto.html",
+      "ingredients": [
+        {
+          "amount": 3,
+          "unit": "oz",
+          "item": "cream cheese",
+          "note": "softened"
+        },
+        {
+          "amount": 3,
+          "unit": "TBSP",
+          "item": "Swerve confectioners' sugar"
+        },
+        {
+          "amount": 3,
+          "unit": "TBSP",
+          "item": "heavy whipping cream"
+        }
+      ],
+      "directions": [
+        "In a large bowl, beat the cream cheese and confectioners’ sugar with a hand mixer until smooth.",
+        "Gradually add the heavy cream and continue mixing until light and fluffy."
+      ]
+    },
+    {
+      "name": "Everything Bagel Seasoning",
+      "url": "recipes/everything-bagel-seasoning.html",
+      "ingredients": [
+        {
+          "amount": 1,
+          "unit": "TBSP",
+          "item": "poppy seeds"
+        },
+        {
+          "amount": 1,
+          "unit": "TBSP",
+          "item": "white sesame seeds"
+        },
+        {
+          "amount": 1,
+          "unit": "TBSP",
+          "item": "black sesame seeds"
+        },
+        {
+          "amount": 1.5,
+          "unit": "TBSP",
+          "item": "dried minced garlic"
+        },
+        {
+          "amount": 1.5,
+          "unit": "TBSP",
+          "item": "dried minced onion"
+        },
+        {
+          "amount": 2,
+          "unit": "tsp",
+          "item": "flaky sea salt"
+        }
+      ],
+      "directions": []
+    },
+    {
+      "name": "Monkey Bread",
+      "url": "recipes/monkey-bread.html",
+      "ingredients": [
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "sugar"
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "cinnamon"
+        },
+        {
+          "amount": 2,
+          "unit": "can",
+          "item": "Pilsbury Grands Homestyle Buttermilk Biscuits"
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "light brown sugar",
+          "note": "packed"
+        },
+        {
+          "amount": 0.75,
+          "unit": "cup",
+          "item": "unsalted butter",
+          "note": "melted"
+        }
+      ],
+      "directions": [
+        "Preheat the oven to 350°F. Lightly grease a 12-cup fluted pan.",
+        "In a gallon-size resealable bag, combine the sugar and cinnamon.",
+        "Separate the dough into 16 biscuits and cut each biscuit into quarters. Add the pieces to the resealable bag and shake to coat evenly. Arrange the coated biscuit pieces in the prepared pan.",
+        "In a bowl, combine the melted butter and brown sugar. Pour evenly over the biscuits.",
+        "Bake for 28–32 minutes, or until golden brown and no doughy spots remain in the center.",
+        "Allow to cool in the pan for 5–10 minutes, then invert onto a serving plate and remove the pan."
+      ]
+    },
+    {
+      "name": "Monster Cookies",
+      "url": "recipes/monster-cookie.html",
+      "ingredients": [
+        {
+          "amount": 3,
+          "item": "eggs",
+          "note": "room temperature"
+        },
+        {
+          "amount": 1.25,
+          "unit": "cup",
+          "item": "light brown sugar",
+          "note": "packed"
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "sugar"
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "salt"
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "vanilla extract"
+        },
+        {
+          "amount": 12,
+          "unit": "oz",
+          "item": "jar creamy peanut butter"
+        },
+        {
+          "amount": 1,
+          "unit": "stick",
+          "item": "unsalted butter",
+          "note": "softened"
+        },
+        {
+          "amount": 4.5,
+          "unit": "cup",
+          "item": "old-fashioned oats"
+        },
+        {
+          "amount": 2,
+          "unit": "tsp",
+          "item": "baking soda"
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "M&M's"
+        }
+      ],
+      "directions": [
+        "Preheat the oven to 350°F. Line two baking sheets with parchment paper.",
+        "In a large bowl, beat the eggs, light brown sugar, and granulated sugar until well combined.",
+        "Add the salt, vanilla, peanut butter, and butter. Mix until smooth and creamy.",
+        "Add the oats to the bowl. Sprinkle the baking soda evenly over the oats, then stir until fully incorporated.",
+        "Fold in the M&M’s. Scoop the dough into balls.",
+        "Place 12 dough balls onto each baking sheet and bake for 8–10 minutes, or until lightly golden brown."
+      ]
+    },
+    {
+      "name": "Neiman Marcus Cookies",
+      "url": "recipes/neiman-marcus-cookies.html",
+      "ingredients": [
+        {
+          "amount": 4,
+          "unit": "cup",
+          "item": "flour",
+          "note": "sifted"
+        },
+        {
+          "amount": 2,
+          "unit": "tsp",
+          "item": "baking soda"
+        },
+        {
+          "amount": 2,
+          "unit": "tsp",
+          "item": "baking powder"
+        },
+        {
+          "amount": 5,
+          "unit": "cup",
+          "item": "quick oats"
+        },
+        {
+          "amount": 2,
+          "unit": "cup",
+          "item": "sugar"
+        },
+        {
+          "amount": 2,
+          "unit": "cup",
+          "item": "unsalted butter",
+          "note": "softened"
+        },
+        {
+          "amount": 2,
+          "unit": "cup",
+          "item": "light brown sugar",
+          "note": "packed"
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "salt"
+        },
+        {
+          "amount": 4,
+          "item": "eggs",
+          "note": "room temperature"
+        },
+        {
+          "amount": 2,
+          "unit": "tsp",
+          "item": "vanilla extract"
+        },
+        {
+          "amount": 24,
+          "unit": "oz",
+          "item": "milk chocolate chips"
+        },
+        {
+          "amount": 8,
+          "unit": "oz",
+          "item": "Hershey's bar",
+          "note": "grated"
+        }
+      ],
+      "subtitle": "Grandma Peggy",
+      "directions": [
+        "Preheat oven to 375°F and line a cookie sheet with parchment paper.",
+        "In a large bowl, mix ingredients in order.",
+        "Scoop the dough onto the prepared baking sheet and bake for 10 minutes, or until lightly golden."
+      ]
+    },
+    {
+      "name": "Oreo Fluff",
+      "url": "recipes/oreo-fluff.html",
+      "ingredients": [
+        {
+          "amount": 4,
+          "unit": "oz",
+          "item": "cream cheese",
+          "note": "softened"
+        },
+        {
+          "amount": 1.5,
+          "unit": "cup",
+          "item": "milk"
+        },
+        {
+          "amount": 3.4,
+          "unit": "oz",
+          "item": "package instant vanilla pudding"
+        },
+        {
+          "amount": 24,
+          "item": "Oreos",
+          "note": "crushed"
+        },
+        {
+          "amount": 16,
+          "unit": "oz",
+          "item": "Cool Whip"
+        }
+      ],
+      "subtitle": "Daisy Jones",
+      "directions": [
+        "In a large bowl, beat the cream cheese and milk until smooth.",
+        "Add the instant pudding mix and beat until thickened and well combined. Set aside to firm up slightly.",
+        "Fold in the crushed Oreos until evenly coated.",
+        "Gently fold in the Cool Whip until no white or yellow streaks remain, being careful not to overmix.",
+        "Refrigerate overnight. Top with additional crushed Oreos before serving."
+      ]
+    },
+    {
+      "name": "Oreo Fluff - Keto",
+      "url": "recipes/oreo-fluff-keto.html",
+      "ingredients": [
+        {
+          "amount": 8,
+          "unit": "oz",
+          "item": "sugar-free Cool Whip"
+        },
+        {
+          "amount": 4,
+          "unit": "oz",
+          "item": "sugar-free instant vanilla pudding"
+        },
+        {
+          "amount": 2,
+          "unit": "oz",
+          "item": "HighKey Double Chocolate Brownie Cookies",
+          "note": "chopped"
+        }
+      ],
+      "directions": [
+        "In a large bowl, combine the Cool Whip and pudding mix. Stir until smooth and well blended.",
+        "Fold in the brownie pieces until evenly incorporated. Top with additional chopped brownies before serving."
+      ]
+    },
+    {
+      "name": "Peanut Butter Cups",
+      "url": "recipes/peanut-butter-cups.html",
+      "ingredients": [
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "chocolate chips"
+        },
+        {
+          "amount": 1,
+          "unit": "TBSP",
+          "item": "coconut oil",
+          "note": "melted"
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "peanut butter"
+        },
+        {
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "honey"
+        },
+        {
+          "amount": 2,
+          "unit": "TBSP",
+          "item": "coconut oil",
+          "note": "melted"
+        },
+        {
+          "item": "pinch of sea salt",
+          "note": "optional"
+        }
+      ],
+      "subtitle": "eatingbirdfood.com",
+      "directions": [
+        "Line mini muffin tins with paper or silicone liners.",
+        "In a microwave-safe bowl, melt the chocolate chips and coconut oil in 30-second intervals, stirring after each interval until smooth.",
+        "Spoon 1–2 teaspoons of chocolate into the bottom of each muffin liner.",
+        "Place the muffin tin in the freezer for 5–10 minutes to allow the chocolate to set.",
+        "In another microwave-safe bowl, combine the peanut butter, honey, coconut oil, and salt (if using). Microwave for 15–20 seconds until slightly melted and pourable, stirring if needed.",
+        "Remove the muffin tin from the freezer and spoon 1–2 teaspoons of the peanut butter mixture over the chocolate. Return the tin to the freezer for 5–10 minutes.",
+        "Remove the tin from the freezer and spoon the remaining chocolate over the peanut butter layer. Sprinkle with sea salt, if desired.",
+        "Return the muffin tin to the freezer for 30–60 minutes, or until fully set.",
+        "Store in the refrigerator for 5–7 days or in the freezer for up to 2 months."
+      ]
+    },
+    {
+      "name": "Peanut Butter Frosting",
+      "url": "recipes/peanut-butter-frosting.html",
+      "ingredients": [
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "chunky or creamy peanut butter"
+        },
+        {
+          "amount": 3,
+          "unit": "TBSP",
+          "item": "butter",
+          "note": "softened"
+        },
+        {
+          "amount": 2.5,
+          "unit": "cup",
+          "item": "powdered sugar"
+        },
+        {
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "milk"
+        },
+        {
+          "amount": 2,
+          "unit": "tsp",
+          "item": "vanilla extract"
+        }
+      ],
+      "directions": [
+        "In a large bowl, cream the butter and peanut butter together. Gradually add the powdered sugar and mix until smooth.",
+        "Stir in the milk and vanilla until well combined.",
+        "If the frosting is too thick, add 1 tablespoon milk at a time. If it is too thin, add additional powdered sugar until the desired consistency is reached."
+      ]
+    }
+  ]
 }

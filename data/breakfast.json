@@ -1,302 +1,353 @@
 {
-    "Casserole": [
+  "Casserole": [
+    {
+      "name": "French Toast Bake",
+      "url": "recipes/french-toast-bake.html",
+      "ingredients": [
         {
-            "name": "French Toast Bake",
-            "url": "recipes/french-toast-bake.html",
-            "ingredients": [
-                {
-                    "amount": 18,
-                    "unit": "slice",
-                    "item": "thick bread",
-                    "note": "cubed"
-                },
-                {
-                    "amount": 12,
-                    "item": "eggs"
-                },
-                {
-                    "amount": 12,
-                    "item": "-16 oz cream cheese",
-                    "note": "cubed"
-                },
-                {
-                    "amount": 1.25,
-                    "unit": "cup",
-                    "item": "milk"
-                },
-                {
-                    "amount": 0.75,
-                    "unit": "cup",
-                    "item": "maple syrup"
-                },
-                {
-                    "amount": 1,
-                    "item": "-2 tsp cinnamon & sugar"
-                },
-                {
-                    "amount": 1,
-                    "item": "-2 tsp vanilla extract"
-                }
-            ]
+          "amount": 18,
+          "unit": "slice",
+          "item": "thick bread",
+          "note": "cubed"
+        },
+        {
+          "amount": 12,
+          "item": "eggs"
+        },
+        {
+          "amount": 12,
+          "item": "-16 oz cream cheese",
+          "note": "cubed"
+        },
+        {
+          "amount": 1.25,
+          "unit": "cup",
+          "item": "milk"
+        },
+        {
+          "amount": 0.75,
+          "unit": "cup",
+          "item": "maple syrup"
+        },
+        {
+          "amount": 1,
+          "item": "-2 tsp cinnamon & sugar"
+        },
+        {
+          "amount": 1,
+          "item": "-2 tsp vanilla extract"
         }
-    ],
-    "Overnight Oats": [
+      ],
+      "subtitle": "Paula Burke",
+      "directions": [
+        "In a large bowl, whisk together the eggs, milk, maple syrup, and cinnamon sugar until well combined. Set aside.",
+        "Lightly grease a 9x13-inch baking dish. Layer half of the cubed bread in the dish, followed by half of the cubed cream cheese. Repeat with the remaining bread and cream cheese.",
+        "Pour the egg mixture evenly over the bread. Cover and refrigerate overnight.",
+        "Remove from the refrigerator 30 minutes before baking, keeping the dish covered.",
+        "Preheat the oven to 350°F. Bake covered for 30 minutes, then uncover and bake for an additional 20–25 minutes, or until set and lightly golden.",
+        "Serve warm with maple syrup."
+      ]
+    }
+  ],
+  "Overnight Oats": [
+    {
+      "name": "Blueberry Overnight Oats",
+      "url": "recipes/blueberry-overnight-oats.html",
+      "ingredients": [
         {
-            "name": "Blueberry Overnight Oats",
-            "url": "recipes/blueberry-overnight-oats.html",
-            "ingredients": [
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "quick oats"
-                },
-                {
-                    "amount": 0.25,
-                    "unit": "tsp",
-                    "item": "ground cinnamon"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "almond milk"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "TBSP",
-                    "item": "agave syrup"
-                },
-                {
-                    "amount": 0.25,
-                    "unit": "cup",
-                    "item": "frozen blueberries"
-                },
-                {
-                    "item": "pinch of salt"
-                }
-            ]
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "quick oats"
         },
         {
-            "name": "Chocolate Peanut Butter Overnight Oats",
-            "url": "recipes/chocolate-peanut-butter-overnight-oats.html",
-            "ingredients": [
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "quick oats"
-                },
-                {
-                    "amount": 1,
-                    "unit": "TBSP",
-                    "item": "peanut butter"
-                },
-                {
-                    "amount": 1,
-                    "unit": "TBSP",
-                    "item": "cacao powder"
-                },
-                {
-                    "amount": 1,
-                    "unit": "TBSP",
-                    "item": "chia seeds"
-                },
-                {
-                    "amount": 2,
-                    "unit": "tsp",
-                    "item": "maple or agave syrup"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "almond milk"
-                },
-                {
-                    "amount": 2,
-                    "unit": "TBSP",
-                    "item": "mini semi-sweet chocolate chips"
-                }
-            ]
+          "amount": 0.25,
+          "unit": "tsp",
+          "item": "ground cinnamon"
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "almond milk"
+        },
+        {
+          "amount": 0.5,
+          "unit": "TBSP",
+          "item": "agave syrup"
+        },
+        {
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "frozen blueberries"
+        },
+        {
+          "item": "pinch of salt"
         }
-    ],
-    "Skillet": [
+      ],
+      "directions": [
+        "In a bowl, combine the quick oats, cinnamon, almond milk, agave syrup, frozen blueberries, and salt. Stir until well blended.",
+        "Pour into an 8-ounce mason jar, cover, and refrigerate overnight."
+      ]
+    },
+    {
+      "name": "Chocolate Peanut Butter Overnight Oats",
+      "url": "recipes/chocolate-peanut-butter-overnight-oats.html",
+      "ingredients": [
         {
-            "name": "Dutch Baby - Regular",
-            "url": "recipes/dutch-baby-regular.html",
-            "ingredients": [
-                {
-                    "amount": 2,
-                    "unit": "TBSP",
-                    "item": "unsalted butter"
-                },
-                {
-                    "amount": 3,
-                    "item": "XL eggs",
-                    "note": "room temperature"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "+ 2 TBSP milk"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "gluten-free flour"
-                },
-                {
-                    "item": "pinch salt"
-                },
-                {
-                    "item": "splash vanilla extract"
-                },
-                {
-                    "item": "dash cinnamon"
-                },
-                {
-                    "item": "dash nutmeg"
-                }
-            ]
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "quick oats"
         },
         {
-            "name": "Pancakes",
-            "url": "recipes/pancakes.html",
-            "ingredients": [
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "flour",
-                    "note": "sifted"
-                },
-                {
-                    "amount": 3,
-                    "unit": "TBSP",
-                    "item": "sugar"
-                },
-                {
-                    "amount": 1,
-                    "unit": "tsp",
-                    "item": "baking powder"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "tsp",
-                    "item": "baking soda"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "tsp",
-                    "item": "salt"
-                },
-                {
-                    "amount": 0.75,
-                    "unit": "cup",
-                    "item": "milk"
-                },
-                {
-                    "amount": 1,
-                    "item": "egg",
-                    "note": "room temperature"
-                },
-                {
-                    "amount": 2,
-                    "unit": "TBSP",
-                    "item": "unsalted butter",
-                    "note": "melted"
-                },
-                {
-                    "amount": 1,
-                    "unit": "tsp",
-                    "item": "vanilla extract"
-                }
-            ]
+          "amount": 1,
+          "unit": "TBSP",
+          "item": "peanut butter"
         },
         {
-            "name": "Protein Pancakes",
-            "url": "recipes/protein-pancakes.html",
-            "ingredients": [
-                {
-                    "amount": 1,
-                    "item": "banana",
-                    "note": "mashed"
-                },
-                {
-                    "amount": 1,
-                    "item": "scoop protein powder"
-                },
-                {
-                    "amount": 0.25,
-                    "unit": "cup",
-                    "item": "egg whites"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "TBSP",
-                    "item": "almond milk"
-                },
-                {
-                    "amount": 1,
-                    "unit": "tsp",
-                    "item": "cinnamon"
-                },
-                {
-                    "amount": 1,
-                    "item": "-2 dashes nutmeg",
-                    "note": "optional"
-                }
-            ]
+          "amount": 1,
+          "unit": "TBSP",
+          "item": "cacao powder"
         },
         {
-            "name": "Puff French Toast",
-            "url": "recipes/puff-french-toast.html",
-            "ingredients": [
-                {
-                    "amount": 2,
-                    "item": "eggs",
-                    "note": "room temperature"
-                },
-                {
-                    "amount": 2.5,
-                    "unit": "TBSP",
-                    "item": "sugar"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "tsp",
-                    "item": "salt"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "tsp",
-                    "item": "vanilla extract"
-                },
-                {
-                    "item": "dash cinnamon"
-                },
-                {
-                    "amount": 2,
-                    "unit": "cup",
-                    "item": "milk"
-                },
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "flour"
-                },
-                {
-                    "amount": 2.5,
-                    "unit": "tsp",
-                    "item": "baking powder"
-                },
-                {
-                    "item": "avocado or vegetable oil Not cooking spray"
-                },
-                {
-                    "item": "thick-sliced bread"
-                },
-                {
-                    "item": "maple syrup or cinnamon sugar",
-                    "note": "for topping"
-                }
-            ]
+          "amount": 1,
+          "unit": "TBSP",
+          "item": "chia seeds"
+        },
+        {
+          "amount": 2,
+          "unit": "tsp",
+          "item": "maple or agave syrup"
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "almond milk"
+        },
+        {
+          "amount": 2,
+          "unit": "TBSP",
+          "item": "mini semi-sweet chocolate chips"
         }
-    ]
+      ],
+      "directions": [
+        "In a bowl, combine the quick oats, peanut butter, cacoa powder, chia seeds, syrup, almond milk and chocolate chips. Stir until well blended.",
+        "Pour into an 8-ounce mason jar, cover, and refrigerate overnight."
+      ]
+    }
+  ],
+  "Skillet": [
+    {
+      "name": "Dutch Baby - Regular",
+      "url": "recipes/dutch-baby-regular.html",
+      "ingredients": [
+        {
+          "amount": 2,
+          "unit": "TBSP",
+          "item": "unsalted butter"
+        },
+        {
+          "amount": 3,
+          "item": "XL eggs",
+          "note": "room temperature"
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "+ 2 TBSP milk"
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "gluten-free flour"
+        },
+        {
+          "item": "pinch salt"
+        },
+        {
+          "item": "splash vanilla extract"
+        },
+        {
+          "item": "dash cinnamon"
+        },
+        {
+          "item": "dash nutmeg"
+        }
+      ],
+      "subtitle": "agirldefloured.com",
+      "directions": [
+        "Preheat the oven to 375°F.",
+        "Place the butter in a 10-inch cast iron skillet and transfer it to the oven to melt.",
+        "In a bowl, whisk together the eggs, milk, salt, vanilla, cinnamon, and nutmeg. Do not use a blender.",
+        "Whisk in the flour until smooth and slightly thickened, about the consistency of pourable cake batter.",
+        "Carefully remove the skillet from the oven and swirl the melted butter to evenly coat the pan.",
+        "Pour the batter into the skillet and bake for 15 minutes. Avoid opening the oven during the first 15 minutes of baking. Rotate the pan and bake for an additional 15 minutes, or until puffed and golden."
+      ]
+    },
+    {
+      "name": "Pancakes",
+      "url": "recipes/pancakes.html",
+      "ingredients": [
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "flour",
+          "note": "sifted"
+        },
+        {
+          "amount": 3,
+          "unit": "TBSP",
+          "item": "sugar"
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "baking powder"
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "baking soda"
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "salt"
+        },
+        {
+          "amount": 0.75,
+          "unit": "cup",
+          "item": "milk"
+        },
+        {
+          "amount": 1,
+          "item": "egg",
+          "note": "room temperature"
+        },
+        {
+          "amount": 2,
+          "unit": "TBSP",
+          "item": "unsalted butter",
+          "note": "melted"
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "vanilla extract"
+        }
+      ],
+      "subtitle": "Grandma Peggy",
+      "directions": [
+        "In a large bowl, whisk together the flour, sugar, baking powder, baking soda, and salt.",
+        "In a separate bowl, whisk the eggs, milk, melted butter, and vanilla until well combined.",
+        "Slowly add the dry ingredients to the wet ingredients, mixing gently. Do not overmix; small lumps are okay.",
+        "Let the batter sit for 5–10 minutes to thicken.",
+        "Heat a lightly greased griddle over medium to medium-low heat. Pour about ¼ cup of batter onto the griddle for each pancake.",
+        "Cook until bubbles form on the surface and the edges look dry, then flip and cook until golden brown, about 2–3 minutes per side."
+      ]
+    },
+    {
+      "name": "Protein Pancakes",
+      "url": "recipes/protein-pancakes.html",
+      "ingredients": [
+        {
+          "amount": 1,
+          "item": "banana",
+          "note": "mashed"
+        },
+        {
+          "amount": 1,
+          "item": "scoop protein powder"
+        },
+        {
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "egg whites"
+        },
+        {
+          "amount": 0.5,
+          "unit": "TBSP",
+          "item": "almond milk"
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "cinnamon"
+        },
+        {
+          "amount": 1,
+          "item": "-2 dashes nutmeg",
+          "note": "optional"
+        }
+      ],
+      "subtitle": "my.toneitup.com",
+      "directions": [
+        "In a small bowl, mash the banana with the almond milk until smooth and mostly free of lumps.",
+        "Add the egg and mix well. Stir in the egg whites, protein powder, and cinnamon until fully combined.",
+        "Let the batter rest for 1–2 minutes.",
+        "Heat a lightly greased griddle or skillet over medium-low heat. Pour the desired amount of batter onto the griddle. Cook slowly until small bubbles form on the surface or the bottom looks set, then flip and cook until golden."
+      ]
+    },
+    {
+      "name": "Puff French Toast",
+      "url": "recipes/puff-french-toast.html",
+      "ingredients": [
+        {
+          "amount": 2,
+          "item": "eggs",
+          "note": "room temperature"
+        },
+        {
+          "amount": 2.5,
+          "unit": "TBSP",
+          "item": "sugar"
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "salt"
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "vanilla extract"
+        },
+        {
+          "item": "dash cinnamon"
+        },
+        {
+          "amount": 2,
+          "unit": "cup",
+          "item": "milk"
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "flour"
+        },
+        {
+          "amount": 2.5,
+          "unit": "tsp",
+          "item": "baking powder"
+        },
+        {
+          "item": "avocado or vegetable oil Not cooking spray"
+        },
+        {
+          "item": "thick-sliced bread"
+        },
+        {
+          "item": "maple syrup or cinnamon sugar",
+          "note": "for topping"
+        }
+      ],
+      "subtitle": "Grandma Peggy",
+      "directions": [
+        "In a large bowl, whisk the eggs, sugar, salt, vanilla, cinnamon, and milk until well combined.",
+        "In a separate bowl, combine the flour and baking powder.",
+        "Slowly add the flour mixture to the egg mixture and whisk until smooth.",
+        "Heat oil in a large skillet over medium heat.",
+        "Dip both sides of the bread into the batter, then place in the heated skillet. Cook for 2–3 minutes per side, or until golden brown.",
+        "Serve warm with maple syrup or cinnamon sugar."
+      ]
+    }
+  ]
 }

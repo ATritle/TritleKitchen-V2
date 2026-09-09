@@ -1,153 +1,182 @@
 {
-    "Alcoholic": [
+  "Alcoholic": [
+    {
+      "name": "Apple Cider Honey Whiskey",
+      "url": "recipes/apple-cider-honey-whiskey.html",
+      "ingredients": [
         {
-            "name": "Apple Cider Honey Whiskey",
-            "url": "recipes/apple-cider-honey-whiskey.html",
-            "ingredients": [
-                {
-                    "amount": 6,
-                    "unit": "cup",
-                    "item": "apple cider"
-                },
-                {
-                    "amount": 2,
-                    "unit": "cup",
-                    "item": "honey whiskey"
-                },
-                {
-                    "amount": 3,
-                    "item": "cinnamon sticks"
-                },
-                {
-                    "amount": 2,
-                    "item": "lemons",
-                    "note": "juiced"
-                },
-                {
-                    "amount": 1,
-                    "item": "-2 TBSP honey"
-                },
-                {
-                    "amount": 2,
-                    "item": "apples",
-                    "note": "sliced thick"
-                }
-            ]
+          "amount": 6,
+          "unit": "cup",
+          "item": "apple cider"
         },
         {
-            "name": "Peach Pie Mooneshine",
-            "url": "recipes/peach-pie-moonshine.html",
-            "ingredients": [
-                {
-                    "amount": 128,
-                    "unit": "oz",
-                    "item": "Welch's white grape peach juice"
-                },
-                {
-                    "amount": 15,
-                    "unit": "oz",
-                    "item": "can sliced peaches",
-                    "note": "heavy syrup"
-                },
-                {
-                    "amount": 15,
-                    "unit": "oz",
-                    "item": "can sugar-free sliced peaches"
-                },
-                {
-                    "amount": 6,
-                    "item": "-7 cinnamon sticks"
-                },
-                {
-                    "amount": 750,
-                    "item": "ml peach schnapps"
-                },
-                {
-                    "amount": 375,
-                    "item": "ml Everclear"
-                },
-                {
-                    "amount": 1.5,
-                    "unit": "cup",
-                    "item": "sugar"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "brown sugar",
-                    "note": "packed"
-                }
-            ]
-        }
-    ],
-    "Shots": [
-        {
-            "name": "Chocolate Pudding Shots",
-            "url": "recipes/chocolate-pudding-shots.html",
-            "ingredients": [
-                {
-                    "amount": 3.9,
-                    "unit": "oz",
-                    "item": "package chocolate pudding"
-                },
-                {
-                    "amount": 0.75,
-                    "unit": "cup",
-                    "item": "milk"
-                },
-                {
-                    "amount": 0.25,
-                    "unit": "cup",
-                    "item": "cake vodka"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": "cup",
-                    "item": "Irish cream"
-                },
-                {
-                    "amount": 8,
-                    "unit": "oz",
-                    "item": "Cool Whip",
-                    "note": "thawed"
-                },
-                {
-                    "amount": 2,
-                    "unit": "oz",
-                    "item": "plastic cups with lids"
-                }
-            ]
+          "amount": 2,
+          "unit": "cup",
+          "item": "honey whiskey"
         },
         {
-            "name": "RumChata Pudding Shots",
-            "url": "recipes/rumchata-pudding-shots.html",
-            "ingredients": [
-                {
-                    "amount": 3.4,
-                    "unit": "oz",
-                    "item": "package vanilla pudding"
-                },
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "milk"
-                },
-                {
-                    "amount": 1,
-                    "unit": "cup",
-                    "item": "RumChata"
-                },
-                {
-                    "amount": 8,
-                    "unit": "oz",
-                    "item": "Cool Whip",
-                    "note": "thawed"
-                },
-                {
-                    "amount": 2,
-                    "item": "-4 dashes cinnamon"
-                }
-            ]
+          "amount": 3,
+          "item": "cinnamon sticks"
+        },
+        {
+          "amount": 2,
+          "item": "lemons",
+          "note": "juiced"
+        },
+        {
+          "amount": 1,
+          "item": "-2 TBSP honey"
+        },
+        {
+          "amount": 2,
+          "item": "apples",
+          "note": "sliced thick"
         }
-    ]
+      ],
+      "directions": [
+        "Add all ingredients to a crockpot and cook on Low for 2–3 hours, stirring occasionally.",
+        "Taste and adjust the honey to reach your desired level of sweetness.",
+        "Serve warm and garnish with apples."
+      ]
+    },
+    {
+      "name": "Peach Pie Mooneshine",
+      "url": "recipes/peach-pie-moonshine.html",
+      "ingredients": [
+        {
+          "amount": 128,
+          "unit": "oz",
+          "item": "Welch's white grape peach juice"
+        },
+        {
+          "amount": 15,
+          "unit": "oz",
+          "item": "can sliced peaches",
+          "note": "heavy syrup"
+        },
+        {
+          "amount": 15,
+          "unit": "oz",
+          "item": "can sugar-free sliced peaches"
+        },
+        {
+          "amount": 6,
+          "item": "-7 cinnamon sticks"
+        },
+        {
+          "amount": 750,
+          "item": "ml peach schnapps"
+        },
+        {
+          "amount": 375,
+          "item": "ml Everclear"
+        },
+        {
+          "amount": 1.5,
+          "unit": "cup",
+          "item": "sugar"
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "brown sugar",
+          "note": "packed"
+        }
+      ],
+      "directions": [
+        "In a large stockpot, combine the juice, peaches, sugar, brown sugar, and cinnamon sticks. Bring to a boil.",
+        "Reduce heat and simmer for 30–60 minutes.",
+        "Remove the cinnamon sticks and allow the mixture to cool to room temperature.",
+        "Stir in the peach schnapps and Everclear.",
+        "Strain the mixture through cheesecloth to remove small pieces of peaches.",
+        "Ladle into jars and add 2–3 peach slices to each jar.",
+        "Yields approximately 12–14 pint mason jars."
+      ]
+    }
+  ],
+  "Shots": [
+    {
+      "name": "Chocolate Pudding Shots",
+      "url": "recipes/chocolate-pudding-shots.html",
+      "ingredients": [
+        {
+          "amount": 3.9,
+          "unit": "oz",
+          "item": "package chocolate pudding"
+        },
+        {
+          "amount": 0.75,
+          "unit": "cup",
+          "item": "milk"
+        },
+        {
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "cake vodka"
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "Irish cream"
+        },
+        {
+          "amount": 8,
+          "unit": "oz",
+          "item": "Cool Whip",
+          "note": "thawed"
+        },
+        {
+          "amount": 2,
+          "unit": "oz",
+          "item": "plastic cups with lids"
+        }
+      ],
+      "directions": [
+        "In a large bowl, whisk the pudding mix and milk together until smooth. Let stand for 5 minutes to thicken.",
+        "Stir in the vodka and Irish cream until well combined.",
+        "Fold in the whipped topping until evenly incorporated.",
+        "Fill 2-ounce cups, place lids on, and freeze until ready to serve.",
+        "Optional: Let sit at room temperature for a few minutes before serving if frozen solid."
+      ]
+    },
+    {
+      "name": "RumChata Pudding Shots",
+      "url": "recipes/rumchata-pudding-shots.html",
+      "ingredients": [
+        {
+          "amount": 3.4,
+          "unit": "oz",
+          "item": "package vanilla pudding"
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "milk"
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "RumChata"
+        },
+        {
+          "amount": 8,
+          "unit": "oz",
+          "item": "Cool Whip",
+          "note": "thawed"
+        },
+        {
+          "amount": 2,
+          "item": "-4 dashes cinnamon"
+        }
+      ],
+      "subtitle": "Tammy Kuhlmann",
+      "directions": [
+        "In a large bowl, whisk the pudding mix and milk together until smooth. Let stand for 5 minutes to thicken.",
+        "Stir in the RumChata until well combined.",
+        "Fold in the whipped topping until evenly incorporated.",
+        "Fill 2-ounce cups, place lids on, and freeze until ready to serve.",
+        "Optional: Let sit at room temperature for a few minutes before serving if frozen solid."
+      ]
+    }
+  ]
 }
