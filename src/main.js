@@ -401,8 +401,8 @@ function renderRecipe(recipe) {
           ↗ Copy Recipe Link
         </button>
 
-        <a class="secondary-btn" href="#ingredients">Ingredients ↓</a>
-        <a class="secondary-btn" href="#directions">Directions ↓</a>
+        <a class="secondary-btn" href="#recipe/${encodeURIComponent(recipe.id)}/ingredients">Ingredients ↓</a>
+        <a class="secondary-btn" href="#recipe/${encodeURIComponent(recipe.id)}/directions">Directions ↓</a>
       </div>
 
       <div class="recipe-content-grid">
@@ -902,11 +902,31 @@ function renderRoute(){
   const raw = decodeURIComponent(location.hash.slice(1));
 
   if (raw.startsWith('recipe/')) {
-    const id = raw.slice('recipe/'.length);
+    let route = raw.slice('recipe/'.length);
+    let targetSection = '';
+
+    if (route.endsWith('/ingredients')) {
+      targetSection = 'ingredients';
+      route = route.slice(0, -'/ingredients'.length);
+    } else if (route.endsWith('/directions')) {
+      targetSection = 'directions';
+      route = route.slice(0, -'/directions'.length);
+    }
+
+    const id = route;
     const recipe = recipeById(id);
 
     if (recipe) {
       renderRecipe(recipe);
+
+      if (targetSection) {
+        requestAnimationFrame(() => {
+          document.getElementById(targetSection)?.scrollIntoView({
+            behavior: 'smooth',
+            block: 'start'
+          });
+        });
+      }
     } else {
       app.innerHTML = `
         <section class="section empty">
