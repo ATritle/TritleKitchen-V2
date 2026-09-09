@@ -1,0 +1,1432 @@
+{
+    "American Meals": [
+        {
+            "name": "Bacon Cheeseburger Tator Tot Casserole",
+            "url": "recipes/bacon-cheeseburger-tatortot-casserole.html",
+            "ingredients": [
+                {
+                    "amount": 1,
+                    "item": "½ lbs ground beef"
+                },
+                {
+                    "amount": 3,
+                    "unit": "oz",
+                    "item": "package real bacon bits (Black Label)"
+                },
+                {
+                    "amount": 2,
+                    "unit": "cup",
+                    "item": "shredded cheddar cheese"
+                },
+                {
+                    "amount": 32,
+                    "unit": "oz",
+                    "item": "frozen tater tots"
+                },
+                {
+                    "amount": 10.75,
+                    "unit": "oz",
+                    "item": "can condensed cream of chicken or cheddar cheese soup"
+                },
+                {
+                    "amount": 16,
+                    "unit": "oz",
+                    "item": "sour cream"
+                }
+            ]
+        },
+        {
+            "name": "Hawaiian Roll Sliders",
+            "url": "recipes/hawaiian-roll-sliders.html",
+            "ingredients": [
+                {
+                    "amount": 2,
+                    "unit": "TBSP",
+                    "item": "olive oil"
+                },
+                {
+                    "amount": 1,
+                    "item": "large onion",
+                    "note": "thinly sliced"
+                },
+                {
+                    "item": "salt",
+                    "note": "to taste"
+                },
+                {
+                    "amount": 4,
+                    "unit": "TBSP",
+                    "item": "unsalted butter",
+                    "note": "melted"
+                },
+                {
+                    "amount": 1,
+                    "unit": "tsp",
+                    "item": "poppy seeds"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "tsp",
+                    "item": "Worcestershire sauce"
+                },
+                {
+                    "amount": 2,
+                    "unit": "clove",
+                    "item": "garlic",
+                    "note": "minced"
+                },
+                {
+                    "amount": 12,
+                    "item": "Hawaiian rolls",
+                    "note": "sliced in half"
+                },
+                {
+                    "amount": 2,
+                    "unit": "LB",
+                    "item": "ham",
+                    "note": "sliced thinly"
+                },
+                {
+                    "amount": 1,
+                    "unit": "LB",
+                    "item": "sliced Swiss cheese"
+                }
+            ]
+        }
+    ],
+    "Asian Meals": [
+        {
+            "name": "Egg Roll in a Bowl",
+            "url": "recipes/egg-roll-in-a-bowl.html",
+            "ingredients": [
+                {
+                    "amount": 1,
+                    "unit": "tsp",
+                    "item": "toasted sesame oil"
+                },
+                {
+                    "amount": 1,
+                    "unit": "LB",
+                    "item": "ground chicken, turkey, beef, or pork"
+                },
+                {
+                    "amount": 2,
+                    "item": "bags coleslaw mix"
+                },
+                {
+                    "amount": 2,
+                    "unit": "TBSP",
+                    "item": "liquid aminos"
+                },
+                {
+                    "amount": 1,
+                    "unit": "TBSP",
+                    "item": "ground ginger"
+                },
+                {
+                    "amount": 1,
+                    "unit": "tsp",
+                    "item": "garlic powder"
+                },
+                {
+                    "amount": 4,
+                    "item": "-5 green onions",
+                    "note": "sliced"
+                },
+                {
+                    "item": "Optional: 1-2 tsp red pepper flakes"
+                }
+            ]
+        },
+        {
+            "name": "Garlic Chicken",
+            "url": "recipes/garlic-chicken.html",
+            "ingredients": [
+                {
+                    "amount": 1,
+                    "item": "-2 LBS chicken",
+                    "note": "diced"
+                },
+                {
+                    "amount": 5,
+                    "unit": "clove",
+                    "item": "garlic",
+                    "note": "minced"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "item": "liquid aminos"
+                },
+                {
+                    "amount": 2,
+                    "unit": "TBSP",
+                    "item": "toasted sesame oil"
+                },
+                {
+                    "amount": 4,
+                    "unit": "TBSP",
+                    "item": "honey"
+                },
+                {
+                    "amount": 1,
+                    "unit": "TBSP",
+                    "item": "cornstarch"
+                },
+                {
+                    "amount": 4,
+                    "item": "-6 green onions",
+                    "note": "sliced"
+                },
+                {
+                    "amount": 1,
+                    "unit": "can",
+                    "item": "water chestnuts"
+                },
+                {
+                    "amount": 1,
+                    "item": "bag frozen broccoli"
+                },
+                {
+                    "amount": 1,
+                    "item": "bag frozen cauliflower rice"
+                },
+                {
+                    "amount": 0.25,
+                    "item": "-1/2 bag frozen peas and carrots"
+                },
+                {
+                    "amount": 2,
+                    "item": "eggs"
+                },
+                {
+                    "item": "salt & pepper",
+                    "note": "to taste"
+                },
+                {
+                    "item": "sesame seeds",
+                    "note": "garnish"
+                }
+            ]
+        },
+        {
+            "name": "Korean Beef",
+            "url": "recipes/korean-beef.html",
+            "ingredients": [
+                {
+                    "amount": 1.5,
+                    "unit": "LB",
+                    "item": "flank steak",
+                    "note": "cut into 1/4\" strips"
+                },
+                {
+                    "amount": 0.25,
+                    "unit": "cup",
+                    "item": "cornstarch"
+                },
+                {
+                    "amount": 1,
+                    "item": "& 1/2 TBSP sesame oil"
+                },
+                {
+                    "amount": 2,
+                    "unit": "tsp",
+                    "item": "garlic",
+                    "note": "minced"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "tsp",
+                    "item": "fresh ginger",
+                    "note": "grated"
+                },
+                {
+                    "amount": 2,
+                    "unit": "tsp",
+                    "item": "rice vinegar"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "item": "liquid aminos"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "item": "beef broth"
+                },
+                {
+                    "amount": 0.75,
+                    "unit": "cup",
+                    "item": "brown sugar"
+                },
+                {
+                    "amount": 0.25,
+                    "unit": "tsp",
+                    "item": "red pepper flakes"
+                },
+                {
+                    "amount": 3,
+                    "item": "-4 green onions",
+                    "note": "chopped"
+                }
+            ]
+        },
+        {
+            "name": "⭐ Teriyaki Chicken Crispy Rice",
+            "url": "recipes/teriyaki-chicken-crispy-rice-salad.html",
+            "ingredients": [
+                {
+                    "amount": 2,
+                    "unit": "cup",
+                    "item": "jasmine rice",
+                    "note": "rinsed and cooked"
+                },
+                {
+                    "amount": 2.5,
+                    "unit": "cup",
+                    "item": "water"
+                },
+                {
+                    "amount": 1,
+                    "unit": "TBSP",
+                    "item": "toasted sesame oil"
+                },
+                {
+                    "amount": 2,
+                    "unit": "TBSP",
+                    "item": "teriyaki sauce"
+                },
+                {
+                    "amount": 1,
+                    "item": "rotisserie chicken or 1-2 LBS chicken",
+                    "note": "cooked and diced"
+                },
+                {
+                    "amount": 0.25,
+                    "unit": "cup",
+                    "item": "teriyaki sauce"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "item": "English cucumber",
+                    "note": "sliced and cut into quarters"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "item": "red cabbage",
+                    "note": "finely sliced"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "item": "cilantro",
+                    "note": "chopped"
+                },
+                {
+                    "amount": 1,
+                    "unit": "bunch",
+                    "item": "green onions",
+                    "note": "finely chopped"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "item": "roasted unsalted peanuts"
+                },
+                {
+                    "item": "Optional: 1 red bell pepper",
+                    "note": "diced small"
+                },
+                {
+                    "amount": 0.25,
+                    "unit": "cup",
+                    "item": "extra-virgin olive oil"
+                },
+                {
+                    "amount": 3,
+                    "unit": "TBSP",
+                    "item": "toasted sesame seed oil"
+                },
+                {
+                    "amount": 3,
+                    "unit": "TBSP",
+                    "item": "liquid aminos"
+                },
+                {
+                    "amount": 3,
+                    "unit": "TBSP",
+                    "item": "rice vinegar"
+                },
+                {
+                    "amount": 2,
+                    "unit": "TBSP",
+                    "item": "maple syrup"
+                },
+                {
+                    "amount": 2,
+                    "unit": "TBSP",
+                    "item": "nut butter",
+                    "note": "peanut, almond, or cashew"
+                },
+                {
+                    "amount": 2,
+                    "item": "-3 cloves garlic",
+                    "note": "mashed"
+                },
+                {
+                    "amount": 1,
+                    "unit": "TBSP",
+                    "item": "fresh ginger",
+                    "note": "grated"
+                }
+            ]
+        },
+        {
+            "name": "Thai Chicken Lettuce Wrap",
+            "url": "recipes/thai-chicken-lettuce-wrap.html",
+            "ingredients": [
+                {
+                    "amount": 1,
+                    "unit": "tsp",
+                    "item": "sesame oil"
+                },
+                {
+                    "amount": 2,
+                    "unit": "clove",
+                    "item": "garlic",
+                    "note": "minced"
+                },
+                {
+                    "amount": 1,
+                    "item": "Large onion",
+                    "note": "diced"
+                },
+                {
+                    "amount": 1,
+                    "unit": "cup",
+                    "item": "carrot",
+                    "note": "shredded"
+                },
+                {
+                    "amount": 1,
+                    "unit": "LB",
+                    "item": "chicken",
+                    "note": "ground or cubed"
+                },
+                {
+                    "amount": 3,
+                    "unit": "TBSP",
+                    "item": "liquid aminos"
+                },
+                {
+                    "amount": 2,
+                    "unit": "tsp",
+                    "item": "rice vinegar"
+                },
+                {
+                    "amount": 2,
+                    "unit": "TBSP",
+                    "item": "brown sugar"
+                },
+                {
+                    "amount": 1,
+                    "unit": "TBSP",
+                    "item": "natural peanut butter"
+                },
+                {
+                    "amount": 1,
+                    "unit": "tsp",
+                    "item": "chili paste"
+                },
+                {
+                    "amount": 2,
+                    "unit": "tsp",
+                    "item": "cornstarch"
+                },
+                {
+                    "amount": 2,
+                    "unit": "tsp",
+                    "item": "water"
+                },
+                {
+                    "amount": 12,
+                    "item": "leaves romaine or butter lettuce"
+                },
+                {
+                    "amount": 0.25,
+                    "unit": "cup",
+                    "item": "peanuts",
+                    "note": "chopped"
+                },
+                {
+                    "amount": 3,
+                    "item": "-4 green onions",
+                    "note": "chopped"
+                }
+            ]
+        }
+    ],
+    "Italian Meals": [
+        {
+            "name": "Balls of Meat",
+            "url": "recipes/balls-of-meat.html",
+            "ingredients": [
+                {
+                    "amount": 2,
+                    "unit": "cup",
+                    "item": "ketchup"
+                },
+                {
+                    "amount": 2,
+                    "unit": "cup",
+                    "item": "brown sugar"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "item": "onion",
+                    "note": "chopped"
+                },
+                {
+                    "amount": 2,
+                    "unit": "tsp",
+                    "item": "liquid smoke"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "tsp",
+                    "item": "garlic powder"
+                },
+                {
+                    "amount": 32,
+                    "unit": "oz",
+                    "item": "frozen meatballs"
+                }
+            ]
+        },
+        {
+            "name": "Chicken Tetrazzini",
+            "url": "recipes/chicken-tetrazzini.html",
+            "ingredients": [
+                {
+                    "amount": 16,
+                    "unit": "oz",
+                    "item": "angel hair spaghetti"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "item": "butter",
+                    "note": "softened"
+                },
+                {
+                    "amount": 1,
+                    "item": "-2 LBS chicken breasts",
+                    "note": "cooked & diced or 3-4 large cans of chicken"
+                },
+                {
+                    "amount": 2,
+                    "item": "-10.5oz cans cream of chicken soup"
+                },
+                {
+                    "amount": 2,
+                    "unit": "cup",
+                    "item": "sour cream"
+                },
+                {
+                    "item": "salt & pepper to taste"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "item": "chicken broth"
+                },
+                {
+                    "amount": 2,
+                    "unit": "cup",
+                    "item": "shredded mozzarella cheese"
+                },
+                {
+                    "amount": 2,
+                    "unit": "TBSP",
+                    "item": "Parmasean cheese"
+                }
+            ]
+        },
+        {
+            "name": "Crockpot Meatballs",
+            "url": "recipes/crockpot-meatballs.html",
+            "ingredients": [
+                {
+                    "amount": 2,
+                    "item": "",
+                    "note": "22 oz packages frozen meatballs"
+                },
+                {
+                    "amount": 2,
+                    "item": "",
+                    "note": "28 oz bottles Cookies BBQ Sauce"
+                },
+                {
+                    "amount": 2,
+                    "unit": "TBSP",
+                    "item": "unsalted butter",
+                    "note": "melted"
+                },
+                {
+                    "amount": 1,
+                    "unit": "tsp",
+                    "item": "garlic salt"
+                },
+                {
+                    "amount": 1,
+                    "unit": "tsp",
+                    "item": "Mrs. Dash"
+                },
+                {
+                    "amount": 2,
+                    "unit": "TBSP",
+                    "item": "light brown sugar"
+                },
+                {
+                    "amount": 1,
+                    "unit": "can",
+                    "item": "beer",
+                    "note": "gluten-free lager or pilsner"
+                },
+                {
+                    "amount": 2,
+                    "unit": "TBSP",
+                    "item": "Tabasco sauce"
+                },
+                {
+                    "amount": 1,
+                    "item": "shot whiskey"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "tsp",
+                    "item": "habanero Tabasco sauce"
+                }
+            ]
+        },
+        {
+            "name": "Low Carb Chicken Spaghetti",
+            "url": "recipes/low-carb-chicken-spaghetti.html",
+            "ingredients": [
+                {
+                    "amount": 1,
+                    "item": "-2 spaghetti squash",
+                    "note": "cut in half and deseeded"
+                },
+                {
+                    "amount": 0.25,
+                    "unit": "cup",
+                    "item": "olive or avocado oil"
+                },
+                {
+                    "item": "salt & pepper",
+                    "note": "to taste"
+                },
+                {
+                    "amount": 8,
+                    "unit": "oz",
+                    "item": "cream cheese",
+                    "note": "softened"
+                },
+                {
+                    "amount": 1,
+                    "unit": "cup",
+                    "item": "sour cream"
+                },
+                {
+                    "amount": 1,
+                    "item": "-2 LBS chicken",
+                    "note": "cooked and diced"
+                },
+                {
+                    "amount": 2,
+                    "item": "",
+                    "note": "14 oz cans diced tomatoes with garlic and herbs - drained"
+                },
+                {
+                    "amount": 1,
+                    "item": "-2 tsp garlic powder"
+                },
+                {
+                    "amount": 1,
+                    "item": "-2 cups shredded cheddar cheese"
+                }
+            ]
+        },
+        {
+            "name": "Million Dollar Spaghetti",
+            "url": "recipes/million-dollar-spaghetti.html",
+            "ingredients": [
+                {
+                    "amount": 1,
+                    "unit": "LB",
+                    "item": "ground beef"
+                },
+                {
+                    "amount": 24,
+                    "item": "-32 oz spaghetti sauce"
+                },
+                {
+                    "amount": 8,
+                    "unit": "oz",
+                    "item": "cream cheese",
+                    "note": "softened"
+                },
+                {
+                    "amount": 0.25,
+                    "unit": "cup",
+                    "item": "sour cream"
+                },
+                {
+                    "amount": 1,
+                    "unit": "stick",
+                    "item": "unsalted butter",
+                    "note": "sliced"
+                },
+                {
+                    "amount": 12,
+                    "item": "-16 oz spaghetti noodles"
+                },
+                {
+                    "amount": 1,
+                    "unit": "cup",
+                    "item": "cottage cheese"
+                },
+                {
+                    "amount": 1,
+                    "item": "-2 cups mozzarella cheese",
+                    "note": "shredded"
+                },
+                {
+                    "item": "salt & pepper",
+                    "note": "to taste"
+                },
+                {
+                    "amount": 1,
+                    "unit": "TBSP",
+                    "item": "Italian seasoning"
+                },
+                {
+                    "amount": 1,
+                    "item": "-2 tsp garlic powder"
+                },
+                {
+                    "amount": 1,
+                    "item": "-2 tsp minced onion"
+                }
+            ]
+        }
+    ],
+    "Mediterranean Meals": [
+        {
+            "name": "Chicken Gyro Bowl",
+            "url": "recipes/chicken-gyro-bowl.html",
+            "ingredients": [
+                {
+                    "amount": 16,
+                    "unit": "oz",
+                    "item": "chicken"
+                },
+                {
+                    "amount": 0.5,
+                    "item": "red onion",
+                    "note": "diced"
+                },
+                {
+                    "amount": 1,
+                    "item": "each English cucumber",
+                    "note": "diced"
+                },
+                {
+                    "amount": 1,
+                    "item": "-2 Roma tomatoes",
+                    "note": "diced"
+                },
+                {
+                    "amount": 3,
+                    "item": "-4 Kalamata olives",
+                    "note": "diced"
+                },
+                {
+                    "amount": 8,
+                    "unit": "oz",
+                    "item": "feta cheese"
+                },
+                {
+                    "amount": 1,
+                    "unit": "cup",
+                    "item": "tzatziki sauce",
+                    "note": "see tzatziki sauce receipe"
+                },
+                {
+                    "item": "MARINADE:"
+                },
+                {
+                    "amount": 2,
+                    "unit": "clove",
+                    "item": "garlic",
+                    "note": "finely minced"
+                },
+                {
+                    "amount": 1,
+                    "unit": "TBSP",
+                    "item": "red wine vinegar"
+                },
+                {
+                    "amount": 0.5,
+                    "item": "lemon",
+                    "note": "juiced"
+                },
+                {
+                    "amount": 2,
+                    "unit": "TBSP",
+                    "item": "extra-virgin oil"
+                },
+                {
+                    "amount": 3,
+                    "unit": "TBSP",
+                    "item": "greek yogurt"
+                },
+                {
+                    "amount": 2,
+                    "unit": "tsp",
+                    "item": "dried oregano"
+                },
+                {
+                    "amount": 0.75,
+                    "unit": "tsp",
+                    "item": "salt"
+                }
+            ]
+        }
+    ],
+    "Mexican Meals": [
+        {
+            "name": "⭐ Birria Tacos",
+            "url": "recipes/birria-tacos.html",
+            "ingredients": [
+                {
+                    "amount": 3,
+                    "item": "-4 LBS chuck roast",
+                    "note": "2\" x 2\" cubes"
+                },
+                {
+                    "amount": 3,
+                    "item": "large onions",
+                    "note": "1 cut in half & 2 sliced"
+                },
+                {
+                    "amount": 4,
+                    "item": "Roma tomatoes",
+                    "note": "cut in half"
+                },
+                {
+                    "amount": 5,
+                    "unit": "clove",
+                    "item": "garlic",
+                    "note": "mashed"
+                },
+                {
+                    "amount": 2,
+                    "item": "dried ancho chile peppers",
+                    "note": "seeds removed"
+                },
+                {
+                    "amount": 2,
+                    "item": "dried guajillo chile peppers",
+                    "note": "seeds removed"
+                },
+                {
+                    "amount": 1,
+                    "item": "bay leaf"
+                },
+                {
+                    "amount": 2,
+                    "item": "dashes ground cinnamon"
+                },
+                {
+                    "amount": 1,
+                    "unit": "TBSP",
+                    "item": "whole black peppercorns"
+                },
+                {
+                    "amount": 1,
+                    "unit": "TBSP",
+                    "item": "apple cider vinegar"
+                },
+                {
+                    "item": "water"
+                },
+                {
+                    "item": "salt",
+                    "note": "to taste"
+                },
+                {
+                    "amount": 1,
+                    "item": "-2 TBSP cumin"
+                },
+                {
+                    "amount": 1,
+                    "item": "& 1/2 TBSP Better Than Bouillon Beef"
+                },
+                {
+                    "amount": 1,
+                    "item": "-2 TBSP taco seasoning"
+                },
+                {
+                    "amount": 1,
+                    "item": "-2 tsp dried oregano"
+                },
+                {
+                    "amount": 1,
+                    "item": "-2 tsp garlic powder"
+                },
+                {
+                    "amount": 1,
+                    "item": "red onion",
+                    "note": "diced"
+                },
+                {
+                    "item": "cilantro",
+                    "note": "chopped"
+                },
+                {
+                    "item": "flour tortillas"
+                },
+                {
+                    "item": "Chinuahua cheese"
+                },
+                {
+                    "amount": 1,
+                    "item": "-2 limes"
+                }
+            ]
+        },
+        {
+            "name": "⭐ Elote Chicken Pasta",
+            "url": "recipes/elote-chicken-pasta.html",
+            "ingredients": [
+                {
+                    "amount": 2,
+                    "item": "-3 LBS chicken",
+                    "note": "cooked & diced"
+                },
+                {
+                    "amount": 4,
+                    "item": "-6 TBSP taco seasoning"
+                },
+                {
+                    "amount": 12,
+                    "item": "-16 oz package fusilli pasta"
+                },
+                {
+                    "amount": 1,
+                    "item": "medium red onion",
+                    "note": "diced"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "bunch",
+                    "item": "cilantro",
+                    "note": "chopped"
+                },
+                {
+                    "amount": 2,
+                    "item": "",
+                    "note": "15 oz cans sweet corn - roasted"
+                },
+                {
+                    "amount": 1,
+                    "unit": "cup",
+                    "item": "Cotija cheese"
+                },
+                {
+                    "item": "SAUCE:"
+                },
+                {
+                    "amount": 1,
+                    "unit": "cup",
+                    "item": "sour cream"
+                },
+                {
+                    "amount": 1,
+                    "unit": "cup",
+                    "item": "mayo"
+                },
+                {
+                    "item": "Tajín",
+                    "note": "to taste"
+                },
+                {
+                    "amount": 1,
+                    "item": "fresh lime",
+                    "note": "zested and juiced"
+                },
+                {
+                    "item": "drizzle honey",
+                    "note": "to taste"
+                },
+                {
+                    "amount": 1,
+                    "item": "-2 TBSP taco seasoning"
+                }
+            ]
+        },
+        {
+            "name": "Mexican Stuffed Peppers",
+            "url": "recipes/mexican-stuffed-peppers.html",
+            "ingredients": [
+                {
+                    "amount": 1,
+                    "item": "red bell pepper"
+                },
+                {
+                    "amount": 1,
+                    "item": "orange bell pepper"
+                },
+                {
+                    "amount": 1,
+                    "item": "yellow bell pepper"
+                },
+                {
+                    "amount": 2,
+                    "item": "green bell peppers"
+                },
+                {
+                    "amount": 2,
+                    "unit": "LB",
+                    "item": "ground beef"
+                },
+                {
+                    "item": "salt & pepper",
+                    "note": "to taste"
+                },
+                {
+                    "amount": 1,
+                    "item": "small onion",
+                    "note": "diced"
+                },
+                {
+                    "amount": 4,
+                    "item": "-5 cloves garlic",
+                    "note": "minced"
+                },
+                {
+                    "amount": 4,
+                    "unit": "TBSP",
+                    "item": "taco seasoning"
+                },
+                {
+                    "amount": 0.6666666666666666,
+                    "unit": "cup",
+                    "item": "beef broth"
+                },
+                {
+                    "amount": 1,
+                    "item": "bag frozen cauliflower rice"
+                },
+                {
+                    "amount": 10,
+                    "unit": "oz",
+                    "item": "can Rotel"
+                },
+                {
+                    "amount": 1,
+                    "item": "-2 cups Colby cheese",
+                    "note": "shredded"
+                }
+            ]
+        }
+    ],
+    "Soups": [
+        {
+            "name": "Chili",
+            "url": "recipes/chili.html",
+            "ingredients": [
+                {
+                    "amount": 2,
+                    "unit": "LB",
+                    "item": "ground beef or pork"
+                },
+                {
+                    "amount": 1,
+                    "item": "onion",
+                    "note": "diced"
+                },
+                {
+                    "amount": 3,
+                    "item": "",
+                    "note": "15 oz cans rotel"
+                },
+                {
+                    "amount": 15,
+                    "unit": "oz",
+                    "item": "can black beans"
+                },
+                {
+                    "amount": 15,
+                    "unit": "oz",
+                    "item": "can kidney beans"
+                },
+                {
+                    "amount": 2,
+                    "unit": "TBSP",
+                    "item": "chili powder"
+                },
+                {
+                    "amount": 4,
+                    "unit": "cup",
+                    "item": "beef stock"
+                }
+            ]
+        },
+        {
+            "name": "⭐ French Onion Soup",
+            "url": "recipes/french-onion-soup.html",
+            "ingredients": [
+                {
+                    "amount": 6,
+                    "unit": "cup",
+                    "item": "onions",
+                    "note": "thinly sliced"
+                },
+                {
+                    "amount": 2,
+                    "unit": "TBSP",
+                    "item": "unsalted butter"
+                },
+                {
+                    "amount": 2,
+                    "unit": "TBSP",
+                    "item": "olive oil"
+                },
+                {
+                    "amount": 6,
+                    "unit": "sprig",
+                    "item": "fresh thyme",
+                    "note": "leaves stripped"
+                },
+                {
+                    "amount": 1,
+                    "item": "bay leaf"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "item": "white wine"
+                },
+                {
+                    "amount": 4,
+                    "unit": "cup",
+                    "item": "beef broth"
+                },
+                {
+                    "amount": 1,
+                    "item": "½ cups grated Gruyère cheese"
+                },
+                {
+                    "amount": 2,
+                    "unit": "TBSP",
+                    "item": "Worcestershire sauce"
+                },
+                {
+                    "item": "pinch of salt & pepper"
+                }
+            ]
+        },
+        {
+            "name": "Potato Soup",
+            "url": "recipes/potato-soup.html",
+            "ingredients": [
+                {
+                    "amount": 3,
+                    "item": "large russet potatoes",
+                    "note": "peeled & diced"
+                },
+                {
+                    "amount": 0.5,
+                    "item": "onion",
+                    "note": "diced"
+                },
+                {
+                    "amount": 2,
+                    "unit": "cup",
+                    "item": "chicken broth"
+                },
+                {
+                    "amount": 1,
+                    "unit": "cup",
+                    "item": "milk"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "item": "heavy whipping cream"
+                },
+                {
+                    "item": "salt & pepper",
+                    "note": "to taste"
+                },
+                {
+                    "amount": 0.25,
+                    "unit": "tsp",
+                    "item": "garlic powder"
+                },
+                {
+                    "amount": 0.25,
+                    "unit": "tsp",
+                    "item": "paprika"
+                },
+                {
+                    "amount": 1,
+                    "unit": "cup",
+                    "item": "shredded cheddar cheese"
+                },
+                {
+                    "amount": 0.3333333333333333,
+                    "unit": "cup",
+                    "item": "sour cream"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "LB",
+                    "item": "bacon",
+                    "note": "cooked & crumbled"
+                }
+            ]
+        },
+        {
+            "name": "Taco Soup",
+            "url": "recipes/taco-soup.html",
+            "ingredients": [
+                {
+                    "amount": 2,
+                    "unit": "LB",
+                    "item": "ground beef"
+                },
+                {
+                    "amount": 16,
+                    "unit": "oz",
+                    "item": "cream cheese"
+                },
+                {
+                    "amount": 20,
+                    "unit": "oz",
+                    "item": "Rotel"
+                },
+                {
+                    "amount": 1,
+                    "unit": "TBSP",
+                    "item": "taco seasoning"
+                },
+                {
+                    "amount": 4,
+                    "unit": "cup",
+                    "item": "chicken broth"
+                },
+                {
+                    "amount": 4,
+                    "unit": "oz",
+                    "item": "diced jalapeños or poblanos"
+                },
+                {
+                    "amount": 15,
+                    "unit": "oz",
+                    "item": "can black beans"
+                },
+                {
+                    "item": "shredded cheddar cheese",
+                    "note": "to garnish"
+                },
+                {
+                    "item": "cilantro",
+                    "note": "chopped to garnish"
+                }
+            ]
+        },
+        {
+            "name": "Tortellini Soup",
+            "url": "recipes/tortellini-soup.html",
+            "ingredients": [
+                {
+                    "amount": 1,
+                    "unit": "TBSP",
+                    "item": "unsalted butter"
+                },
+                {
+                    "amount": 1,
+                    "unit": "TBSP",
+                    "item": "olive oil"
+                },
+                {
+                    "amount": 1,
+                    "item": "medium onion",
+                    "note": "diced"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "item": "celery",
+                    "note": "finely chopped"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "item": "carrots",
+                    "note": "finely chopped"
+                },
+                {
+                    "amount": 6,
+                    "item": "-8 cloves garlic",
+                    "note": "minced"
+                },
+                {
+                    "amount": 1,
+                    "item": "-2 tsp Italian seasoning"
+                },
+                {
+                    "item": "salt & pepper"
+                },
+                {
+                    "amount": 1,
+                    "unit": "LB",
+                    "item": "ground Italian sausage"
+                },
+                {
+                    "amount": 3,
+                    "unit": "TBSP",
+                    "item": "tomato paste"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "item": "dry white wine"
+                },
+                {
+                    "amount": 28,
+                    "unit": "oz",
+                    "item": "diced tomatoes",
+                    "note": "drained"
+                },
+                {
+                    "amount": 6,
+                    "unit": "cup",
+                    "item": "chicken broth"
+                },
+                {
+                    "amount": 1,
+                    "item": "bay leaf"
+                },
+                {
+                    "amount": 1,
+                    "item": "Parmesan rind"
+                },
+                {
+                    "amount": 2,
+                    "unit": "cup",
+                    "item": "spinach"
+                },
+                {
+                    "amount": 18,
+                    "unit": "oz",
+                    "item": "package four cheese tortellini pasta"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "item": "heavy whipping cream"
+                }
+            ]
+        },
+        {
+            "name": "White Chicken Chili",
+            "url": "recipes/white-chicken-chili.html",
+            "ingredients": [
+                {
+                    "amount": 2,
+                    "unit": "LB",
+                    "item": "chicken",
+                    "note": "diced"
+                },
+                {
+                    "amount": 1,
+                    "item": "medium onion"
+                },
+                {
+                    "amount": 1.5,
+                    "unit": "tsp",
+                    "item": "garlic powder"
+                },
+                {
+                    "amount": 1,
+                    "unit": "TBSP",
+                    "item": "olive oil"
+                },
+                {
+                    "amount": 31,
+                    "unit": "oz",
+                    "item": "cans great northern beans",
+                    "note": "drained and rinsed"
+                },
+                {
+                    "amount": 14.5,
+                    "unit": "oz",
+                    "item": "can chicken broth"
+                },
+                {
+                    "amount": 8,
+                    "unit": "oz",
+                    "item": "can green chilies"
+                },
+                {
+                    "amount": 1,
+                    "unit": "tsp",
+                    "item": "salt"
+                },
+                {
+                    "amount": 1,
+                    "unit": "tsp",
+                    "item": "cumin"
+                },
+                {
+                    "amount": 1,
+                    "unit": "tsp",
+                    "item": "dried oregano"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "tsp",
+                    "item": "black pepper"
+                },
+                {
+                    "amount": 0.25,
+                    "unit": "tsp",
+                    "item": "cayenne pepper"
+                },
+                {
+                    "amount": 2,
+                    "unit": "cup",
+                    "item": "sour cream"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "item": "heavy whipping cream"
+                },
+                {
+                    "item": "Optional: shredded white cheddar cheese, cilantro, tortilla chips, avocado or sliced jalapeños",
+                    "note": "for garnish."
+                }
+            ]
+        }
+    ]
+}
