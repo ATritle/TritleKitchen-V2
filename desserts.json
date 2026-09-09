@@ -1,0 +1,1696 @@
+{
+    "Bars": [
+        {
+            "name": "Avocado Fudge",
+            "url": "recipes/avocado-fudge.html",
+            "ingredients": [
+                {
+                    "amount": 2,
+                    "item": "medium avocados",
+                    "note": "cubed"
+                },
+                {
+                    "amount": 1,
+                    "item": "ripe banana"
+                },
+                {
+                    "amount": 0.25,
+                    "unit": "cup",
+                    "item": "honey"
+                },
+                {
+                    "amount": 0.6666666666666666,
+                    "unit": "cup",
+                    "item": "coconut oil",
+                    "note": "melted"
+                },
+                {
+                    "amount": 1,
+                    "item": "lemon",
+                    "note": "juiced"
+                },
+                {
+                    "item": "pinch of salt"
+                },
+                {
+                    "item": "walnuts",
+                    "note": "to taste"
+                },
+                {
+                    "item": "coconut flakes",
+                    "note": "to taste"
+                }
+            ]
+        },
+        {
+            "name": "Blueberry Oat Bars",
+            "url": "recipes/blueberry-oat-bars.html",
+            "ingredients": [
+                {
+                    "amount": 2,
+                    "unit": "cup",
+                    "item": "rolled oats",
+                    "note": "divided"
+                },
+                {
+                    "amount": 1,
+                    "unit": "cup",
+                    "item": "almonds or almond butter"
+                },
+                {
+                    "amount": 2,
+                    "item": "scoops vanilla protein powder"
+                },
+                {
+                    "amount": 10,
+                    "item": "dates",
+                    "note": "pitted & chopped"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "item": "agave or maple syrup"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "tsp",
+                    "item": "vanilla extract"
+                },
+                {
+                    "item": "pinch of salt"
+                },
+                {
+                    "amount": 1,
+                    "unit": "cup",
+                    "item": "blueberries"
+                }
+            ]
+        },
+        {
+            "name": "Caramel Rice Krispies Treats",
+            "url": "recipes/caramel-rice-krispies-treats.html",
+            "ingredients": [
+                {
+                    "amount": 2,
+                    "item": "bags marshmallows"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "item": "unsalted butter"
+                },
+                {
+                    "amount": 12,
+                    "unit": "cup",
+                    "item": "Rice Krispies"
+                },
+                {
+                    "item": "Caramel sauce:"
+                },
+                {
+                    "amount": 1.25,
+                    "unit": "stick",
+                    "item": "unsalted butter"
+                },
+                {
+                    "amount": 14,
+                    "unit": "oz",
+                    "item": "Kraft caramels",
+                    "note": "unwrapped"
+                },
+                {
+                    "amount": 13,
+                    "unit": "oz",
+                    "item": "can sweetened condensed milk"
+                }
+            ]
+        },
+        {
+            "name": "Chocolate Chickpea Brownies",
+            "url": "recipes/chocolate-chickpea-brownies.html",
+            "ingredients": [
+                {
+                    "amount": 15,
+                    "unit": "oz",
+                    "item": "can chickpeas",
+                    "note": "drained & rinsed"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "item": "almond or peanut butter"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "item": "agave syrup"
+                },
+                {
+                    "amount": 1,
+                    "unit": "TBSP",
+                    "item": "coconut oil",
+                    "note": "melted"
+                },
+                {
+                    "amount": 1,
+                    "unit": "tsp",
+                    "item": "vanilla extract"
+                },
+                {
+                    "amount": 0.25,
+                    "unit": "cup",
+                    "item": "almond flour"
+                },
+                {
+                    "amount": 0.25,
+                    "unit": "cup",
+                    "item": "Hershey's 100% unsweetened cocoa powder"
+                },
+                {
+                    "amount": 0.25,
+                    "unit": "tsp",
+                    "item": "baking soda"
+                },
+                {
+                    "amount": 0.25,
+                    "unit": "tsp",
+                    "item": "baking powder"
+                },
+                {
+                    "amount": 0.25,
+                    "unit": "tsp",
+                    "item": "salt"
+                },
+                {
+                    "amount": 1,
+                    "unit": "cup",
+                    "item": "chocolate chips",
+                    "note": "divided"
+                }
+            ]
+        },
+        {
+            "name": "Chunky Blonde Brownies",
+            "url": "recipes/chunky-blonde-brownies.html",
+            "ingredients": [
+                {
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "item": "unsalted butter",
+                    "note": "softened"
+                },
+                {
+                    "amount": 0.75,
+                    "unit": "cup",
+                    "item": "sugar"
+                },
+                {
+                    "amount": 0.75,
+                    "unit": "cup",
+                    "item": "brown sugar",
+                    "note": "packed"
+                },
+                {
+                    "amount": 2,
+                    "item": "eggs",
+                    "note": "room temperature"
+                },
+                {
+                    "amount": 1,
+                    "unit": "tsp",
+                    "item": "vanilla extract"
+                },
+                {
+                    "amount": 1.5,
+                    "unit": "cup",
+                    "item": "flour",
+                    "note": "sifted"
+                },
+                {
+                    "amount": 1,
+                    "unit": "tsp",
+                    "item": "baking powder"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "tsp",
+                    "item": "salt"
+                },
+                {
+                    "amount": 1,
+                    "unit": "cup",
+                    "item": "white chocolate or vanilla chips"
+                },
+                {
+                    "amount": 1,
+                    "unit": "cup",
+                    "item": "chocolate chips"
+                },
+                {
+                    "amount": 1,
+                    "unit": "cup",
+                    "item": "macadamia nuts"
+                }
+            ]
+        },
+        {
+            "name": "Mary Bars",
+            "url": "recipes/mary-bars.html",
+            "ingredients": [
+                {
+                    "amount": 1.5,
+                    "unit": "cup",
+                    "item": "creamy peanut butter",
+                    "note": "divided into 1 cup and 1/2 cup"
+                },
+                {
+                    "amount": 1,
+                    "unit": "cup",
+                    "item": "sugar"
+                },
+                {
+                    "amount": 1,
+                    "unit": "cup",
+                    "item": "light corn syrup"
+                },
+                {
+                    "amount": 7,
+                    "unit": "cup",
+                    "item": "Rice Krispies"
+                },
+                {
+                    "amount": 6,
+                    "item": "squares white almond bark"
+                },
+                {
+                    "amount": 1.5,
+                    "unit": "cup",
+                    "item": "semi-sweet chocolate chips"
+                }
+            ]
+        },
+        {
+            "name": "⭐ Monster Cookie Bars",
+            "url": "recipes/monster-cookie-bars.html",
+            "ingredients": [
+                {
+                    "amount": 1,
+                    "unit": "stick",
+                    "item": "unsalted butter",
+                    "note": "softened"
+                },
+                {
+                    "amount": 1,
+                    "unit": "cup",
+                    "item": "light brown sugar",
+                    "note": "packed"
+                },
+                {
+                    "amount": 1,
+                    "unit": "cup",
+                    "item": "sugar"
+                },
+                {
+                    "amount": 3,
+                    "item": "eggs",
+                    "note": "room temperature"
+                },
+                {
+                    "amount": 1.5,
+                    "unit": "cup",
+                    "item": "creamy peanut butter"
+                },
+                {
+                    "amount": 1,
+                    "unit": "tsp",
+                    "item": "vanilla extract"
+                },
+                {
+                    "amount": 2,
+                    "unit": "tsp",
+                    "item": "baking soda"
+                },
+                {
+                    "amount": 4.5,
+                    "unit": "cup",
+                    "item": "quick oats"
+                },
+                {
+                    "amount": 1.5,
+                    "unit": "cup",
+                    "item": "semi-sweet mini chocolate chips"
+                },
+                {
+                    "amount": 1,
+                    "unit": "cup",
+                    "item": "M&M's"
+                }
+            ]
+        },
+        {
+            "name": "Rhubarb Cheesecake Squares",
+            "url": "recipes/rhubarb-cheesecake-squares.html",
+            "ingredients": [
+                {
+                    "amount": 1.25,
+                    "unit": "cup",
+                    "item": "flour",
+                    "note": "sifted"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "item": "old-fashioned oats"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "item": "brown sugar",
+                    "note": "packed"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "item": "butter",
+                    "note": "cold and cubed"
+                },
+                {
+                    "amount": 8,
+                    "unit": "oz",
+                    "item": "package cream cheese",
+                    "note": "softened"
+                },
+                {
+                    "amount": 0.75,
+                    "unit": "cup",
+                    "item": "sugar"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "tsp",
+                    "item": "salt"
+                },
+                {
+                    "amount": 0.25,
+                    "unit": "tsp",
+                    "item": "cinnamon"
+                },
+                {
+                    "amount": 0.125,
+                    "unit": "tsp",
+                    "item": "nutmeg"
+                },
+                {
+                    "amount": 1,
+                    "item": "LG egg",
+                    "note": "room temperature and lightly beaten"
+                },
+                {
+                    "amount": 1.5,
+                    "unit": "cup",
+                    "item": "rhubarb",
+                    "note": "diced"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "tsp",
+                    "item": "vanilla extract"
+                }
+            ]
+        },
+        {
+            "name": "S'more Bars",
+            "url": "recipes/smore-bars.html",
+            "ingredients": [
+                {
+                    "amount": 8,
+                    "unit": "cup",
+                    "item": "mini marshmallows",
+                    "note": "divided into 6 cups and 2 cups"
+                },
+                {
+                    "amount": 4,
+                    "unit": "TBSP",
+                    "item": "unsalted butter"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "tsp",
+                    "item": "salt"
+                },
+                {
+                    "amount": 1.75,
+                    "unit": "cup",
+                    "item": "chocolate chips",
+                    "note": "divided into 1 cup and 3/4 cup"
+                },
+                {
+                    "amount": 8,
+                    "item": "-10 graham crackers",
+                    "note": "cut in half short way"
+                }
+            ]
+        }
+    ],
+    "Cake": [
+        {
+            "name": "Banana Greek Yogurt Muffins",
+            "url": "recipes/banana-greek-yogurt-muffins.html",
+            "ingredients": [
+                {
+                    "amount": 2,
+                    "item": "ripe bananas",
+                    "note": "mashed"
+                },
+                {
+                    "amount": 1,
+                    "unit": "cup",
+                    "item": "Greek yogurt"
+                },
+                {
+                    "amount": 2,
+                    "item": "eggs",
+                    "note": "room temp"
+                },
+                {
+                    "amount": 2,
+                    "unit": "cup",
+                    "item": "rolled quick oats"
+                },
+                {
+                    "amount": 0.25,
+                    "unit": "cup",
+                    "item": "brown sugar"
+                },
+                {
+                    "amount": 1,
+                    "item": "½ tsp baking powder"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "tsp",
+                    "item": "baking soda"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "item": "mini chocolate chips"
+                }
+            ]
+        },
+        {
+            "name": "Better Than Sex Cake",
+            "url": "recipes/better-than-sex-cake.html",
+            "ingredients": [
+                {
+                    "amount": 1,
+                    "item": "box Devil's food cake"
+                },
+                {
+                    "amount": 7,
+                    "unit": "oz",
+                    "item": "can sweetened condensed milk"
+                },
+                {
+                    "amount": 6,
+                    "unit": "oz",
+                    "item": "caramel ice cream topping"
+                },
+                {
+                    "amount": 3,
+                    "item": "Heath bars",
+                    "note": "crushed"
+                },
+                {
+                    "amount": 8,
+                    "unit": "oz",
+                    "item": "container Cool Whip"
+                }
+            ]
+        },
+        {
+            "name": "Caramel Cinnamon Rolls",
+            "url": "recipes/caramel-cinnamon-rolls-ruby.html",
+            "ingredients": [
+                {
+                    "amount": 1,
+                    "unit": "cup",
+                    "item": "sugar"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "item": "Crisco"
+                },
+                {
+                    "amount": 1.5,
+                    "unit": "tsp",
+                    "item": "salt"
+                },
+                {
+                    "amount": 2,
+                    "item": "eggs",
+                    "note": "room temperature, beaten"
+                },
+                {
+                    "amount": 1.25,
+                    "unit": "tsp",
+                    "item": "yeast"
+                },
+                {
+                    "amount": 6,
+                    "unit": "cup",
+                    "item": "flour",
+                    "note": "sifted"
+                },
+                {
+                    "amount": 2,
+                    "unit": "cup",
+                    "item": "boiling water"
+                },
+                {
+                    "amount": 3,
+                    "item": "-4 TBSP butter",
+                    "note": "melted"
+                },
+                {
+                    "item": "cinnamon & sugar"
+                },
+                {
+                    "item": "Caramel sauce:"
+                },
+                {
+                    "amount": 2,
+                    "unit": "cup",
+                    "item": "brown sugar",
+                    "note": "packed"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "item": "water"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "item": "butter",
+                    "note": "softened"
+                },
+                {
+                    "amount": 4,
+                    "unit": "TBSP",
+                    "item": "white Karo syrup"
+                },
+                {
+                    "item": "Optional: pecan or walnuts"
+                }
+            ]
+        },
+        {
+            "name": "Chocolate Zucchini Cake",
+            "url": "recipes/chocolate-zucchini-cake.html",
+            "ingredients": [
+                {
+                    "amount": 2,
+                    "unit": "cup",
+                    "item": "flour",
+                    "note": "sifted"
+                },
+                {
+                    "amount": 0.75,
+                    "unit": "cup",
+                    "item": "unsweetened natural cocoa powder"
+                },
+                {
+                    "amount": 2,
+                    "unit": "tsp",
+                    "item": "baking soda"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "tsp",
+                    "item": "baking powder"
+                },
+                {
+                    "amount": 1,
+                    "unit": "cup",
+                    "item": "olive or avocado oil"
+                },
+                {
+                    "amount": 1,
+                    "unit": "cup",
+                    "item": "sugar"
+                },
+                {
+                    "amount": 0.75,
+                    "unit": "cup",
+                    "item": "brown sugar",
+                    "note": "packed"
+                },
+                {
+                    "amount": 2,
+                    "unit": "tsp",
+                    "item": "vanilla extract"
+                },
+                {
+                    "amount": 0.3333333333333333,
+                    "unit": "cup",
+                    "item": "sour cream or plain vanilla yogurt"
+                },
+                {
+                    "amount": 4,
+                    "item": "eggs",
+                    "note": "room temperature"
+                },
+                {
+                    "amount": 3,
+                    "unit": "cup",
+                    "item": "zucchini",
+                    "note": "shredded and lightly squeezed"
+                },
+                {
+                    "amount": 1,
+                    "unit": "cup",
+                    "item": "semi-sweet chocolate chips"
+                }
+            ]
+        },
+        {
+            "name": "Chocolate Zucchini Muffins",
+            "url": "recipes/chocolate-zucchini-muffins.html",
+            "ingredients": [
+                {
+                    "amount": 2,
+                    "unit": "TBSP",
+                    "item": "flaxseed meal"
+                },
+                {
+                    "amount": 5,
+                    "unit": "TBSP",
+                    "item": "water"
+                },
+                {
+                    "amount": 0.25,
+                    "unit": "cup",
+                    "item": "applesauce"
+                },
+                {
+                    "amount": 0.25,
+                    "unit": "cup",
+                    "item": "maple or agave syrup"
+                },
+                {
+                    "amount": 0.3333333333333333,
+                    "unit": "cup",
+                    "item": "coconut sugar"
+                },
+                {
+                    "amount": 1.5,
+                    "unit": "tsp",
+                    "item": "baking soda"
+                },
+                {
+                    "amount": 1,
+                    "unit": "tsp",
+                    "item": "baking powder"
+                },
+                {
+                    "amount": 0.25,
+                    "unit": "tsp",
+                    "item": "sea salt"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "item": "unsweetened cocoa powder"
+                },
+                {
+                    "amount": 0.25,
+                    "unit": "cup",
+                    "item": "coconut oil",
+                    "note": "melted"
+                },
+                {
+                    "amount": 0.25,
+                    "unit": "cup",
+                    "item": "unsweetened almond milk"
+                },
+                {
+                    "amount": 1,
+                    "unit": "cup",
+                    "item": "zucchini",
+                    "note": "finely shredded and squeezed"
+                },
+                {
+                    "amount": 0.75,
+                    "unit": "cup",
+                    "item": "flour",
+                    "note": "sifted"
+                },
+                {
+                    "amount": 0.3333333333333333,
+                    "unit": "cup",
+                    "item": "oat flour"
+                },
+                {
+                    "amount": 0.3333333333333333,
+                    "unit": "cup",
+                    "item": "almond flour"
+                },
+                {
+                    "amount": 0.3333333333333333,
+                    "unit": "cup",
+                    "item": "semi-sweet chocolate chips"
+                }
+            ]
+        },
+        {
+            "name": "Red Velvet Cake",
+            "url": "recipes/red-velvet-cake.html",
+            "ingredients": [
+                {
+                    "item": "Cake:"
+                },
+                {
+                    "amount": 1.5,
+                    "unit": "cup",
+                    "item": "sugar"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "item": "Crisco"
+                },
+                {
+                    "amount": 2,
+                    "unit": "oz",
+                    "item": "red food coloring"
+                },
+                {
+                    "amount": 2,
+                    "item": "eggs",
+                    "note": "room temperature"
+                },
+                {
+                    "amount": 2,
+                    "unit": "cup",
+                    "item": "flour",
+                    "note": "sifted"
+                },
+                {
+                    "amount": 1,
+                    "unit": "tsp",
+                    "item": "salt"
+                },
+                {
+                    "amount": 2,
+                    "unit": "TBSP",
+                    "item": "unsweetened cocoa powder"
+                },
+                {
+                    "amount": 1,
+                    "unit": "cup",
+                    "item": "buttermilk"
+                },
+                {
+                    "amount": 1,
+                    "unit": "tsp",
+                    "item": "baking soda"
+                },
+                {
+                    "amount": 1,
+                    "unit": "TBSP",
+                    "item": "vanilla extract"
+                },
+                {
+                    "amount": 1,
+                    "unit": "TBSP",
+                    "item": "white vinegar"
+                },
+                {
+                    "item": "Frosting:"
+                },
+                {
+                    "amount": 1,
+                    "unit": "cup",
+                    "item": "milk"
+                },
+                {
+                    "amount": 1.5,
+                    "unit": "TBSP",
+                    "item": "cornstarch"
+                },
+                {
+                    "item": "pinch salt"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "item": "Crisco"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "item": "butter",
+                    "note": "softened"
+                },
+                {
+                    "amount": 0.6666666666666666,
+                    "unit": "cup",
+                    "item": "sugar"
+                },
+                {
+                    "amount": 1.6666666666666665,
+                    "unit": "cup",
+                    "item": "powdered sugar",
+                    "note": "divided"
+                },
+                {
+                    "amount": 1,
+                    "unit": "tsp",
+                    "item": "vanilla extract"
+                }
+            ]
+        },
+        {
+            "name": "Strawberry Banana Poke Cake",
+            "url": "recipes/strawberry-banana-poke-cake.html",
+            "ingredients": [
+                {
+                    "amount": 21.5,
+                    "unit": "oz",
+                    "item": "package all butter pound cake",
+                    "note": "cubed"
+                },
+                {
+                    "amount": 3,
+                    "unit": "oz",
+                    "item": "package strawberry Jell-o"
+                },
+                {
+                    "amount": 1,
+                    "item": "large container strawberries",
+                    "note": "sliced"
+                },
+                {
+                    "amount": 4,
+                    "item": "-5 bananas",
+                    "note": "sliced"
+                },
+                {
+                    "amount": 3.4,
+                    "unit": "oz",
+                    "item": "package vanilla pudding"
+                },
+                {
+                    "amount": 2,
+                    "unit": "cup",
+                    "item": "cold milk"
+                },
+                {
+                    "amount": 8,
+                    "unit": "oz",
+                    "item": "Cool Whip",
+                    "note": "thawed"
+                }
+            ]
+        },
+        {
+            "name": "Vegan Zucchini Muffins",
+            "url": "recipes/vegan-zucchini-muffins.html",
+            "ingredients": [
+                {
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "item": "avocado oil"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "item": "unsweetened almond milk"
+                },
+                {
+                    "amount": 0.6666666666666666,
+                    "unit": "cup",
+                    "item": "coconut sugar"
+                },
+                {
+                    "amount": 0.6666666666666666,
+                    "unit": "cup",
+                    "item": "maple or agave syrup"
+                },
+                {
+                    "amount": 2,
+                    "unit": "tsp",
+                    "item": "vanilla extract"
+                },
+                {
+                    "amount": 2,
+                    "unit": "cup",
+                    "item": "zucchini",
+                    "note": "shredded and squeezed"
+                },
+                {
+                    "amount": 3,
+                    "unit": "cup",
+                    "item": "almond flour"
+                },
+                {
+                    "amount": 1.3333333333333333,
+                    "unit": "cup",
+                    "item": "+ 1/2 cup flour",
+                    "note": "sifted"
+                },
+                {
+                    "amount": 4,
+                    "unit": "TBSP",
+                    "item": "flaxseed meal"
+                },
+                {
+                    "amount": 5,
+                    "unit": "tsp",
+                    "item": "baking powder"
+                },
+                {
+                    "amount": 1,
+                    "unit": "tsp",
+                    "item": "baking soda"
+                },
+                {
+                    "amount": 1,
+                    "unit": "TBSP",
+                    "item": "cinnamon"
+                },
+                {
+                    "amount": 1,
+                    "unit": "tsp",
+                    "item": "sea salt"
+                }
+            ]
+        }
+    ],
+    "Layered Dish": [
+        {
+            "name": "Banana Chessman Dessert",
+            "url": "recipes/banana-chessmen-dessert.html",
+            "ingredients": [
+                {
+                    "amount": 12,
+                    "unit": "oz",
+                    "item": "container Cool Whip",
+                    "note": "thawed"
+                },
+                {
+                    "amount": 14,
+                    "unit": "oz",
+                    "item": "sweetend condensed milk"
+                },
+                {
+                    "amount": 8,
+                    "unit": "oz",
+                    "item": "cream cheese",
+                    "note": "softened"
+                },
+                {
+                    "amount": 2,
+                    "item": "c milk"
+                },
+                {
+                    "amount": 5,
+                    "unit": "oz",
+                    "item": "French vanilla pudding mix"
+                },
+                {
+                    "amount": 6,
+                    "item": "-8 bananas",
+                    "note": "sliced"
+                },
+                {
+                    "amount": 48,
+                    "item": "Chessmen cookies"
+                }
+            ]
+        },
+        {
+            "name": "⭐ Peach Cobbler",
+            "url": "recipes/peach-cobbler.html",
+            "ingredients": [
+                {
+                    "amount": 15.25,
+                    "unit": "oz",
+                    "item": "package yellow cake mix"
+                },
+                {
+                    "amount": 30,
+                    "unit": "oz",
+                    "item": "can no sugar added sliced peaches",
+                    "note": "mostly drained"
+                },
+                {
+                    "amount": 24,
+                    "unit": "oz",
+                    "item": "Sprite or 7UP"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "item": "brown sugar",
+                    "note": "packed and divided"
+                },
+                {
+                    "item": "honey",
+                    "note": "to drizzle"
+                },
+                {
+                    "amount": 1,
+                    "unit": "tsp",
+                    "item": "cinnamon",
+                    "note": "divided"
+                },
+                {
+                    "item": "Optional: vanilla ice cream"
+                }
+            ]
+        },
+        {
+            "name": "Rhubarb Butter Crunch",
+            "url": "recipes/rhubarb-butter-crunch.html",
+            "ingredients": [
+                {
+                    "amount": 6,
+                    "unit": "cup",
+                    "item": "rhubarb",
+                    "note": "diced"
+                },
+                {
+                    "amount": 1,
+                    "unit": "cup",
+                    "item": "sugar"
+                },
+                {
+                    "amount": 2,
+                    "unit": "TBSP",
+                    "item": "flour"
+                },
+                {
+                    "amount": 1,
+                    "unit": "tsp",
+                    "item": "nutmeg"
+                },
+                {
+                    "amount": 4,
+                    "unit": "tsp",
+                    "item": "cinnamon"
+                },
+                {
+                    "item": "Crumble:"
+                },
+                {
+                    "amount": 1,
+                    "unit": "cup",
+                    "item": "brown sugar",
+                    "note": "packed"
+                },
+                {
+                    "amount": 1.25,
+                    "unit": "cup",
+                    "item": "flour",
+                    "note": "sifted"
+                },
+                {
+                    "amount": 1,
+                    "unit": "cup",
+                    "item": "old-fashioned oats"
+                },
+                {
+                    "amount": 0.75,
+                    "unit": "cup",
+                    "item": "butter",
+                    "note": "melted"
+                }
+            ]
+        },
+        {
+            "name": "Strawberry Rhubarb Crisp",
+            "url": "recipes/strawberry-rhubarb-crisp.html",
+            "ingredients": [
+                {
+                    "amount": 1,
+                    "unit": "cup",
+                    "item": "sugar"
+                },
+                {
+                    "amount": 3,
+                    "unit": "TBSP",
+                    "item": "oat flour"
+                },
+                {
+                    "amount": 3,
+                    "unit": "cup",
+                    "item": "strawberries",
+                    "note": "sliced"
+                },
+                {
+                    "amount": 3,
+                    "unit": "cup",
+                    "item": "rhubarb",
+                    "note": "diced"
+                },
+                {
+                    "item": "Topping:"
+                },
+                {
+                    "amount": 1.5,
+                    "unit": "cup",
+                    "item": "oat flour"
+                },
+                {
+                    "amount": 1,
+                    "unit": "cup",
+                    "item": "brown sugar",
+                    "note": "packed"
+                },
+                {
+                    "amount": 1,
+                    "unit": "cup",
+                    "item": "unsalted butter",
+                    "note": "cold and sliced"
+                },
+                {
+                    "amount": 1,
+                    "unit": "cup",
+                    "item": "quick oats"
+                },
+                {
+                    "item": "Optional: vanilla ice cream"
+                }
+            ]
+        }
+    ],
+    "Misc.": [
+        {
+            "name": "Caramel Corn",
+            "url": "recipes/caramel-corn-old-dutch-style.html",
+            "ingredients": [
+                {
+                    "amount": 1,
+                    "unit": "package",
+                    "item": "Old Dutch Puffcorn"
+                },
+                {
+                    "amount": 1,
+                    "unit": "cup",
+                    "item": "unsalted butter"
+                },
+                {
+                    "amount": 1.25,
+                    "unit": "cup",
+                    "item": "brown sugar",
+                    "note": "packed"
+                },
+                {
+                    "amount": 0.6666666666666666,
+                    "unit": "cup",
+                    "item": "light corn syrup"
+                },
+                {
+                    "amount": 1,
+                    "unit": "tsp",
+                    "item": "baking soda"
+                },
+                {
+                    "item": "Optional: chocolate chips",
+                    "note": "melted"
+                }
+            ]
+        },
+        {
+            "name": "Chocolate Buttercream Frosting",
+            "url": "recipes/chocolate-buttercream-frosting.html",
+            "ingredients": [
+                {
+                    "amount": 1.25,
+                    "unit": "cup",
+                    "item": "unsalted butter",
+                    "note": "room temperature"
+                },
+                {
+                    "amount": 3.5,
+                    "unit": "cup",
+                    "item": "powdered sugar"
+                },
+                {
+                    "amount": 3,
+                    "item": "-5 TBSP heavy whipping cream or milk",
+                    "note": "room temperature"
+                },
+                {
+                    "amount": 0.25,
+                    "unit": "tsp",
+                    "item": "salt"
+                },
+                {
+                    "amount": 1,
+                    "unit": "tsp",
+                    "item": "vanilla extract"
+                },
+                {
+                    "item": "Optional: semi-sweet chocolate chips for decoration"
+                }
+            ]
+        },
+        {
+            "name": "Chocolate Chip Cookies",
+            "url": "recipes/chocolate-chip-cookies-grandma-peggy.html",
+            "ingredients": [
+                {
+                    "amount": 1.5,
+                    "unit": "cup",
+                    "item": "butter",
+                    "note": "softened"
+                },
+                {
+                    "amount": 1.25,
+                    "unit": "cup",
+                    "item": "sugar"
+                },
+                {
+                    "amount": 1.25,
+                    "unit": "cup",
+                    "item": "brown sugar",
+                    "note": "packed"
+                },
+                {
+                    "amount": 2,
+                    "item": "eggs",
+                    "note": "room temperature"
+                },
+                {
+                    "amount": 1,
+                    "unit": "TBSP",
+                    "item": "vanilla extract"
+                },
+                {
+                    "amount": 4.5,
+                    "unit": "cup",
+                    "item": "flour",
+                    "note": "sifted"
+                },
+                {
+                    "amount": 1,
+                    "unit": "tsp",
+                    "item": "baking powder"
+                },
+                {
+                    "amount": 1,
+                    "unit": "tsp",
+                    "item": "baking soda"
+                },
+                {
+                    "amount": 1,
+                    "unit": "tsp",
+                    "item": "salt"
+                },
+                {
+                    "amount": 2,
+                    "unit": "cup",
+                    "item": "chocolate chips"
+                }
+            ]
+        },
+        {
+            "name": "Chocolate Peanut Butter Mousse - Keto",
+            "url": "recipes/chocolate-peanut-butter-mousse-keto.html",
+            "ingredients": [
+                {
+                    "amount": 4,
+                    "unit": "oz",
+                    "item": "cream cheese",
+                    "note": "softened"
+                },
+                {
+                    "amount": 3.5,
+                    "unit": "TBSP",
+                    "item": "Swerve confectioners sugar"
+                },
+                {
+                    "amount": 1,
+                    "unit": "TBSP",
+                    "item": "cocoa powder"
+                },
+                {
+                    "amount": 3,
+                    "unit": "TBSP",
+                    "item": "sugar-free peanut butter"
+                },
+                {
+                    "amount": 0.6666666666666666,
+                    "unit": "cup",
+                    "item": "heavy whipping cream"
+                }
+            ]
+        },
+        {
+            "name": "Cream Cheese Fluff - Keto",
+            "url": "recipes/cream-cheese-fluff-keto.html",
+            "ingredients": [
+                {
+                    "amount": 3,
+                    "unit": "oz",
+                    "item": "cream cheese",
+                    "note": "softened"
+                },
+                {
+                    "amount": 3,
+                    "unit": "TBSP",
+                    "item": "Swerve confectioners' sugar"
+                },
+                {
+                    "amount": 3,
+                    "unit": "TBSP",
+                    "item": "heavy whipping cream"
+                }
+            ]
+        },
+        {
+            "name": "Everything Bagel Seasoning",
+            "url": "recipes/everything-bagel-seasoning.html",
+            "ingredients": [
+                {
+                    "amount": 1,
+                    "unit": "TBSP",
+                    "item": "poppy seeds"
+                },
+                {
+                    "amount": 1,
+                    "unit": "TBSP",
+                    "item": "white sesame seeds"
+                },
+                {
+                    "amount": 1,
+                    "unit": "TBSP",
+                    "item": "black sesame seeds"
+                },
+                {
+                    "amount": 1.5,
+                    "unit": "TBSP",
+                    "item": "dried minced garlic"
+                },
+                {
+                    "amount": 1.5,
+                    "unit": "TBSP",
+                    "item": "dried minced onion"
+                },
+                {
+                    "amount": 2,
+                    "unit": "tsp",
+                    "item": "flaky sea salt"
+                }
+            ]
+        },
+        {
+            "name": "Monkey Bread",
+            "url": "recipes/monkey-bread.html",
+            "ingredients": [
+                {
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "item": "sugar"
+                },
+                {
+                    "amount": 1,
+                    "unit": "tsp",
+                    "item": "cinnamon"
+                },
+                {
+                    "amount": 2,
+                    "unit": "can",
+                    "item": "Pilsbury Grands Homestyle Buttermilk Biscuits"
+                },
+                {
+                    "amount": 1,
+                    "unit": "cup",
+                    "item": "light brown sugar",
+                    "note": "packed"
+                },
+                {
+                    "amount": 0.75,
+                    "unit": "cup",
+                    "item": "unsalted butter",
+                    "note": "melted"
+                }
+            ]
+        },
+        {
+            "name": "Monster Cookies",
+            "url": "recipes/monster-cookie.html",
+            "ingredients": [
+                {
+                    "amount": 3,
+                    "item": "eggs",
+                    "note": "room temperature"
+                },
+                {
+                    "amount": 1.25,
+                    "unit": "cup",
+                    "item": "light brown sugar",
+                    "note": "packed"
+                },
+                {
+                    "amount": 1,
+                    "unit": "cup",
+                    "item": "sugar"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "tsp",
+                    "item": "salt"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "tsp",
+                    "item": "vanilla extract"
+                },
+                {
+                    "amount": 12,
+                    "unit": "oz",
+                    "item": "jar creamy peanut butter"
+                },
+                {
+                    "amount": 1,
+                    "unit": "stick",
+                    "item": "unsalted butter",
+                    "note": "softened"
+                },
+                {
+                    "amount": 4.5,
+                    "unit": "cup",
+                    "item": "old-fashioned oats"
+                },
+                {
+                    "amount": 2,
+                    "unit": "tsp",
+                    "item": "baking soda"
+                },
+                {
+                    "amount": 1,
+                    "unit": "cup",
+                    "item": "M&M's"
+                }
+            ]
+        },
+        {
+            "name": "Neiman Marcus Cookies",
+            "url": "recipes/neiman-marcus-cookies.html",
+            "ingredients": [
+                {
+                    "amount": 4,
+                    "unit": "cup",
+                    "item": "flour",
+                    "note": "sifted"
+                },
+                {
+                    "amount": 2,
+                    "unit": "tsp",
+                    "item": "baking soda"
+                },
+                {
+                    "amount": 2,
+                    "unit": "tsp",
+                    "item": "baking powder"
+                },
+                {
+                    "amount": 5,
+                    "unit": "cup",
+                    "item": "quick oats"
+                },
+                {
+                    "amount": 2,
+                    "unit": "cup",
+                    "item": "sugar"
+                },
+                {
+                    "amount": 2,
+                    "unit": "cup",
+                    "item": "unsalted butter",
+                    "note": "softened"
+                },
+                {
+                    "amount": 2,
+                    "unit": "cup",
+                    "item": "light brown sugar",
+                    "note": "packed"
+                },
+                {
+                    "amount": 1,
+                    "unit": "tsp",
+                    "item": "salt"
+                },
+                {
+                    "amount": 4,
+                    "item": "eggs",
+                    "note": "room temperature"
+                },
+                {
+                    "amount": 2,
+                    "unit": "tsp",
+                    "item": "vanilla extract"
+                },
+                {
+                    "amount": 24,
+                    "unit": "oz",
+                    "item": "milk chocolate chips"
+                },
+                {
+                    "amount": 8,
+                    "unit": "oz",
+                    "item": "Hershey's bar",
+                    "note": "grated"
+                }
+            ]
+        },
+        {
+            "name": "Oreo Fluff",
+            "url": "recipes/oreo-fluff.html",
+            "ingredients": [
+                {
+                    "amount": 4,
+                    "unit": "oz",
+                    "item": "cream cheese",
+                    "note": "softened"
+                },
+                {
+                    "amount": 1.5,
+                    "unit": "cup",
+                    "item": "milk"
+                },
+                {
+                    "amount": 3.4,
+                    "unit": "oz",
+                    "item": "package instant vanilla pudding"
+                },
+                {
+                    "amount": 24,
+                    "item": "Oreos",
+                    "note": "crushed"
+                },
+                {
+                    "amount": 16,
+                    "unit": "oz",
+                    "item": "Cool Whip"
+                }
+            ]
+        },
+        {
+            "name": "Oreo Fluff - Keto",
+            "url": "recipes/oreo-fluff-keto.html",
+            "ingredients": [
+                {
+                    "amount": 8,
+                    "unit": "oz",
+                    "item": "sugar-free Cool Whip"
+                },
+                {
+                    "amount": 4,
+                    "unit": "oz",
+                    "item": "sugar-free instant vanilla pudding"
+                },
+                {
+                    "amount": 2,
+                    "unit": "oz",
+                    "item": "HighKey Double Chocolate Brownie Cookies",
+                    "note": "chopped"
+                }
+            ]
+        },
+        {
+            "name": "Peanut Butter Cups",
+            "url": "recipes/peanut-butter-cups.html",
+            "ingredients": [
+                {
+                    "amount": 1,
+                    "unit": "cup",
+                    "item": "chocolate chips"
+                },
+                {
+                    "amount": 1,
+                    "unit": "TBSP",
+                    "item": "coconut oil",
+                    "note": "melted"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "item": "peanut butter"
+                },
+                {
+                    "amount": 0.25,
+                    "unit": "cup",
+                    "item": "honey"
+                },
+                {
+                    "amount": 2,
+                    "unit": "TBSP",
+                    "item": "coconut oil",
+                    "note": "melted"
+                },
+                {
+                    "item": "pinch of sea salt",
+                    "note": "optional"
+                }
+            ]
+        },
+        {
+            "name": "Peanut Butter Frosting",
+            "url": "recipes/peanut-butter-frosting.html",
+            "ingredients": [
+                {
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "item": "chunky or creamy peanut butter"
+                },
+                {
+                    "amount": 3,
+                    "unit": "TBSP",
+                    "item": "butter",
+                    "note": "softened"
+                },
+                {
+                    "amount": 2.5,
+                    "unit": "cup",
+                    "item": "powdered sugar"
+                },
+                {
+                    "amount": 0.25,
+                    "unit": "cup",
+                    "item": "milk"
+                },
+                {
+                    "amount": 2,
+                    "unit": "tsp",
+                    "item": "vanilla extract"
+                }
+            ]
+        }
+    ]
+}

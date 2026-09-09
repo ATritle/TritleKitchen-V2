@@ -1,0 +1,153 @@
+{
+    "Alcoholic": [
+        {
+            "name": "Apple Cider Honey Whiskey",
+            "url": "recipes/apple-cider-honey-whiskey.html",
+            "ingredients": [
+                {
+                    "amount": 6,
+                    "unit": "cup",
+                    "item": "apple cider"
+                },
+                {
+                    "amount": 2,
+                    "unit": "cup",
+                    "item": "honey whiskey"
+                },
+                {
+                    "amount": 3,
+                    "item": "cinnamon sticks"
+                },
+                {
+                    "amount": 2,
+                    "item": "lemons",
+                    "note": "juiced"
+                },
+                {
+                    "amount": 1,
+                    "item": "-2 TBSP honey"
+                },
+                {
+                    "amount": 2,
+                    "item": "apples",
+                    "note": "sliced thick"
+                }
+            ]
+        },
+        {
+            "name": "Peach Pie Mooneshine",
+            "url": "recipes/peach-pie-moonshine.html",
+            "ingredients": [
+                {
+                    "amount": 128,
+                    "unit": "oz",
+                    "item": "Welch's white grape peach juice"
+                },
+                {
+                    "amount": 15,
+                    "unit": "oz",
+                    "item": "can sliced peaches",
+                    "note": "heavy syrup"
+                },
+                {
+                    "amount": 15,
+                    "unit": "oz",
+                    "item": "can sugar-free sliced peaches"
+                },
+                {
+                    "amount": 6,
+                    "item": "-7 cinnamon sticks"
+                },
+                {
+                    "amount": 750,
+                    "item": "ml peach schnapps"
+                },
+                {
+                    "amount": 375,
+                    "item": "ml Everclear"
+                },
+                {
+                    "amount": 1.5,
+                    "unit": "cup",
+                    "item": "sugar"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "item": "brown sugar",
+                    "note": "packed"
+                }
+            ]
+        }
+    ],
+    "Shots": [
+        {
+            "name": "Chocolate Pudding Shots",
+            "url": "recipes/chocolate-pudding-shots.html",
+            "ingredients": [
+                {
+                    "amount": 3.9,
+                    "unit": "oz",
+                    "item": "package chocolate pudding"
+                },
+                {
+                    "amount": 0.75,
+                    "unit": "cup",
+                    "item": "milk"
+                },
+                {
+                    "amount": 0.25,
+                    "unit": "cup",
+                    "item": "cake vodka"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "item": "Irish cream"
+                },
+                {
+                    "amount": 8,
+                    "unit": "oz",
+                    "item": "Cool Whip",
+                    "note": "thawed"
+                },
+                {
+                    "amount": 2,
+                    "unit": "oz",
+                    "item": "plastic cups with lids"
+                }
+            ]
+        },
+        {
+            "name": "RumChata Pudding Shots",
+            "url": "recipes/rumchata-pudding-shots.html",
+            "ingredients": [
+                {
+                    "amount": 3.4,
+                    "unit": "oz",
+                    "item": "package vanilla pudding"
+                },
+                {
+                    "amount": 1,
+                    "unit": "cup",
+                    "item": "milk"
+                },
+                {
+                    "amount": 1,
+                    "unit": "cup",
+                    "item": "RumChata"
+                },
+                {
+                    "amount": 8,
+                    "unit": "oz",
+                    "item": "Cool Whip",
+                    "note": "thawed"
+                },
+                {
+                    "amount": 2,
+                    "item": "-4 dashes cinnamon"
+                }
+            ]
+        }
+    ]
+}
