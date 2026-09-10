@@ -2823,14 +2823,14 @@ body {
     display: grid !important;
     grid-template-columns: 0.82fr 1.18fr !important;
     gap: 0.16in !important;
-    align-items: stretch !important;
-    overflow: hidden !important;
+    align-items: start !important;
+    overflow: visible !important;
   }
 
   .recipe-panel {
     box-sizing: border-box;
     min-height: 0 !important;
-    height: 100% !important;
+    height: auto !important;
     padding: 0.12in !important;
     border: 1px solid #c8cfca !important;
     border-radius: 0.12in !important;
