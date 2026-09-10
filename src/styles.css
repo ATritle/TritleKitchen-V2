@@ -2708,7 +2708,7 @@ body {
    ============================================================ */
 @page {
   size: Letter portrait;
-  margin: 0.28in;
+  margin: 0.35in;
 }
 
 @media print {
@@ -2734,12 +2734,12 @@ body {
   .recipe-page-v2 {
     box-sizing: border-box;
     width: 100% !important;
-    height: 10.38in !important;
-    max-height: 10.38in !important;
+    height: 10.30in !important;
+    max-height: 10.30in !important;
     margin: 0 !important;
     padding: 0 !important;
     display: grid !important;
-    grid-template-columns: 36% 64%;
+    grid-template-columns: 36% minmax(0, 1fr);
     grid-template-rows: 2.18in 1fr;
     column-gap: 0.18in;
     row-gap: 0.16in;
