@@ -1195,6 +1195,45 @@
       ]
     },
     {
+      "name": "Test Recipe",
+      "url": "recipes/test-recipe.html",
+      "ingredients": [
+        {
+          "amount": 2,
+          "unit": "LB",
+          "item": "Chicken Thighs",
+          "note": "boneless and skinless"
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "rice",
+          "note": "jasmin, rinsed and cooked"
+        },
+        {
+          "amount": 1,
+          "unit": "TBSP",
+          "item": "garlic powder"
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "salt"
+        },
+        {
+          "amount": 2,
+          "unit": "each",
+          "item": "bacon"
+        }
+      ],
+      "directions": [
+        "this is the first step",
+        "this is the second step",
+        "this is the third step"
+      ],
+      "subtitle": "This is where the subtitle goes"
+    },
+    {
       "name": "Turkey Tender Marinade",
       "url": "recipes/turkey-tender-marinade.html",
       "ingredients": [
