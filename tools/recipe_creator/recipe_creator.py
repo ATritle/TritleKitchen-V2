@@ -24,6 +24,7 @@ from PyQt6.QtWidgets import (
     QListWidget,
     QListWidgetItem,
     QMainWindow,
+    QInputDialog,
     QMessageBox,
     QPushButton,
     QScrollArea,
@@ -233,6 +234,7 @@ class RecipeCreator(QMainWindow):
         self.settings = QSettings("TritleKitchen", "RecipeCreator")
         self.project_root = self._load_initial_project()
         self.image_source: Path | None = None
+        self.unit_options: list[str] = ["each"]
         self.logo_path = app_dir() / "assets" / "tritlekitchenlogo.png"
 
         self.setWindowTitle(APP_NAME)
@@ -243,6 +245,7 @@ class RecipeCreator(QMainWindow):
         self.setStyleSheet(STYLESHEET)
 
         self._build_ui()
+        self._refresh_units()
         self._refresh_subcategories()
         self._update_project_status()
 
@@ -342,12 +345,26 @@ class RecipeCreator(QMainWindow):
         self.category_combo.currentTextChanged.connect(self._refresh_subcategories)
         form.addRow("Category *", self.category_combo)
 
+        # Use the same standard dropdown behavior as Category.  A separate
+        # New… button provides the override path when a brand-new sub-category
+        # is needed.
         self.subcategory_combo = QComboBox()
-        self.subcategory_combo.setEditable(True)
-        self.subcategory_combo.setInsertPolicy(QComboBox.InsertPolicy.NoInsert)
-        self.subcategory_combo.lineEdit().setPlaceholderText("Choose or type a sub-category")
+        self.subcategory_combo.setToolTip(
+            "Choose an existing sub-category from the list, or click New… to create a new one."
+        )
         self.subcategory_combo.currentTextChanged.connect(lambda _x: self._update_preview_header())
-        form.addRow("Sub-Category *", self.subcategory_combo)
+
+        subcategory_row = QWidget()
+        subcategory_layout = QHBoxLayout(subcategory_row)
+        subcategory_layout.setContentsMargins(0, 0, 0, 0)
+        subcategory_layout.setSpacing(6)
+        subcategory_layout.addWidget(self.subcategory_combo, 1)
+        new_subcategory_btn = QPushButton("New…")
+        new_subcategory_btn.setObjectName("orange")
+        new_subcategory_btn.setToolTip("Create/use a new sub-category for this recipe.")
+        new_subcategory_btn.clicked.connect(self.new_subcategory)
+        subcategory_layout.addWidget(new_subcategory_btn)
+        form.addRow("Sub-Category *", subcategory_row)
 
         self.slug_label = QLabel("—")
         self.slug_label.setStyleSheet(f"color:{MUTED}; font-family:Consolas,monospace;")
@@ -377,12 +394,19 @@ class RecipeCreator(QMainWindow):
         layout.addWidget(image_group, 1)
 
         ingredients_group = QGroupBox("Ingredients")
+        # Give the ingredients editor substantially more vertical room so a
+        # normal recipe can be entered without the table collapsing to only
+        # one or two visible rows. The table will still scroll internally for
+        # very long ingredient lists.
+        ingredients_group.setMinimumHeight(455)
         ing_layout = QVBoxLayout(ingredients_group)
         self.ingredients = QTableWidget(0, 4)
         self.ingredients.setHorizontalHeaderLabels(["Amount", "Unit", "Ingredient *", "Note"])
         self.ingredients.horizontalHeader().setStretchLastSection(True)
+        self.ingredients.verticalHeader().setDefaultSectionSize(34)
+        self.ingredients.setMinimumHeight(370)
         self.ingredients.setColumnWidth(0, 100)
-        self.ingredients.setColumnWidth(1, 105)
+        self.ingredients.setColumnWidth(1, 125)
         self.ingredients.setColumnWidth(2, 260)
         self.ingredients.setAlternatingRowColors(True)
         ing_layout.addWidget(self.ingredients, 1)
@@ -466,6 +490,30 @@ class RecipeCreator(QMainWindow):
         scroll.setWidget(content)
         return scroll
 
+    def new_subcategory(self) -> None:
+        text, accepted = QInputDialog.getText(
+            self,
+            "New Sub-Category",
+            "Enter the new sub-category name:",
+            text=self.subcategory_combo.currentText().strip(),
+        )
+        if not accepted:
+            return
+        text = text.strip()
+        if not text:
+            QMessageBox.warning(self, "Invalid Sub-Category", "Enter a sub-category name.")
+            return
+
+        # Add the new value to the dropdown immediately so it behaves exactly
+        # like a normal selection for the rest of this recipe entry.  Saving
+        # the recipe will create the new JSON sub-category when needed.
+        existing_index = self.subcategory_combo.findText(text, Qt.MatchFlag.MatchFixedString)
+        if existing_index < 0:
+            self.subcategory_combo.addItem(text)
+            existing_index = self.subcategory_combo.findText(text, Qt.MatchFlag.MatchFixedString)
+        self.subcategory_combo.setCurrentIndex(existing_index)
+        self._update_preview_header()
+
     # ----------------------------- Project -----------------------------
     def _load_initial_project(self) -> Path | None:
         saved = self.settings.value("project_root", "", str)
@@ -494,6 +542,7 @@ class RecipeCreator(QMainWindow):
             return
         self.project_root = path
         self.settings.setValue("project_root", str(path))
+        self._refresh_units()
         self._refresh_subcategories()
         self._update_project_status()
 
@@ -523,6 +572,36 @@ class RecipeCreator(QMainWindow):
                     if isinstance(recipe, dict):
                         records.append((category, str(subcategory), recipe))
         return records
+
+    def _refresh_units(self) -> None:
+        """Load the unique ingredient units already used by the project."""
+        units: set[str] = set()
+        try:
+            if self.project_root:
+                for category in CATEGORIES:
+                    path = self._category_path(category)
+                    if not path.exists():
+                        continue
+                    data = read_json(path)
+                    for recipes in data.values():
+                        if not isinstance(recipes, list):
+                            continue
+                        for recipe in recipes:
+                            if not isinstance(recipe, dict):
+                                continue
+                            for ingredient in recipe.get("ingredients", []):
+                                if not isinstance(ingredient, dict):
+                                    continue
+                                unit = str(ingredient.get("unit", "")).strip()
+                                if unit:
+                                    units.add(unit)
+        except Exception:
+            # Keep the app usable even if a project JSON file is temporarily
+            # unavailable or malformed.
+            pass
+
+        units.add("each")
+        self.unit_options = sorted(units, key=str.casefold)
 
     def _refresh_subcategories(self) -> None:
         current = self.subcategory_combo.currentText() if hasattr(self, "subcategory_combo") else ""
@@ -562,11 +641,32 @@ class RecipeCreator(QMainWindow):
         row = self.ingredients.rowCount()
         self.ingredients.insertRow(row)
         self.ingredients.setItem(row, 0, QTableWidgetItem(""))
-        self.ingredients.setItem(row, 1, QTableWidgetItem("each"))
+
+        # Use a real dropdown for units, populated from the units already
+        # used throughout the Tritle Kitchen recipe JSON files.
+        unit_combo = self._make_unit_combo()
+        self.ingredients.setCellWidget(row, 1, unit_combo)
+
         self.ingredients.setItem(row, 2, QTableWidgetItem(""))
         self.ingredients.setItem(row, 3, QTableWidgetItem(""))
         self.ingredients.setCurrentCell(row, 2)
         self.ingredients.editItem(self.ingredients.item(row, 2))
+
+    def _make_unit_combo(self, current: str = "each") -> QComboBox:
+        combo = QComboBox()
+        combo.addItems(self.unit_options)
+        if current and combo.findText(current, Qt.MatchFlag.MatchFixedString) < 0:
+            combo.addItem(current)
+        index = combo.findText(current, Qt.MatchFlag.MatchFixedString)
+        combo.setCurrentIndex(index if index >= 0 else 0)
+        combo.setToolTip("Choose a unit already used in your Tritle Kitchen recipes.")
+        return combo
+
+    def _unit_cell(self, row: int) -> str:
+        widget = self.ingredients.cellWidget(row, 1)
+        if isinstance(widget, QComboBox):
+            return widget.currentText().strip()
+        return self._cell(row, 1)
 
     def remove_ingredient(self) -> None:
         row = self.ingredients.currentRow()
@@ -578,18 +678,34 @@ class RecipeCreator(QMainWindow):
         target = row + delta
         if row < 0 or target < 0 or target >= self.ingredients.rowCount():
             return
-        values = [self.ingredients.item(row, col).text() if self.ingredients.item(row, col) else "" for col in range(4)]
-        target_values = [self.ingredients.item(target, col).text() if self.ingredients.item(target, col) else "" for col in range(4)]
-        for col in range(4):
-            self.ingredients.setItem(row, col, QTableWidgetItem(target_values[col]))
-            self.ingredients.setItem(target, col, QTableWidgetItem(values[col]))
+
+        values = [
+            self._cell(row, 0),
+            self._unit_cell(row),
+            self._cell(row, 2),
+            self._cell(row, 3),
+        ]
+        target_values = [
+            self._cell(target, 0),
+            self._unit_cell(target),
+            self._cell(target, 2),
+            self._cell(target, 3),
+        ]
+
+        for source_row, row_values in ((row, target_values), (target, values)):
+            self.ingredients.setItem(source_row, 0, QTableWidgetItem(row_values[0]))
+            self.ingredients.removeCellWidget(source_row, 1)
+            self.ingredients.setCellWidget(source_row, 1, self._make_unit_combo(row_values[1]))
+            self.ingredients.setItem(source_row, 2, QTableWidgetItem(row_values[2]))
+            self.ingredients.setItem(source_row, 3, QTableWidgetItem(row_values[3]))
+
         self.ingredients.setCurrentCell(target, 2)
 
     def collect_ingredients(self) -> list[dict]:
         ingredients: list[dict] = []
         for row in range(self.ingredients.rowCount()):
             amount = self._cell(row, 0)
-            unit = self._cell(row, 1)
+            unit = self._unit_cell(row)
             item = self._cell(row, 2)
             note = self._cell(row, 3)
             if not any([amount, unit, item, note]):
