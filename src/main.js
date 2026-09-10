@@ -131,7 +131,10 @@ function renderHome() {
       .pop()
       .replace(/\.html$/i, '');
 
-    return `assets/recipes/${slug}.jpg`;
+    return {
+      jpg: `assets/recipes/${slug}.jpg`,
+      png: `assets/recipes/${slug}.png`,
+    };
   };
 
   const render = () => {
@@ -200,7 +203,10 @@ function renderHome() {
         <div class="recipe-card-image-wrap">
           <img
             class="recipe-card-image"
-            src="${imageFor(r)}"
+            src="${imageFor(r).jpg}"
+            data-image-jpg="${imageFor(r).jpg}"
+            data-image-png="${imageFor(r).png}"
+            data-image-index="0"
             alt=""
             loading="lazy"
           >
@@ -228,9 +234,17 @@ function renderHome() {
 
     $$('.recipe-card-image', $('#results')).forEach(img => {
       img.addEventListener('error', () => {
+        const currentIndex = Number(img.dataset.imageIndex || '0');
+
+        if (currentIndex === 0 && img.dataset.imagePng) {
+          img.dataset.imageIndex = '1';
+          img.src = img.dataset.imagePng;
+          return;
+        }
+
         img.classList.add('image-missing');
         img.removeAttribute('src');
-      }, { once: true });
+      });
     });
   };
 
