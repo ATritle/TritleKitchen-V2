@@ -2744,8 +2744,8 @@ body {
     column-gap: 0.18in;
     row-gap: 0.16in;
     overflow: hidden !important;
-    page-break-after: avoid !important;
-    break-after: page;
+    page-break-after: auto !important;
+    break-after: avoid-page !important;
   }
 
   .recipe-intro {
@@ -3101,5 +3101,63 @@ body {
   body.mobile-recipe-print .recipe-page-v2 a,
   body.mobile-recipe-print .recipe-page-v2 button {
     display: none !important;
+  }
+}
+
+
+/* ============================================================
+   MOBILE PORTRAIT HEADER
+   Keep navigation below the logo so both links remain visible.
+   ============================================================ */
+@media (max-width: 700px) and (orientation: portrait) {
+  .topbar {
+    min-height: auto !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+    align-items: center !important;
+    gap: 4px !important;
+    padding: 7px 14px 9px !important;
+  }
+
+  .brand {
+    display: block !important;
+    flex: 0 0 auto !important;
+  }
+
+  .brand img {
+    height: 64px !important;
+    max-width: 82vw !important;
+  }
+
+  .nav {
+    display: flex !important;
+    width: 100% !important;
+    justify-content: center !important;
+    align-items: center !important;
+    gap: 8px !important;
+  }
+
+  .nav a {
+    padding: 7px 12px !important;
+    white-space: nowrap !important;
+    font-size: .88rem !important;
+  }
+}
+
+/* On very narrow phones, keep the two navigation links comfortably
+   inside the viewport without changing the desktop/tablet layout. */
+@media (max-width: 430px) and (orientation: portrait) {
+  .brand img {
+    height: 58px !important;
+    max-width: 78vw !important;
+  }
+
+  .nav {
+    gap: 4px !important;
+  }
+
+  .nav a {
+    padding: 7px 9px !important;
+    font-size: .82rem !important;
   }
 }
