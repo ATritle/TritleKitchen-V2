@@ -3058,6 +3058,12 @@ body {
     display: none !important;
   }
 
+  /* Hide the legacy ingredient bullet pseudo-element as well. */
+  body.mobile-recipe-print .ingredient-item::before {
+    display: none !important;
+    content: none !important;
+  }
+
   body.mobile-recipe-print .direction-list-v2 .direction-item {
     display: grid !important;
     grid-template-columns: 0.20in minmax(0, 1fr) !important;
