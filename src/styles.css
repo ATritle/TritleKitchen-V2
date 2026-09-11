@@ -2926,3 +2926,174 @@ body {
     color: #555555 !important;
   }
 }
+
+/* ============================================================
+   MOBILE PRINT / SAVE PDF — COMPACT RECIPE CARD
+   Matches the classic Tritle Kitchen recipe-card style.
+   The mobile print class is added by main.js before printing.
+   ============================================================ */
+@media print {
+  body.mobile-recipe-print {
+    --mobile-card-text: #222222;
+  }
+
+  body.mobile-recipe-print .recipe-page-v2 {
+    box-sizing: border-box;
+    width: 100% !important;
+    height: auto !important;
+    max-height: none !important;
+    min-height: 0 !important;
+    margin: 0 !important;
+    padding: 0 0.08in !important;
+    display: block !important;
+    overflow: visible !important;
+    background: #ffffff !important;
+    color: var(--mobile-card-text) !important;
+  }
+
+  body.mobile-recipe-print .recipe-intro {
+    width: 100% !important;
+    margin: 0 0 0.08in !important;
+    padding: 0 0 0.06in !important;
+    text-align: center !important;
+    border-bottom: 1px solid #777777 !important;
+  }
+
+  body.mobile-recipe-print .recipe-breadcrumb,
+  body.mobile-recipe-print .recipe-subtitle-v2 {
+    display: none !important;
+  }
+
+  body.mobile-recipe-print .recipe-intro h1 {
+    margin: 0 !important;
+    font-family: Arial, Helvetica, sans-serif !important;
+    font-size: 17pt !important;
+    line-height: 1.05 !important;
+    font-weight: 700 !important;
+    letter-spacing: 0.18em !important;
+    text-transform: uppercase !important;
+    color: #222222 !important;
+  }
+
+  /* The phone version is intentionally image-free so more recipe content
+     fits on a single compact card, matching the original site style. */
+  body.mobile-recipe-print .recipe-photo-frame {
+    display: none !important;
+  }
+
+  body.mobile-recipe-print .recipe-content-grid {
+    width: 100% !important;
+    display: grid !important;
+    grid-template-columns: 0.40fr 0.60fr !important;
+    gap: 0 !important;
+    align-items: start !important;
+    min-height: 0 !important;
+    margin: 0 !important;
+  }
+
+  body.mobile-recipe-print .recipe-panel {
+    box-sizing: border-box;
+    min-height: 0 !important;
+    height: auto !important;
+    margin: 0 !important;
+    padding: 0 0.10in 0 0 !important;
+    border: 0 !important;
+    border-radius: 0 !important;
+    background: #ffffff !important;
+    box-shadow: none !important;
+    overflow: visible !important;
+  }
+
+  body.mobile-recipe-print .directions-panel {
+    padding: 0 0 0 0.10in !important;
+    border-left: 1px solid #777777 !important;
+  }
+
+  body.mobile-recipe-print .panel-heading {
+    position: static !important;
+    margin: 0 0 0.07in !important;
+    padding: 0 !important;
+    background: #ffffff !important;
+    border: 0 !important;
+    border-radius: 0 !important;
+  }
+
+  body.mobile-recipe-print .section-kicker {
+    display: none !important;
+  }
+
+  body.mobile-recipe-print .panel-heading h2 {
+    margin: 0 !important;
+    font-family: Georgia, 'Times New Roman', serif !important;
+    font-size: 13pt !important;
+    line-height: 1.1 !important;
+    font-style: italic !important;
+    font-weight: 700 !important;
+    letter-spacing: 0.04em !important;
+    color: #222222 !important;
+  }
+
+  body.mobile-recipe-print .panel-count {
+    display: none !important;
+  }
+
+  body.mobile-recipe-print .ingredient-list-v2,
+  body.mobile-recipe-print .direction-list-v2 {
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  body.mobile-recipe-print .ingredient-list-v2 .ingredient-item {
+    display: block !important;
+    margin: 0 !important;
+    padding: 0 0 0.055in !important;
+    border: 0 !important;
+    font-family: Arial, Helvetica, sans-serif !important;
+    font-size: 8.5pt !important;
+    line-height: 1.13 !important;
+    color: #222222 !important;
+  }
+
+  body.mobile-recipe-print .ingredient-dot {
+    display: none !important;
+  }
+
+  body.mobile-recipe-print .direction-list-v2 .direction-item {
+    display: grid !important;
+    grid-template-columns: 0.20in minmax(0, 1fr) !important;
+    gap: 0.06in !important;
+    margin: 0 !important;
+    padding: 0 0 0.055in !important;
+    border: 0 !important;
+    break-inside: avoid !important;
+    page-break-inside: avoid !important;
+  }
+
+  body.mobile-recipe-print .direction-number {
+    width: 0.20in !important;
+    height: 0.20in !important;
+    min-width: 0.20in !important;
+    font-family: Arial, Helvetica, sans-serif !important;
+    font-size: 6.5pt !important;
+    background: transparent !important;
+    color: #777777 !important;
+  }
+
+  body.mobile-recipe-print .direction-text {
+    padding-top: 0 !important;
+    font-family: Arial, Helvetica, sans-serif !important;
+    font-size: 8.5pt !important;
+    line-height: 1.13 !important;
+    color: #222222 !important;
+  }
+
+  body.mobile-recipe-print .empty-message {
+    font-size: 8.5pt !important;
+    color: #555555 !important;
+  }
+
+  body.mobile-recipe-print .recipe-page-v2 a,
+  body.mobile-recipe-print .recipe-page-v2 button {
+    display: none !important;
+  }
+}

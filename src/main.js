@@ -478,7 +478,28 @@ function renderRecipe(recipe) {
     renderRecipe(recipe);
   });
 
-  $('#printRecipe')?.addEventListener('click', () => window.print());
+  const printButton = $('#printRecipe');
+  const mobilePrintQuery = window.matchMedia('(max-width: 700px)');
+
+  const updatePrintButtonLabel = () => {
+    if (!printButton) return;
+    printButton.textContent = mobilePrintQuery.matches
+      ? '💾 Save Recipe PDF'
+      : '🖨 Print / Save PDF';
+  };
+
+  updatePrintButtonLabel();
+  mobilePrintQuery.addEventListener?.('change', updatePrintButtonLabel);
+
+  printButton?.addEventListener('click', () => {
+    const isMobile = mobilePrintQuery.matches;
+    document.body.classList.toggle('mobile-recipe-print', isMobile);
+    window.print();
+  });
+
+  window.addEventListener('afterprint', () => {
+    document.body.classList.remove('mobile-recipe-print');
+  }, { once: false });
 
   $('#copyRecipeLink')?.addEventListener('click', async (event) => {
     const button = event.currentTarget;
